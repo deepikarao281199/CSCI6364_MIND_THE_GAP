@@ -1,0 +1,9 @@
+,hospital_id,hospital_name,hospital_type,address,ward,latitude,longitude
+0,hospital_001,George Washington University Hospital,General Acute Care,900 23rd Street NW,2,38.9013767,-77.0506159
+1,hospital_002,Howard University Hospital,General Acute Care,2041 Georgia Avenue NW,1,38.9178339,-77.0201005
+2,hospital_003,MedStar Georgetown Hospital,General Acute Care,3800 Reservoir Road NW,2,38.9111765,-77.0738137
+3,hospital_004,MedStar Washington Hospital Center,General Acute Care,110 Irving Street NW,5,38.9296519,-77.0156483
+4,hospital_005,Providence Hospital,General Acute Care,1150 Varnum Street NE,5,38.9445417,-76.9934058
+5,hospital_006,Sibley Memorial Hospital,General Acute Care,5255 Loughboro Road NW,3,38.9367698,-77.1088795
+6,hospital_007,United Medical Center,General Acute Care,1310 Southern Avenue SE,8,38.8358759,-76.9849375
+7,hospital_008,Children's National Medical Center,Pediatric,111 Michigan Avenue NW,5,38.927021,-77.0139788
