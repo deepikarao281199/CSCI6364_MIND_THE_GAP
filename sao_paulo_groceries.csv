@@ -1,0 +1,1840 @@
+osm_id,osm_type,name,shop,operator,brand,addr_street,phone,opening_hours,latitude,longitude
+468410592,node,Hipermercado Zaffari,supermarket,,,,,,-23.5270296,-46.6806689
+491895198,node,Rycoy Supermercado,supermarket,,,,,,-23.6525319,-46.7337329
+552899310,node,Sonda Hipermercado,supermarket,,,,,,-23.5252608,-46.5467876
+599006044,node,Carrefour Express,convenience,,Carrefour Express,,,,-23.5530529,-46.6349356
+631974244,node,Mercadinho,supermarket,,,,,,-23.5524103,-46.6275785
+736952998,node,Sacolão Saúde,supermarket,,,,,,-23.5369328,-46.65159
+736953003,node,Amreicanas Express,convenience,,,,,Mo-Sa 09:00-19:00; Su 09:00-17:00,-23.5394139,-46.6502864
+745730426,node,Dia,supermarket,,Dia,,,,-23.5402673,-46.6506528
+745741473,node,Mercado Extra,supermarket,,Mercado Extra,,,,-23.5438102,-46.5575259
+745741488,node,Pomar da Vila,greengrocer,,,Avenida Celso Garcia,+55 11 2296 4789,Mo-Sa 07:00-21:00:Su 18:00-18:00; PH 08:00-20:00,-23.533988,-46.5658757
+795849749,node,Mercado Extra,supermarket,,,Rua Belém,,,-23.5403697,-46.5949969
+840700983,node,Santa Gema,supermarket,,,,,,-23.6013061,-46.6439567
+918251543,node,Pão de Açúcar,supermarket,,Pão de Açúcar,Rua Apiacás,,,-23.5372244,-46.6782558
+931057484,node,Deliparis‎,convenience,,,Rua Harmonia,,,-23.5539938,-46.6887695
+931080794,node,Dia,supermarket,,Dia,Rua Purpurina,,,-23.5531822,-46.6901237
+955679991,node,econ,supermarket,,,,,,-23.5882375,-46.6305984
+1059201626,node,Natural Da Terra,supermarket,,,Rua Manuel da Nóbrega,,,-23.5695453,-46.6494263
+1111669047,node,Pão de Açúcar,supermarket,,Pão de Açúcar,,,,-23.613501,-46.6780297
+1111669065,node,Natural da Terra,supermarket,,,,,,-23.6144994,-46.6787416
+1147642984,node,ampm,convenience,,ampm,Rua Domingos de Morais,,,-23.5930986,-46.6370091
+1258229137,node,Carrefour,supermarket,Groupe Carrefour,Carrefour,"Rodovia Régis Bittencourt KM 271,5",,,-23.6136649,-46.7755645
+1424656798,node,Dia,supermarket,,Dia,,,,-23.6044222,-46.6753368
+1575974453,node,Carrefour,supermarket,,Carrefour,,,,-23.5839605,-46.7252342
+1590255044,node,Conjunto Comercial Maria Cunha,convenience,,,,,,-23.6067942,-46.7541388
+1590329974,node,Casas Bahia,convenience,,,,,,-23.6084901,-46.7552491
+1628712116,node,Supermercado Real,supermarket,,,Avenida Agenor Couto de Magalhães,,08:00-20:30,-23.4724428,-46.7423819
+1673737220,node,Sacolão Bidu,greengrocer,,,Avenida Dom Rodrigo Sanches,,,-23.6616802,-46.7795267
+1707747194,node,Saga supermercado,supermarket,,,Rua Doutor Luís Barreto,,,-23.55457,-46.6475706
+1707752919,node,Mini Mercado Extra,convenience,,,Praça Franklin Roosevelt,,,-23.547662,-46.6458516
+1707884008,node,Supermercado Bom Vizinho,convenience,,,Rua Votupoca,,,-23.5356548,-46.7022009
+1707884009,node,Celeste,convenience,,,,,,-23.5372407,-46.7063805
+1741782836,node,Mercadinho São Sebastião,supermarket,,,,,,-23.6837381,-46.5399429
+1750954867,node,Supermercado Rod&Raf,supermarket,,,Avenida Vaticano,,,-23.6002344,-46.7953291
+1769088976,node,Empório São Pedro,convenience,,,,,,-23.5881009,-46.7391163
+1769088977,node,Sacolão Butantã,greengrocer,,,,,,-23.5890243,-46.7376957
+1769495648,node,Supermercado Extra,supermarket,,Extra,,,,-23.6116455,-46.6284905
+1770523099,node,Dia,supermarket,,Dia,,,,-23.6525778,-46.6587144
+1783879299,node,Extra Supermercados,supermarket,,,,,,-23.4760563,-46.7035
+1783879357,node,Supermercados Dia,supermarket,,,,,,-23.4767008,-46.7042671
+1783895145,node,Supermercado Takara,supermarket,,,,,,-23.4845936,-46.7006968
+1793038132,node,Pão de Açúcar,supermarket,,Pão de Açúcar,,,"PH,Mo-Su 06:00-22:00",-23.6104103,-46.6862755
+1793038135,node,Americanas Express,convenience,,,,,,-23.6107495,-46.6861843
+1812386842,node,Beto's Supermercado,supermarket,,,,,,-23.4336759,-46.7145275
+1820886357,node,Sonda Supermercado,supermarket,,,Rua Capitão Pacheco e Chaves,,,-23.5820894,-46.5926246
+1825890406,node,Yamauchi,supermarket,,,,,,-23.5664223,-46.597925
+1832592209,node,Sacolão da Saude,supermarket,,,Praça André Nunes,,,-23.6307664,-46.6047713
+1931464679,node,Supermercado Yamauchi,supermarket,,,,,,-23.5963456,-46.5748192
+1974955961,node,Dia,supermarket,,Dia,,,,-23.5853031,-46.679712
+2001023254,node,Mercado Extra,supermarket,,Mercado Extra,,,,-23.6177092,-46.6052825
+2026460200,node,Merquatro Mini Mercado,convenience,,,,,,-23.6776886,-46.5104262
+2028487246,node,Sacolão do Morumbi,greengrocer,,,,,,-23.615086,-46.7403467
+2074045686,node,Extra Supermercado,supermarket,,Extra Supermercado,,,,-23.5577098,-46.6400676
+2085135097,node,Coop - Cooperativa de Consumo,supermarket,,,,,,-23.6754876,-46.5226735
+2104363112,node,+Saúde Hortifruti,greengrocer,,,Avenida Analice Sakatauskas,,,-23.5479052,-46.7762934
+2288245845,node,Supermercado Federzoni,supermarket,,,,,,-23.362591,-46.7474326
+2302963979,node,Carrefour,supermarket,,Carrefour,,,08:00-21:00,-23.6773928,-46.6750568
+2340542238,node,Condessa,supermarket,,,,,,-23.5631795,-46.7520225
+2344641640,node,Mercado Extra,supermarket,,Mercado Extra,Rua Vilela,,,-23.5406643,-46.5661623
+2344662444,node,Chocolândia,supermarket,,,Rua Serra de Japi,+55 11 3388 2128,"Mo-Sa 08:00-20:00; Su,PH 09:00-16:00",-23.5396702,-46.570483
+2344668678,node,Oba,greengrocer,,,,,,-23.5474675,-46.5614305
+2344712259,node,Dia,supermarket,,Dia,Avenida Amador Bueno da Veiga,,,-23.5227709,-46.5315507
+2354301546,node,Supermercado Estrela Azul,supermarket,,,Praça Porto Ferreira,+55 11 2023 9090,"Mo-Sa 07:00-21:00; Su,PH 07:00-13:30",-23.5323084,-46.5167189
+2381459126,node,Dia,supermarket,,Dia,,,,-23.5403924,-46.5915606
+2421036974,node,Tateno,supermarket,,,Avenida Doutor Ricardo Jafet,,,-23.5958023,-46.6222063
+2424531868,node,Minuto pão de açucar,supermarket,,,,,,-23.5786027,-46.6063135
+2427984007,node,Supermercado Extra,supermarket,,Supermercado Extra,Estrada de Taipas,01139413097,Mo-Sa 08:00-22:00; Su 08:00-21:00,-23.4492206,-46.7349086
+2428143326,node,AJ Avila,convenience,,,,,,-23.503796,-46.6545878
+2498772270,node,Minuto Pão de Açúcar Perdizes,supermarket,,,Rua Cardoso de Almeida,+55 11 3552-6252,Mo-Sa 07:00-22:00; Su 08:00-20:00,-23.5414622,-46.6711804
+2548968490,node,RV,supermarket,,,Rua Arcângelo Campanella,+55 11 4390 0485,,-23.7018668,-46.5705262
+2589875144,node,Supermercado Pampa,supermarket,,,,,,-23.475572,-46.7036317
+2623540176,node,Casa Silva,convenience,,,Avenida Conceição,,,-23.4982352,-46.5965595
+2631277225,node,Dia,supermarket,Supermecado Dia,,Avenida General Ataliba Leonel,,,-23.4864487,-46.605631
+2633198431,node,Supermercado Lopes,supermarket,,,Avenida Mutinga,,,-23.5034163,-46.7578254
+2700754143,node,Dia,supermarket,,Dia,,,,-23.5931985,-46.6294663
+2795099478,node,Mercearia Seiko,supermarket,,,Praça São Luis do Curú,,,-23.5687594,-46.5668889
+2795181550,node,Oxxo,convenience,,Oxxo,Avenida Conselheiro Rodrigues Alves,,24/7,-23.5834486,-46.6419239
+2795239420,node,Casa Anco,supermarket,,,,,,-23.580144,-46.6439345
+2816287379,node,Mercado Saúde,supermarket,,,Rua Caramuru,,,-23.6044977,-46.636464
+2816287380,node,Dia,supermarket,,Dia,Rua das Rosas,,,-23.6061623,-46.6415406
+2906609411,node,Dia,supermarket,,Dia,,,,-23.5320575,-46.6492623
+2908416455,node,Mercado Souza,convenience,,,,,,-23.6090454,-46.6382637
+2916226350,node,Pão de Açúcar,supermarket,,Pão de Açúcar,,,,-23.5742819,-46.6456793
+2934345883,node,Mercado Portuga,supermarket,,,Avenida Alziro Zarur,,,-23.5699107,-46.4877832
+3044501915,node,Cerealista Ideal São Caetano,convenience,,,Rua Professor Cortines Laxo,+55 11 2216-3948,,-23.5905124,-46.530069
+3057735146,node,Sacolão da Fartura,supermarket,Sacolão da Fartura,,Avenida General Ataliba Leonel,,,-23.4867053,-46.6062568
+3067767605,node,Dia,supermarket,,Dia,Rua da Gávea,,,-23.5108956,-46.5904
+3091797865,node,Mini Extra Supermercado,supermarket,,Extra,Rua Cubatão,,,-23.5735702,-46.6448324
+3190275602,node,Minuto Pão de Açúcar,convenience,,,Avenida Lino Jardim,,,-23.6641193,-46.5399631
+3192346362,node,Dia,supermarket,,,,,,-23.6813656,-46.5212708
+3194779530,node,Higienópolis Hortifruti,greengrocer,,,,,,-23.6714129,-46.5393125
+3205481406,node,Hortifruti,supermarket,,,,,,-23.4642658,-46.5362753
+3220454426,node,Extra,supermarket,,Extra,,,,-23.6655101,-46.6896976
+3227217162,node,Pão de Açúcar,supermarket,Pão de Açúcar,Pão de Açúcar,Rua da Consolação,+55 11 3062-3319,,-23.5564237,-46.6636985
+3277645473,node,Luzita,supermarket,,,Rua Teodoro Sampaio,,,-23.5562561,-46.6750006
+3277703384,node,Dia,supermarket,,Dia,Rua Teodoro Sampaio,,,-23.5569396,-46.6763198
+3416438743,node,Supermercado Tododia,supermarket,,,Avenida Osvaldo Valle Cordeiro,,,-23.5588485,-46.4896627
+3416438759,node,Mercado Brasilia,supermarket,,,Avenida Osvaldo Valle Cordeiro,,,-23.5589961,-46.4893087
+3417540602,node,Dia Supermercados,supermarket,,,Avenida Sapopemba,,,-23.5623317,-46.5737133
+3418063380,node,Pão de Açúcar,supermarket,Pão de Açúcar,Pão de Açúcar,Rua Alves Guimarães,+55 11 3062-5278,Mo-Sa 07:00-22:00; Su 07:30-21:00,-23.5612135,-46.6741351
+3420025732,node,Mini Mercado Extra,supermarket,,,Avenida Sapopemba,,,-23.5673723,-46.569646
+3427473241,node,Pão de Açúcar,supermarket,,Pão de Açúcar,Alameda dos Guatás,,,-23.6168387,-46.6493784
+3437545874,node,Loja Petrosul,convenience,,,Rua Paulo Andrighetti,,24/7,-23.5240961,-46.6065882
+3447324588,node,Mercado 21 de abril,supermarket,,,Rua 21 de Abril,,,-23.5416279,-46.6047368
+3473271229,node,Pão de Açúcar,supermarket,,Pão de Açúcar,,,,-23.6308006,-46.7357138
+3473369860,node,Horti Fruti,supermarket,,,Rua Curuçá,,,-23.5126402,-46.5910019
+3498092560,node,Dia,supermarket,,,Praça Morro do Chapéu,,Mo-Sa 08:00-21:00; Su 08:00-14:00,-23.4865366,-46.5783518
+3527373939,node,Mini Extra,convenience,,Mini Extra,Rua Martins Fontes,,,-23.5492949,-46.6445758
+3534461312,node,Emporio,supermarket,,,Rua Basilio Alves Morango,,,-23.4809993,-46.5712037
+3536205859,node,Mercearia,supermarket,,,Rua Basilio Alves Morango,,,-23.482008,-46.5733194
+3587988952,node,Mercado Brasil,supermarket,,,Rua Itamonte,,,-23.4852858,-46.5714471
+3614315878,node,Carrefour Express,convenience,,Carrefour Express,Avenida Brigadeiro Luís Antônio,,,-23.5679321,-46.6493765
+3627220952,node,Supermercados Lacerda,supermarket,,,Rua Vicente Rodrigues da Silva,,,-23.5185657,-46.7914848
+3653382452,node,Oxxo,convenience,,Oxxo,Rua da Consolação,,,-23.5528509,-46.658938
+3658091650,node,Mercado Guaranesia,supermarket,,,Rua Guaranésia,+55 11 2967-4070,,-23.516777,-46.5900373
+3679556542,node,Mercadinho Estrela,supermarket,,,,,,-23.4464279,-46.6900709
+3687576526,node,Mercado Cinco Esquinas,supermarket,,,Rua Henrique Leitão,,,-23.5091473,-46.5923899
+3693815208,node,Mercadinho Di Piu,supermarket,,,Rua Ibirajá,,,-23.6307895,-46.6393786
+3701267866,node,Casa do Norte,convenience,,,Rua dos Italianos,,,-23.5242234,-46.6440946
+3719548502,node,Carrefour Express,convenience,,Carrefour Express,Rua Coronel Xavier de Toledo,,,-23.5467537,-46.6392177
+3722289716,node,MiniMercado Extra,convenience,,MiniMercado Extra,,,,-23.5575585,-46.6456233
+3727956800,node,HIROTA,supermarket,,,Rua Vigário Albernaz,,,-23.6066904,-46.6214046
+3739816432,node,Mercado Paraná,supermarket,,,Rua Max Planck,,,-23.5292339,-46.4785295
+3740713362,node,Urizum,supermarket,,,,,,-23.548983,-46.5358412
+3740713542,node,Supermecado Sonda,supermarket,rede sonda de supermercados,,,,,-23.5475827,-46.5394702
+3740717707,node,Americana Express,convenience,Lojas Americanas,,,,,-23.5480634,-46.5391349
+3755214617,node,Carrefour Express,convenience,,Carrefour Express,Rua Eça de Queiroz,,24/7,-23.5783744,-46.6413053
+3803352096,node,Emporio das Arabias,supermarket,,,Rua das Rosas,,,-23.6062583,-46.6414338
+3824584711,node,ampm,convenience,,ampm,,,,-23.4992792,-46.622643
+3824962653,node,Shell Select,convenience,,Shell Select,,,,-23.5599638,-46.6293128
+3837736903,node,Shell Select,convenience,,Shell Select,,,,-23.6569426,-46.7171933
+3837736909,node,Shell Select,convenience,,Shell Select,,,,-23.6433322,-46.7332627
+3847333662,node,Shell Select,convenience,,Shell Select,,,,-23.6260972,-46.7364831
+3847848991,node,BR,convenience,,BR,,,,-23.6134741,-46.7422316
+3847900357,node,Select,convenience,,,,,,-23.5544378,-46.7097191
+3859068424,node,Dia,supermarket,,Dia,Rua Jandiatuba,,,-23.6287852,-46.7354197
+3859188230,node,Pão de Açúcar,supermarket,,Pão de Açúcar,Rua José Ramon Urtiza,,,-23.6338369,-46.7288947
+3859188231,node,ST Marche,supermarket,,,,,,-23.6333086,-46.7290181
+3876061775,node,Marialva,supermarket,,,Estrada de Taipas,,Mo-Su 08:00-21:00,-23.4380159,-46.7289191
+3891577383,node,Duque Conveniência,convenience,Rede Duque,,Alameda Lorena,,24/7,-23.5662998,-46.6630328
+3900411081,node,Remax,supermarket,,,Rua Bela Cintra,,,-23.5530035,-46.6565065
+3905199292,node,Ita,supermarket,,,Avenida Maria Luiza Americano,,,-23.5629487,-46.474606
+3905207751,node,Bengala,supermarket,,,Avenida Líder,,,-23.5558496,-46.4781813
+3919755349,node,Mercado Geni,convenience,,,Avenida Júlio Buono,,,-23.4947195,-46.5980707
+3926033276,node,Supermercado Ideal,supermarket,,,Avenida Joaquina Ramalho,,,-23.5154,-46.6081517
+3931395942,node,Casa do Norte,supermarket,,,Rua Ataliba Viêira,,,-23.4900943,-46.5835068
+3960333161,node,Mercadinho,supermarket,,,Rua Geolandia,,,-23.4906001,-46.5798482
+3964712886,node,Oxxo,convenience,,Oxxo,Avenida Paes de Barros,,,-23.5706847,-46.5876205
+3969229726,node,Frutos de Deus,greengrocer,,,Rua Belém,,,-23.5393557,-46.5963953
+4011581038,node,Sacolão Bela Vista,greengrocer,,,Rua Jaceguai,,Mo-Sa 07:00-19:00; Su 07:45-14:00,-23.5553528,-46.6414266
+4015903389,node,BR Mania,convenience,,BR Mania,,,,-23.5102337,-46.6253872
+4015903390,node,BR Mania,convenience,,BR Mania,,,,-23.5622346,-46.4999841
+4015903408,node,Shell Select,convenience,,Shell Select,Rua da Mooca,,,-23.554047,-46.6150836
+4015903409,node,Shell Select,convenience,,Shell Select,Avenida Presidente Tancredo Neves,,,-23.6159618,-46.6086737
+4015903412,node,ampm,convenience,,ampm,,,,-23.5799338,-46.6240743
+4015903413,node,ampm,convenience,,ampm,,,,-23.6210118,-46.6025333
+4015903414,node,am/pm,convenience,,am/pm,,,,-23.6335111,-46.7287268
+4015903454,node,Shell Select,convenience,,Shell Select,,,,-23.5852,-46.6177326
+4015903456,node,Shell Select,convenience,,Shell Select,,,,-23.5857279,-46.6181383
+4015903458,node,Shell,convenience,,Shell,,,,-23.5889874,-46.5832542
+4015904224,node,Shell Select,convenience,,Shell Select,,,,-23.6438738,-46.5961856
+4017284549,node,Shell Select,convenience,,Shell Select,,,,-23.5506946,-46.6066778
+4017284558,node,ampm,convenience,,ampm,,,,-23.5544747,-46.7080041
+4076018842,node,Carrefour Express,convenience,,Carrefour Express,Rua Domingos de Morais,,Mo-Sa 08:00-23:00;Su 08:00-22:00,-23.6037309,-46.6365096
+4076018845,node,Mini Extra,convenience,,Mini Extra,Avenida Bosque da Saúde,,,-23.6112859,-46.6370462
+4077507717,node,H.W.Mercearia,convenience,,,,,,-23.6114354,-46.6364399
+4077507718,node,Mini Extra,convenience,,Mini Extra,,,,-23.6107435,-46.6381659
+4085447592,node,Irmãos marega,supermarket,,,,,,-23.4560069,-46.6802861
+4085460489,node,Supermecado Marileo,supermarket,,,Avenida Elísio Teixeira Leite,,08:00-20:00,-23.452153,-46.7133968
+4103140238,node,Mercado Talento,supermarket,,,,,Mo-Fr 07:00-22:00,-23.5911283,-46.7536821
+4103932589,node,Dia Supermercados,supermarket,,Dia,Avenida Nossa Senhora do Sabará,,,-23.6854623,-46.6805749
+4103934091,node,Hirota Food Express,supermarket,,,,,,-23.5553325,-46.6360778
+4150312895,node,Pão de Açúcar,supermarket,,Pão de Açúcar,Rua Afonso Braz,,Mo-Su 08:00-22:00,-23.5952938,-46.6685049
+4153884064,node,Extra,supermarket,,Extra,,,,-23.51503,-46.4547897
+4186219203,node,Sacola Santos,supermarket,,,,,,-23.4421926,-46.5360284
+4199975614,node,Roldão Atacadista,supermarket,,,,,,-23.6625253,-46.5124769
+4240278314,node,Jia He,convenience,,,Rua da Glória,,,-23.5544238,-46.6344296
+4243513730,node,Mini Mercado Extra,supermarket,,,,,,-23.5226188,-46.7354257
+4278463328,node,Carrefour Express,convenience,,Carrefour Express,,,,-23.5284672,-46.7791276
+4278463329,node,Minimercado Extra,convenience,,Minimercado Extra,Avenida João Batista,,,-23.5281032,-46.7779952
+4278642990,node,Mister Narguiles Shisha Shop,supermarket,,,Rua Cardeal Arcoverde,,,-23.5636559,-46.6918718
+4298667793,node,Supermercado Violeta,supermarket,,,Estrada de Taipas,01139428190,Mo-Fr 07:00-21:30; Su 08:00-19:30; Sa 07:00-21:30,-23.4527997,-46.7366788
+4340465791,node,Mercearia do Prego,greengrocer,,,Rua Parati,,,-23.4660445,-46.3905032
+4340473790,node,Mercado Magnus,supermarket,,,Estrada do Sacramento,,,-23.4643061,-46.3984606
+4340473989,node,Supermercado Vip,supermarket,,,Estrada do Sacramento,,,-23.4629558,-46.4059714
+4341921390,node,Supermercado Extra,supermarket,,Supermercado Extra,Rua José Maurício de Oliveira,,,-23.4644962,-46.531931
+4342878192,node,Chama,supermarket,,,,,,-23.503511,-46.5044042
+4369006870,node,ampm,convenience,,ampm,,,,-23.6220569,-46.6285117
+4369789879,node,St. Marchê,supermarket,,,Avenida Comendador Adibo Ares,+55 11 3502-6610,,-23.593812,-46.7099169
+4374698899,node,Chocolândia,supermarket,,,Rua Silva Bueno,+55 11 2889 7600,"Mo-Sa 08:00-22:00; Su,PH 09:00-20:00",-23.5965871,-46.6009928
+4384002597,node,Sacolão,greengrocer,,,,,,-23.7020219,-46.7910383
+4388650746,node,ampm,convenience,,ampm,,,,-23.5692182,-46.7158642
+4390162965,node,Mercado Serra da Estrela,supermarket,,,Rua Sílvia,+55 11 4232 1227,"Mo-Fr 06:30-19:30, Sa 07:00-19:30, Su 07:00-13:00",-23.6366701,-46.5628951
+4398192520,node,Marukai,convenience,,,Rua Galvão Bueno,,,-23.5558639,-46.63533
+4398192521,node,Casa Bueno,convenience,,,Rua Galvão Bueno,,,-23.5560072,-46.6353137
+4398192522,node,Empório Azuki,convenience,,,Rua Galvão Bueno,,Mo-Su 08:00-19:00,-23.5556877,-46.6353365
+4440575880,node,Dia-a-Dia,supermarket,,,,,,-23.4736721,-46.6663649
+4442142461,node,Mercado Yasmim,supermarket,,,Rua dos Escoteiros,+55 11 2051-1765,,-23.5104906,-46.4604264
+4477466471,node,St. Marché Chácara Flora,supermarket,st marche,,Rua Sócrates,+55 11 5693-9595,"Mo-Sa 07:00-22:00; Su,PH 08:00-22:00",-23.6574537,-46.6918649
+4514018990,node,Elisam,supermarket,,,,,,-23.7005009,-46.7816346
+4519404583,node,Extra,supermarket,,Extra,Espírito Santo,,,-23.567838,-46.6295475
+4523262994,node,Feira Orgânica do Ibirapuera,greengrocer,,,Rua Curitiba,,Sa 07:00-13:00,-23.5828145,-46.6541401
+4524968528,node,Carrefour Express,convenience,Carrefour,Carrefour Express,Rua Fradique Coutinho,,,-23.5653469,-46.6850484
+4525585075,node,Carrefour Express,convenience,Groupe Carrefour,Carrefour Express,Praça Samuel Sabatini,,"Mo-Sa 09:00-22:00; Su,PH 12:00-22:00",-23.6936535,-46.5503622
+4526413341,node,Emporio,supermarket,,,,,,-23.5456349,-46.6413826
+4532233818,node,Davilar Supermercados,supermarket,,,Rua Rio Xingu,,,-23.5152352,-46.7902441
+4535403399,node,Mundo Verde,convenience,,,Avenida do Cursino,,,-23.6164993,-46.6179498
+4535495604,node,Mercado Jardim da Saúde,supermarket,,,Avenida do Cursino,,,-23.6161292,-46.6178253
+4545254083,node,Empório Futuro Verde,supermarket,,,Avenida Nossa Senhora do Loreto,+55 11 4327-7600;+55 11 95882-8946,Mo-Sa 09:00-19:00,-23.4894401,-46.5848361
+4579372701,node,Atacadão,supermarket,Atacadão,Atacadão,Avenida Salim Farah Maluf,,Mo-Sa 07:00-22:00; Su 08:00-20:00,-23.5365861,-46.581465
+4593663012,node,Carrefour Express,convenience,,Carrefour Express,,,,-23.618498,-46.6758977
+4613201857,node,Supermercado Extra,supermarket,,,Rua Fernando Falcão,,,-23.5573812,-46.5852091
+4617316183,node,Superete,supermarket,,,Avenida Padre Arlindo Vieira,,07:00-19:00,-23.6398775,-46.6076072
+4621816893,node,Instituto Chão,supermarket,,,Rua Harmonia,+55 11 3530-0907,"Su, Tu-Fr 08:00-15:00",-23.556746,-46.687026
+4622820119,node,Atacadão,supermarket,Carrefour,Atacadão,Rua Manifesto,+55 11 3019-4268,,-23.5811392,-46.6006947
+4630162279,node,Supermercado Mendes Peixoto,supermarket,,,Rua Dorival Seabra,,,-23.4960521,-46.7886941
+4634821004,node,Mercadinho Montilha,convenience,,,Rua Oriente,,,-23.5378515,-46.6143347
+4659821482,node,Mini Extra,convenience,,,Rua da Consolação,,,-23.5472597,-46.6450299
+4673794089,node,Mini Mercado Extra,convenience,,,Largo do Arouche,,Mo-Sa 08:00-22:00; Su 09:00-18:00,-23.5418706,-46.6457796
+4673794090,node,Best Market,supermarket,,,Largo do Arouche,,Mo-Su 09:00-23:00,-23.5418679,-46.645882
+4676484491,node,Dia,supermarket,,Dia,Rua Bom Pastor,+551140021080,,-23.595753,-46.6064446
+4676520000,node,Edú Mercado,supermarket,,,Rua João Teodoro,,,-23.5345785,-46.6244296
+4683366694,node,Oxxo,convenience,,Oxxo,Rua da Consolação,,24/7,-23.5475916,-46.6452477
+4691122276,node,Mark Bom,supermarket,,,,,,-23.6701613,-46.7398049
+4696999756,node,Dia,supermarket,,Dia,Rua Luis Góis,,Mo-Sa 08:00-20:00;PH Su 09:00-14:00,-23.6041407,-46.6361058
+4697625565,node,Carrefour Express,convenience,,Carrefour Express,Avenida Vieira de Carvalho,,,-23.5421697,-46.6432499
+4715775495,node,Jerusalém,supermarket,,,Rua das Três Marias,,,-23.7012956,-46.7898995
+4715781594,node,Sacolão xexel,greengrocer,,,,,,-23.6969159,-46.7794912
+4718353705,node,Dia,supermarket,,Dia,Rua Pires da Mota,,Mo-Sa 08:00-21:00;PH Su 09:00-14:00,-23.5684665,-46.6358309
+4723170701,node,Chocolândia,supermarket,,,Rua Fábia,+55 11 3123 3968,"Mo-Sa 08:00-20:00; Su,PH 09:00-16:00",-23.5269211,-46.6992375
+4734556439,node,Mercadinho Mirante,convenience,,,,,,-23.470283,-46.7177559
+4758832159,node,Hortifruti Pinheiro,supermarket,,,Avenida Álvaro Guimarães,,"Mo-Fr 06:00-19:00; Su,PH 06:00-13:00",-23.6943684,-46.5685122
+4777645203,node,NaturAll da Fazenda,convenience,,,Rua Doutor Cesário Mota Júnior,+55 11 4561-3085,,-23.5440759,-46.6488346
+4777686912,node,NaturAll da Fazenda,convenience,,,Rua Fernando de Albuquerque,,,-23.5542141,-46.6573896
+4781606334,node,Carrefour Express,supermarket,Groupe Carrefour,Carrefour Express,Rua Teodoro Sampaio,,,-23.5676821,-46.695385
+4823734452,node,Dia Market,supermarket,,Dia Market,Rua Teodoro Sampaio,,Mo-Sa 08:00-21:00; Su 09:00-14:00,-23.5633098,-46.6872121
+4823738593,node,Carrefour Express,convenience,,Carrefour Express,Rua Mourato Coelho,,,-23.5606021,-46.6897366
+4845929852,node,OXXO,convenience,,,Largo do Arouche,,24/7,-23.5414269,-46.6447425
+4845929858,node,Mini Extra,convenience,,Mini Extra,Largo do Arouche,,,-23.5415413,-46.6449318
+4872690721,node,Paraíso das Pedras,convenience,,,Avenida Tiradentes,,,-23.4640064,-46.5285181
+4881860692,node,Carrefour Express,convenience,,Carrefour Express,Rua Bela Cintra,,,-23.5570485,-46.6624207
+4884206721,node,B/B Mercato,supermarket,,,,,,-23.5438501,-46.637291
+4884206726,node,Emporio Doce,supermarket,,,Praça da Sé,,,-23.5516741,-46.6341802
+4884206727,node,Hirota Food Express,convenience,,,Avenida Ipiranga,,,-23.5454955,-46.6438065
+4884206821,node,OXXO,convenience,,,Praça da Sé,,24/7,-23.5513229,-46.6340026
+4894550528,node,Dia,supermarket,,Dia,Praça Silvio Romero,,,-23.5448618,-46.5729376
+4897138124,node,Mundo Verde,convenience,,,,,,-23.6275186,-46.6424916
+4897138325,node,Hortifruti União,greengrocer,,,Avenida Jabaquara,,,-23.6238869,-46.6406567
+4906955797,node,Supermercado Ramos,supermarket,,,Rua José Filipe da Silva,,,-23.5822528,-46.7602338
+4913452727,node,Carrefour Express,convenience,,Carrefour Express,Avenida Paulista,,,-23.5566563,-46.6613922
+4913452743,node,Empório Santa Rita,supermarket,,,Rua Haddock Lobo,,,-23.5568753,-46.6607135
+4918751625,node,Supermercado Boa Sorte,supermarket,,,Rua Antônio Ramos Rosa,+55-11-5819-7563,Mo-Sa 08:00-21:00; Su 08:00-14:00,-23.6614064,-46.7497442
+4945785807,node,kamisana Doces e Conveniências,convenience,,,Avenida Paulista,,,-23.5652024,-46.6523688
+4946143588,node,Mercado da Villa,convenience,,,Rua Manoel Dutra,+55 11 3104 5202,,-23.5555706,-46.6483118
+4964023963,node,HIrota Food Express,supermarket,,,Avenida Paulista,,,-23.566648,-46.6498368
+4964254558,node,Minimercado Extra,convenience,Cia Brasileira de Distribuição,,Rua Santo Amaro,,Mo-Sa 08:00-21:00; Su 08:00-18:00; PH 08:00-18:00,-23.5523464,-46.6405254
+4964254559,node,Doutor Legume,greengrocer,,,Rua Santo Amaro,,,-23.5524126,-46.6405254
+4967169821,node,Tutti Conveniências,supermarket,,,Rua Barata Ribeiro,,Mo-Fr 07:00-22:00; Sa 08:00-19:00,-23.5561698,-46.6524149
+4983814124,node,Americanas Express,convenience,,,Rua Augusta,,,-23.5632386,-46.6654577
+4983814322,node,Super Natural,supermarket,,,Rua Augusta,,,-23.5662924,-46.6688603
+5001158106,node,Dia,supermarket,,Dia,,,,-23.6763779,-46.6603662
+5001161150,node,Ricoy,supermarket,,,,,,-23.6833823,-46.651024
+5001161626,node,Supermercado Golçalves Pires,supermarket,,,Avenida Yervant Kissajikian,,08:00-21:00,-23.6849236,-46.646754
+5001163353,node,Gepires Supermercado,supermarket,,,,,,-23.6740959,-46.6644753
+5001163840,node,Ricoy,supermarket,,,,,,-23.6747616,-46.6620828
+5001165881,node,Dia,supermarket,,Dia,,,,-23.6849089,-46.6489775
+5001257158,node,Extra,supermarket,,Extra,Avenida Cupecê,,,-23.6704598,-46.6480315
+5015213921,node,Carrefour Express,convenience,,Carrefour Express,Rua Líbero Badaró,,,-23.5483741,-46.6372206
+5018750676,node,Dia,supermarket,,Dia,Rua Marcial,,,-23.5509014,-46.5949547
+5022211024,node,ampm,convenience,,ampm,,,,-23.5649226,-46.6705545
+5022218922,node,BR,convenience,,BR,,,,-23.5764409,-46.6452808
+5023221124,node,BR Mania,convenience,,BR Mania,,,,-23.5583149,-46.6636176
+5025175023,node,BR Mania,convenience,,,,,,-23.5203394,-46.6278662
+5025175126,node,Compraki,convenience,,,Avenida Tiradentes,,,-23.5291954,-46.6313074
+5051560426,node,Minuto Pão de Açucar,convenience,,,Alameda Lorena,,Mo-Sa 07:00-22:00,-23.5606199,-46.6696973
+5067633743,node,Shell Select,convenience,,Shell Select,Avenida Antônio Piranga,,,-23.6796397,-46.5997313
+5069705019,node,Pão de Açúcar,supermarket,,Pão de Açúcar,,,,-23.5541637,-46.7101082
+5070494762,node,ampm,convenience,,ampm,Avenida Antônio Piranga,,,-23.682859,-46.6058793
+5070494763,node,ampm,convenience,,ampm,,,,-23.6862602,-46.6139072
+5073433662,node,Oxxo,convenience,,Oxxo,Largo São Francisco,,24/7,-23.5495418,-46.6363914
+5076311734,node,Shell Select,convenience,,Shell Select,,,,-23.5358134,-46.7322242
+5079592627,node,Carrefour Express,convenience,,Carrefour Express,Rua São Bento,,,-23.5488339,-46.6367217
+5084778502,node,Carrefour Express,convenience,,Carrefour Express,Rua Álvares Penteado,,,-23.5468565,-46.6349017
+5117644672,node,Mini Extra,convenience,,Mini Extra,Praça Professor José Azevedo Antunes,,,-23.5241305,-46.7049085
+5117883856,node,Carrefour Express,convenience,,Carrefour Express,Rua Monteiro de Melo,,,-23.5244874,-46.7031364
+5120881960,node,Nikkey,supermarket,,,Avenida Cupecê,,,-23.666246,-46.6553751
+5125967747,node,Dia,supermarket,,Dia,,,,-23.6665391,-46.6547995
+5125975669,node,Sacolão Cupecê,greengrocer,,,,,,-23.6655791,-46.658108
+5127418144,node,Oxxo,convenience,,Oxxo,Rua Artur de Azevedo,,24/7,-23.5619051,-46.6806356
+5129469694,node,Dia,supermarket,,Dia,,,,-23.6296853,-46.6901538
+5133933721,node,Dia,supermarket,,Dia,,,,-23.6343711,-46.7328624
+5136378324,node,Barbosa Supermercados,supermarket,,,Avenida Benedito de Andrade,,Mo-Su 08:00-22:00,-23.4873864,-46.7152451
+5142743922,node,Minimart,convenience,,,Rua Luminárias,,,-23.5493897,-46.6900764
+5150707950,node,Americana Express,convenience,,,Rua Teodoro Sampaio,,,-23.5676007,-46.6943786
+5166437422,node,Supermercado Bem Barato,supermarket,,,Avenida Caminho do Mar,+55 11 4362 2669,Mo-Sa 07:00-22:00; Su 07:00-18:00; PH off,-23.6681902,-46.5678122
+5171501975,node,Loja do Abençoado,supermarket,,,Avenida Dom Pedro I,,,-23.6970397,-46.5053438
+5188450959,node,Futurama,supermarket,,,Avenida Cásper Líbero,,"Mo-Sa 07:30-20:30; Su, PH 08:30-14:30",-23.538015,-46.6357955
+5220319279,node,Extra,supermarket,,Extra,,,,-23.6334351,-46.6983251
+5240470726,node,Bettos,convenience,,,,,,-23.4803181,-46.6557424
+5240475606,node,Sacolao ouro verde,greengrocer,,,,,,-23.4819563,-46.6549488
+5249406721,node,Pão de Açúcar,supermarket,,Pão de Açúcar,Avenida Padre Antônio José dos Santos,,,-23.6121789,-46.6840486
+5257774393,node,Mercadinho JP,supermarket,,,Estrada da Cachoeira,+55 11 96096-5813,,-23.4332801,-46.5838051
+5261354630,node,Mercado Teixeira,supermarket,,,Rua Francisco Nunes Cubas,,Mo-Sa 07:00-12:00,-23.5475653,-46.3924105
+5261466106,node,Dia,supermarket,,Dia,,,,-23.6465715,-46.6419869
+5263520478,node,Sonda Supermercados,supermarket,,,,,,-23.6390792,-46.5265561
+5265962345,node,Mini,convenience,,,Rua Jaguaribe,,,-23.5416974,-46.6526368
+5266430024,node,ampm,convenience,,ampm,,,,-23.5770635,-46.6570484
+5268615025,node,BR Mania,convenience,,BR Mania,,,,-23.6018711,-46.6507093
+5272218374,node,Ayumi,supermarket,,,,,,-23.6563004,-46.6546354
+5276325316,node,Dia,supermarket,,Dia,Rua Cônego Valadão,,,-23.4744756,-46.545037
+5286934643,node,Dia,supermarket,,Dia,,,,-23.5698922,-46.6216636
+5288345255,node,Dia,supermarket,,Dia,,,,-23.562406,-46.6319539
+5293548875,node,ampm,convenience,,ampm,,,24/7,-23.4981637,-46.5952641
+5301439268,node,Hirota Lino Coutinho,supermarket,,,,,,-23.5921558,-46.60265
+5302603322,node,Americanas Express,convenience,,Americanas Express,Rua Henrique Schaumann,,,-23.5630588,-46.6791022
+5316568421,node,Mini Mercado Extra,convenience,,,Estrada São Francisco,,,-23.6185851,-46.7705348
+5322378437,node,Carrefour Express,convenience,,Carrefour Express,,,,-23.5890448,-46.6353786
+5322380552,node,Dia,supermarket,,Dia,,,,-23.5900944,-46.6353504
+5341596821,node,Carrefour Express,convenience,,Carrefour Express,Avenida Jabaquara,,,-23.6279028,-46.6439519
+5375459750,node,Bella São Joaquim,supermarket,,,,,,-23.5736198,-46.6497752
+5380982114,node,Mercado Frei Caneca,supermarket,CompreBem,,Rua Frei Caneca,,08:00-22:00,-23.5522041,-46.6504512
+5426833802,node,Futurama,supermarket,,,Rua dos Pinheiros,,,-23.5677896,-46.6923362
+5427557478,node,Americanas Express,convenience,,Americanas Express,Rua dos Pinheiros,,,-23.5680272,-46.6909446
+5429095175,node,Futurama,supermarket,,,,,,-23.5672164,-46.6923831
+5448154522,node,ampm,convenience,,ampm,Avenida Morvan Dias de Figueiredo,,,-23.5232605,-46.5666095
+5448246823,node,Minuto Pão de Açúcar,supermarket,,,,,Mo-Sa 07:00-22:00; Su 08:00-20:00,-23.5880704,-46.6300821
+5454351429,node,Shell Select,convenience,,,,,,-23.520522,-46.5549888
+5480266204,node,Extra,supermarket,,Extra,Rua Glicerio,,Mo-Sa 07:00-22:00; Su 06:00-22:00,-23.5532852,-46.6278866
+5480936653,node,Dia,supermarket,,Dia,,,,-23.6228899,-46.6837485
+5542903239,node,Dona Clara,convenience,,,Rua Silva Teles,,,-23.5301135,-46.6107125
+5543482775,node,Sonda Supermercados,supermarket,,,Avenida Roza Molina Pannocchia,,"Mo-Sa 08:00-23:00; Su,PH 08:00-22:00",-23.4288362,-46.5368783
+5567378170,node,Mini Mercado Extra,convenience,Extra,Mini Mercado Extra,Estrada das Lágrimas,,Mo-Su 09:00-21:00,-23.6465696,-46.5765192
+5578385631,node,Quitanda São Paulo,convenience,,,Rua Mateus Grou,,,-23.5646241,-46.6841834
+5581066861,node,Mini Extra,convenience,,Mini Extra,Rua dos Pinheiros,,,-23.5673093,-46.6866081
+5605446041,node,Dia Market,supermarket,,Dia Market,,,,-23.6659699,-46.5446319
+5605446050,node,Ohana Espeto & Frutaria,greengrocer,,,,,,-23.6642165,-46.5397201
+5609727973,node,Hortifruti da Vila,greengrocer,,,,,,-23.6578985,-46.5371646
+5609727994,node,Dia Market,supermarket,,Dia Market,,,,-23.6621762,-46.5383716
+5609727998,node,Margarida Hortifruti,greengrocer,,,,,,-23.6631497,-46.5390381
+5610558840,node,Tangerina,convenience,,,Rua Santo Urbano,,,-23.6589744,-46.5401037
+5614239381,node,Quitanda & Mercearia,greengrocer,,,,,,-23.6735755,-46.5478385
+5615835143,node,Quitanda Sil,greengrocer,,,,,,-23.6327201,-46.5248103
+5616268203,node,Carrefour Express,convenience,,Carrefour Express,,,,-23.6512963,-46.5360348
+5616356812,node,Fenícia,supermarket,,,,,,-23.62772,-46.4993293
+5618484922,node,ampm,convenience,,ampm,,,,-23.6688045,-46.5390734
+5636228956,node,Oxxo,convenience,,Oxxo,Rua Augusta,,,-23.5616656,-46.6640552
+5700093373,node,Carrefour Express,convenience,,Carrefour Express,Rua Teodoro Sampaio,,,-23.5561771,-46.6753346
+5723233811,node,BR,convenience,,BR,,,,-23.4716905,-46.5655076
+5739288012,node,Kucho's,convenience,,,Rua Teodoro Sampaio,,,-23.556913,-46.6765626
+5741577259,node,Carrefour Express,convenience,,Carrefour Express,Rua Alves Guimarães,,,-23.5577167,-46.6767524
+5752030106,node,St. Marche Rebouças,convenience,,,Rua Capote Valente,,Su 08:00-22:00; Mo-Sa 07:00-22:00,-23.5604581,-46.6733769
+5768472942,node,Minuto Pão de Açucar,convenience,,,Rua João Moura,,,-23.5608749,-46.6774713
+5815190676,node,Mercado Sublime,convenience,,,Rua Paulo Andrighetti,,,-23.5284697,-46.6042464
+5861562634,node,Loja Multiprat-k,supermarket,,,Rua Nova do Tuparoquera,,,-23.6584045,-46.7369456
+5861562669,node,Supermercado Piraporinha,supermarket,,,,,,-23.6730897,-46.7429343
+5866722675,node,Emporio Medeiros,convenience,,,Rua Crispim Duarte,,Mo-Sa 08:00-20:00; Su 08:00-13:00,-23.4938213,-46.5854038
+5874451913,node,Mercadinho do tião,supermarket,,,Rua Carneiros,,24/7,-23.4669785,-46.4243062
+5878700798,node,Supermercado Nagumo,supermarket,,,Rua Tibúrcio de Souza,,,-23.5218199,-46.3877749
+5880426362,node,Hipermercado Extra,supermarket,Extra,Hipermercado Extra,Avenida Souza Ramos,,,-23.5833173,-46.4098093
+5885771513,node,Carrefour,supermarket,,Carrefour,Avenida Jacu-Pêssego,,,-23.569472,-46.4452037
+5887844364,node,Supermercado Baronesa,supermarket,,,Rua Pedrinópolis,,,-23.5931177,-46.5018761
+5888870360,node,Nagumo,supermarket,,,Avenida Sapopemba,,Mo-Su 08:00-20:00,-23.5991882,-46.5161958
+5888870362,node,Mercado Municipal,supermarket,,,Avenida Sapopemba,,,-23.5968262,-46.5226378
+5888870364,node,Assaí Atacadista,supermarket,,Assaí Atacadista,Avenida Sapopemba,,Mo-Su 07:00-22:00,-23.6023742,-46.5113041
+5888870370,node,Bem Barato,supermarket,,,Rua Benedito Jacinto Mendes,,Mo-Sa 08:00-20:00; Su 08:00-18:00,-23.5976514,-46.5175174
+5894784285,node,Carrefour Express,convenience,,Carrefour Express,,,,-23.6528401,-46.7098651
+5918816648,node,Oxxo,convenience,,Oxxo,Rua Fradique Coutinho,,24/7,-23.5626611,-46.6868935
+5932475550,node,Dia,supermarket,,,,,,-23.5327698,-46.6645396
+5937808536,node,Carrefour Express,supermarket,,,Rua Verbo Divino,,Mo-Su 09:00-21:00,-23.6328,-46.706212
+5984274920,node,Supermercado Violeta,supermarket,,,Rua Boturóca,+55 11 3722-5640,Mo-Sa 07:00-22:00; PH Su 08:00-21:30,-23.5736354,-46.7272152
+5995475631,node,Carrefour Express,convenience,,Carrefour Express,Rua Teodoro Sampaio,,,-23.566111,-46.6919124
+5995860277,node,Oxxo,convenience,,Oxxo,Avenida Pedroso de Morais,,24/7,-23.5654495,-46.6904091
+6008990238,node,Shell Select,convenience,,Shell Select,,,24/7,-23.6978926,-46.5507949
+6008994735,node,ampm,convenience,,ampm,Rua Jurubatuba,,,-23.7024769,-46.5539991
+6028771785,node,Ita Supermercado,supermarket,,,Rua Jardim Repouso São Francisco,,,-23.4521741,-46.3996256
+6079701985,node,Moreira,supermarket,,,,,Mo-Fr 08:00-17:00,-23.6694655,-46.6358836
+6101456985,node,Dia,supermarket,,Dia,,,,-23.6065475,-46.6688701
+6109273591,node,Hawai,convenience,,,,,,-23.5626659,-46.6816142
+6109377286,node,Natural da Praça,convenience,,,Praça Visconde de Sousa Fontes,,,-23.5769794,-46.5876638
+6124184707,node,ampm,convenience,,ampm,Avenida Antônio Faustino dos Santos,,,-23.5250138,-46.81888
+6140753951,node,Mercadinho NewLar,convenience,,,Rua Antônio Alves Ribeiro,,,-23.5031163,-46.8021698
+6169673792,node,Mercadinho Happy Familia,convenience,,,Rua Vilela,+55 11 2092-6165,,-23.5412349,-46.5659305
+6188177548,node,Sempre Mais Supermercados,supermarket,,,Rodovia Tancredo de Almeida Neves,,,-23.3975783,-46.7177393
+6188216287,node,Supermercado Opção,supermarket,,,,,,-23.3999956,-46.4416981
+6188216320,node,Cantinho da Batata,greengrocer,,,,,,-23.4014332,-46.443589
+6213753487,node,Rossi,supermarket,,,,,,-23.6243529,-46.4610755
+6270181665,node,ampm,convenience,,ampm,Avenida José André de Moraes,,,-23.6031457,-46.7664202
+6270278387,node,Gaspar Presentes,convenience,,,,,,-23.533324,-46.6560376
+6318852999,node,Mercado dos Oliveiras,convenience,,,Avenida Ayrton Senna,,,-23.5828076,-46.8110093
+6337380292,node,Dia,supermarket,,Dia,,,,-23.5442192,-46.6397254
+6340108087,node,BR Mania,convenience,,BR Mania,,,,-23.5074308,-46.4783845
+6340108120,node,ampm,convenience,,ampm,,,,-23.505763,-46.4749889
+6342120835,node,Mercado Coelho & Silva,supermarket,,,Avenida Maria Estela,,Mo-Sa 06:30-20:00,-23.636597,-46.596661
+6348404988,node,Emporio e Mercado Grão Nosso,convenience,,,Rua Amália de Noronha,,,-23.5522395,-46.6809314
+6353494267,node,Extra,supermarket,,Extra,Rodovia Presidente Dutra,,"Mo-Fr 07:00-23:00; Su,PH 08:00-22:00",-23.4869307,-46.5503355
+6357420311,node,TOWA - Empório Oriental,convenience,,,Praça da Liberdade,,,-23.5549462,-46.6352504
+6357420321,node,Meisim Mercearia,convenience,,,Praça da Liberdade,,,-23.5546186,-46.6352874
+6362979213,node,Korea Mart,convenience,,,Rua dos Estudantes,,,-23.5554674,-46.6347813
+6379836707,node,Irmãos Unidos Conveniência,supermarket,,Irmãos Unidos,Alberto Alves da Silva,+55 11 4445-2740,"Mo-Sa 06:30-20:30; Su,PH 07:00-14:00",-23.3743258,-46.7504883
+6380122485,node,Extra,supermarket,,Extra,,,,-23.4920896,-46.5465385
+6381094377,node,Mini mercado Cajubá,supermarket,,,,,,-23.5077431,-46.4058825
+6386100042,node,Quitanda Nakasone,greengrocer,,,,,,-23.6322779,-46.5140988
+6388938234,node,Supermercado Higas,supermarket,,,Rua José Maria Alves de Deus,,,-23.5208931,-46.4132186
+6390052335,node,ampm,convenience,,ampm,,,,-23.5924477,-46.6200959
+6390052338,node,St. Marche,supermarket,,,,,,-23.5917888,-46.6209852
+6393719586,node,Pão de Açúcar Anália Franco,supermarket,,Pão de Açúcar,,,Mo-Su 07:00-22:00,-23.5607313,-46.5632086
+6408202179,node,Mercado Estação,convenience,,,Avenida Santos Dumont,,,-23.5402738,-46.3681164
+6446843758,node,Hortifruti Mangels,greengrocer,,,Avenida Max Mangels Sênior,+55 11 4341 7147,"Mo-Sa 08:00-17:00; Su,Ph 08:00-13:00",-23.6990963,-46.5689918
+6449378140,node,Sacolão Tche,greengrocer,,,Avenida Sapopemba,,,-23.5738603,-46.5573469
+6450951932,node,Mercadinho Satélite,supermarket,,,Rua Conselheiro Lafayette,,,-23.6196884,-46.5524619
+6453866840,node,ampm,convenience,,ampm,,,,-23.5642363,-46.671683
+6455314485,node,Mini mercado extra,supermarket,,,,,,-23.6348045,-46.532378
+6455314487,node,Dia,supermarket,,Dia,,,,-23.6351361,-46.5322873
+6456695070,node,Blue Point,convenience,,,Avenida Conceição,,24/7,-23.500381,-46.5722371
+6463706697,node,Dia,supermarket,,Dia,,,Mo-Su 07:00-21:00,-23.561278,-46.6712148
+6463706721,node,Camafeu Gourmet Cafeteria,supermarket,,,,,,-23.5685932,-46.6432718
+6482978693,node,Empório Zilanna,supermarket,,,,,,-23.5486294,-46.6553321
+6518491267,node,Mareloi,convenience,,,Rua Butantã,,,-23.5702605,-46.6978643
+6549930646,node,BR Mania,convenience,,BR Mania,,,,-23.5736279,-46.70113
+6551663556,node,Dona Diva,convenience,,,,,,-23.4432016,-46.7152636
+6551828528,node,Shell Select,convenience,,Shell Select,,,,-23.6896765,-46.5675135
+6551852475,node,ampm,convenience,,ampm,Avenida Lucas Nogueira Garcez,,,-23.6920511,-46.5557279
+6570734423,node,Oxxo,convenience,,Oxxo,Rua Purpurina,,,-23.5528627,-46.6895865
+6580677798,node,Shell Select,convenience,,Shell Select,,,,-23.6549704,-46.6913285
+6585647786,node,Tartuferia San Paolo,convenience,,,Alameda Lorena,,,-23.5614154,-46.6685618
+6589698755,node,ampm,convenience,,ampm,,,,-23.5070049,-46.5995539
+6610587046,node,BRmania,convenience,,,,,,-23.5587629,-46.6877873
+6629373078,node,Dia Market,supermarket,,Dia Market,Rua da Consolação,,,-23.5596812,-46.6673125
+6630114997,node,ampm,convenience,,ampm,Alameda Lorena,,,-23.5600135,-46.6706459
+6631582021,node,M2,convenience,Rede M2,,Rua Vergueiro,,,-23.6144065,-46.6053215
+6631713170,node,Mambo,supermarket,,,,,,-23.5996534,-46.6655579
+6660698353,node,Estação dos Grãos,convenience,,,Rua Heitor Penteado,,,-23.5476497,-46.6887704
+6711300981,node,Carrefour Express,convenience,,Carrefour Express,Avenida Brigadeiro Faria Lima,,,-23.5723048,-46.6897384
+6712550827,node,Mercado Extra,supermarket,,Mercado Extra,Rua Dona Antônia de Queirós,,,-23.5486282,-46.6546443
+6712736164,node,Supermercado Extra,supermarket,,,Avenida Conceição,,Mo-Su 08:00-21:30,-23.5006556,-46.6014464
+6716538800,node,Dia,supermarket,,Dia,Avenida Professor Luiz Ignácio Anhaia Mello,,Mo-Sa 08:00-20:00; Su 09:00-14:00,-23.5854166,-46.5825536
+6716538802,node,Extra Mini Mercado,supermarket,,,Praça República Lituana,,Mo-Su 08:00-20:00,-23.5900522,-46.5766162
+6716538804,node,Supermercado Yamauchi,supermarket,,,Rua Manaiás,,"Mo-Sa 08:00-21:00, Su 08:00-15:00",-23.5892826,-46.5760674
+6742222396,node,Assaí Atacadista,supermarket,,Assaí Atacadista,,,,-23.6629533,-46.4623102
+6802501808,node,Carrefour Express,convenience,,Carrefour Express,Avenida Brigadeiro Faria Lima,,,-23.5740817,-46.6885619
+6802501813,node,Empório Jardim,convenience,,,Avenida Brigadeiro Faria Lima,,,-23.5737493,-46.6887724
+6807938065,node,Carrefour Express,convenience,,Carrefour Express,Rua Maria Antônia,,,-23.5465329,-46.6508772
+6815722722,node,ampm,convenience,,ampm,,,,-23.5875076,-46.7316467
+6829189280,node,Mercado Terra Nova,supermarket,,,Rua Terra Nova,,,-23.4307845,-46.4324912
+6831162171,node,Pequeno mercado.,supermarket,,,Largo do Arouche,,Mo-Su 09:00-21:00,-23.5400137,-46.6453535
+6835186826,node,Shell,convenience,,Shell,,,,-23.5088167,-46.6051646
+6854309315,node,Sugoi Supermercado,supermarket,,,Rua Francisco Alves,+55 11 4178 2552,,-23.6695332,-46.5839466
+6856230986,node,Pão de Açúcar,supermarket,Pão de Açúcar,Pão de Açúcar,Rua Doutor Alceu de Campos Rodrigues,,"Mo-Sa 06:00-22:00, Su 07:00-20:00",-23.5903887,-46.6739367
+6865270171,node,Gago,convenience,,,Rua Hortência Alves da Silva,,,-23.5680783,-46.3670561
+6886525649,node,KL,convenience,,,Rua Martins Fontes,,,-23.5490604,-46.6438772
+6897244307,node,Mini Mercado Extra,convenience,,Mini Mercado Extra,,,,-23.6691208,-46.506153
+6897244309,node,Sacolão São Jorge,supermarket,,,,,,-23.6722403,-46.5042914
+6897244311,node,Novo Rosiclen Mercado e Padaria,supermarket,,,Avenida Guaianazes,,,-23.6706591,-46.5043014
+6958717545,node,Supermercado Pepe Tatuapé,supermarket,,Pepe,Praça Doutor Almeida Junqueira,,Mo-Sa 08:00-21:00; Su 08:00-14:00,-23.5311698,-46.5615218
+7004626268,node,Ville Mercado,supermarket,,,,,,-23.6749229,-46.4998519
+7010142424,node,Mercadinho Homero Thon,convenience,,,Rua César de Meneses,,,-23.6655778,-46.5040833
+7021734954,node,Mini Market Yu,convenience,,,Avenida São João,,Mo-Sa 09:00-23:00; Su 10:00-22:00,-23.5402564,-46.6437084
+7074523182,node,Flamengo,supermarket,,,,,,-23.5924491,-46.7897472
+7074523184,node,Kobal,supermarket,,,,,,-23.5952996,-46.7887877
+7074533885,node,Paraná,supermarket,,,,,,-23.5934694,-46.7850181
+7074533886,node,Rod & Raf,supermarket,,,,,,-23.5989729,-46.7845898
+7078683288,node,Hortifruti Kauê,greengrocer,,,Avenida Queirós Filho,,Tu-Fr 09:00-20:00; Sa 08:00-19:00; Su 08:00-15:00; PH off,-23.6701691,-46.5058386
+7083377164,node,Shell Select,convenience,,Shell Select,Rua Roque Barbosa Lima,,,-23.5896192,-46.544561
+7094776891,node,Mercado Velasco,supermarket,,,Avenida Moinho Fabrini,+55 11 4343 4667,,-23.6965025,-46.5814985
+7098421385,node,ampm,convenience,,ampm,,,,-23.6412712,-46.5208946
+7104721585,node,Energia Natural,greengrocer,,,,,,-23.6303418,-46.532922
+7119881359,node,Armazem Peter Paiva,convenience,,,Rua Pedro Madureira,,,-23.4930509,-46.6170315
+7188298120,node,OXXO,convenience,,OXXO,Avenida Miguel Estefno,,24/7,-23.619821,-46.6379742
+7191321051,node,Eden Produtos Naturais,supermarket,,,Avenida Jabaquara,,,-23.617328,-46.6384434
+7212822096,node,Emporium MR,convenience,,,Praça Visconde de Sousa Fontes,,,-23.5776676,-46.5880938
+7223114653,node,ampm,convenience,,ampm,Avenida Paes de Barros,,,-23.5734198,-46.5877595
+7232973285,node,Supermercados Madrid,supermarket,,,Rua Tumiaru,,Mo-Sa 07:00-21:00; Su 08:00-15:00,-23.5801023,-46.6511052
+7245638993,node,Clean All,supermarket,,,Avenida Doutor Renato de Andrade Maia,,,-23.4569078,-46.5270383
+7257951691,node,Casa do Norte Canaã,convenience,,,Avenida Cásper Líbero,+55 11 4115-4092,,-23.5365666,-46.6358216
+7264570045,node,Emporium Compre Facil,convenience,,,Alameda Eduardo Prado,,,-23.5293018,-46.64706
+7273381085,node,ampm,convenience,,ampm,Avenida Água Fria,,,-23.481734,-46.6222415
+7299405223,node,Emporio de Produtos Naturais,convenience,,,Estrada de Mogi das Cruzes,,,-23.5144828,-46.4959901
+7338792674,node,Minuto pão de açúcar,supermarket,,,,,,-23.5684843,-46.6267554
+7338792679,node,Frango fofinho,supermarket,,,,,,-23.5682047,-46.625979
+7515641943,node,Pão de Açúcar,supermarket,,Pão de Açúcar,Rua Fidêncio Ramos,,Mo-Sa 09:00-20:00,-23.5944758,-46.6843178
+7543111809,node,Emporio Villa Natureba,supermarket,,,Avenida Nossa Senhora do Sabará,,09:00-19:00,-23.665634,-46.6906483
+7647218507,node,Blue Point,convenience,,,Avenida Brigadeiro Faria Lima,,,-23.5638732,-46.6941985
+7649997914,node,Negreiros Supermercados - Ponte Rasa,supermarket,,,Rua Agenor de Barros,,,-23.5088206,-46.4894631
+7724371243,node,Nossa Vila,convenience,,,Rua Vergueiro,,,-23.6180934,-46.6053352
+7757223472,node,Oxxo,convenience,,Oxxo,Rua Harmonia,,,-23.5479097,-46.6918732
+7826275696,node,Mioni Mercado Superação,convenience,,,Rua Rocha,,,-23.5569885,-46.6499422
+7988887063,node,Empório do Velhinho,supermarket,,,Conselheiro Furtado,,,-23.5648736,-46.6325877
+8039793173,node,Vila das Frutas,supermarket,,,Turmalina,+55 11 3207-3539,Mo-Sa 07:30-21:00; Su 08:00-21:00,-23.5706461,-46.6317015
+8050824376,node,X Supermercados,supermarket,,,Estrada do Zircônio,+55 11 4652 3033,"Mo-Sa 07:00-21:00; Su,PH 07:00-20:00",-23.4082443,-46.49791
+8154879469,node,SM Supermercado,supermarket,,,Avenida Zumkeller,,,-23.4773565,-46.633596
+8180408072,node,Violeta,supermarket,,,,,,-23.4812794,-46.6733646
+8198818913,node,Hortifruti Frutamina,greengrocer,,,,,,-23.5903242,-46.7696259
+8270578049,node,Korin Orgânicos,greengrocer,,,Rua Coronel Artur Godói,(11) 5579-9363,Mo-Fr 08:00-20:00; Sa 08:00-18:00,-23.5851161,-46.641879
+8296559622,node,Oxxo,convenience,,Oxxo,Rua M.M.D.C.,,24/7,-23.5729547,-46.7064543
+8308688336,node,Sacolão Vale do Cordeiro,greengrocer,,,Avenida Osvaldo Valle Cordeiro,+55 11 4562 5216,Mo-Su 07:00-19:00,-23.5563706,-46.4919888
+8308695314,node,Mercadinho Chico,convenience,,,Rua Luís Percoré,,Mo-Fr 06:00-19:00; Sa 07:00-19:00; Su 07:00-13:00,-23.5576405,-46.4860412
+8340396211,node,"Rua Tibúrcio De Souza, 2611",supermarket,higa´s,,Rua Tibúrcio de Souza,,,-23.517722,-46.38837
+8380595137,node,Mercado Saraiva,supermarket,,,Rua Augusta,,,-23.5512884,-46.6505328
+8423041402,node,Shiawase,convenience,,,Avenida Jabaquara,,Mo-Sa 07:30-19:30,-23.6188256,-46.6394586
+8423184667,node,Supermercado Vila das Frutas,supermarket,,,Alameda dos Guatás,,,-23.6148758,-46.6435977
+8427288277,node,ampm,convenience,,ampm,Rua Francisco Lipi,,,-23.4902509,-46.6099027
+8435688479,node,ampm,convenience,,ampm,Avenida Corifeu de Azevedo Marques,,,-23.5595073,-46.7476453
+8543858543,node,Nagumo Menor,supermarket,,,Avenida Ragueb Chohfi,,07:00-21:00,-23.5964462,-46.4542829
+8593136947,node,Açai,convenience,,,Avenida Professor Luiz Ignácio Anhaia Mello,,,-23.591501,-46.5416438
+8593136948,node,Shell,convenience,,Shell,Avenida Professor Luiz Ignácio Anhaia Mello,,,-23.5914279,-46.5417686
+8623866176,node,Assaí Atacadista,supermarket,,Assaí Atacadista,Avenida Marquês de São Vicente,,"Mo-Sa 07:00-22:00; Su,PH 08:00-20:00",-23.5192459,-46.6728407
+8707030299,node,Mais Baratoo,convenience,,,Rua Francisco Calado,,,-23.4739281,-46.6690201
+8815675821,node,Blue Point,convenience,,,Rua Catumbi,,,-23.5259935,-46.6008533
+8890523337,node,Br Mania,convenience,,Br Mania,Rua do Gasômetro,,,-23.5440907,-46.6205585
+8958289417,node,BR,convenience,,BR,,,,-23.5041382,-46.6146062
+9015481195,node,Coop,supermarket,,,Avenida Capitão Mário Toledo de Camargo,+55 11 4453 5211,"Mo-Su,PH 08:00-22:00",-23.6979347,-46.5063947
+9054830010,node,ampm,convenience,,ampm,Rua Magarinos Torres,,,-23.5194478,-46.5838061
+9095117186,node,Carrefour Express,convenience,,Carrefour Express,Avenida Senador Queirós,,,-23.5389885,-46.6346045
+9125012100,node,BR,convenience,,BR,Largo Ubirajara,,,-23.5460153,-46.5925463
+9129556371,node,Shell Select,convenience,,Shell Select,Rua Diogo Lopes,,,-23.5626361,-46.5766131
+9146454671,node,Classe A,convenience,,,Avenida Doutor Francisco Ranieri,,,-23.4775362,-46.6461791
+9148043396,node,Minuto Pão de Açúcar,convenience,,Minuto Pão de Açúcar,,,,-23.6832478,-46.5573782
+9155566341,node,ampm,convenience,,ampm,Avenida Nova Cantareira,,24/7,-23.4863113,-46.618503
+9165891077,node,Flor,convenience,,,Rua Zumbi dos Palmares,,24/7,-23.5270072,-46.6317206
+9167712026,node,Akash,convenience,,,Rua Doutor Pedro Arbués,,,-23.5333331,-46.6300346
+9178857761,node,BR,convenience,,BR,Avenida Sapopemba,,,-23.5708276,-46.5698535
+9201087766,node,Empório Natureza em Grãos,convenience,,,Rua Diana,,,-23.5351433,-46.6827422
+9202634444,node,Shell,convenience,,Shell,Rua Alice Macuco Alves,,,-23.5395558,-46.706317
+9202634491,node,Shell,convenience,,Shell,Rua Cerro Corá,,,-23.5355046,-46.7135061
+9207964197,node,Shell,convenience,,Shell,Avenida Inajar de Souza,,,-23.5007988,-46.6860586
+9254839750,node,Coop Pereira Barreto,supermarket,,,Avenida Pereira Barreto,+55 11 4429 5717,"Mo-Su,PH 08:00-21:45",-23.6776512,-46.5380817
+9329779033,node,Varejão Estrela,greengrocer,,,Avenida Itapark,,,-23.6738183,-46.4398261
+9348108782,node,Sacolão São Jorge,supermarket,,,,,,-23.6408479,-46.5534324
+9348108783,node,Sacolão Alameda,supermarket,,,,,,-23.6397129,-46.554354
+9394857231,node,Fast Store,convenience,,,,,24/7,-23.5643307,-46.6493985
+9451162740,node,Hortifruti Novo Santo Amaro,greengrocer,,,,,,-23.6677838,-46.7380488
+9453230111,node,Mini Extra,convenience,,Mini Extra,Avenida Conceição,,,-23.4981098,-46.5955734
+9460383943,node,Monale Supermercado,supermarket,,,Avenida Fagundes Filho,,,-23.6268887,-46.6340525
+9550218139,node,Atacado Suplemento,supermarket,,,Avenida Brasil,+55 11 3280-0700,24/7,-23.5786718,-46.6624591
+9566184869,node,Supermercado Paraíso,supermarket,,,Rua Antônio Carlos Paiva Camelo,,,-23.4154346,-46.8221022
+9568898832,node,Dantas Horti Frutti,greengrocer,,,Avenida da Barreira Grande,,,-23.5905443,-46.5052564
+9588460083,node,Supermercado Paraíso,supermarket,,,Avenida Bento da Silva Bueno,+55 11 4448 1727,,-23.4150488,-46.8225649
+9632492777,node,Shell,convenience,,Shell,Avenida Dom Pedro II,,,-23.6521817,-46.5343084
+9695905988,node,GG supermecados,supermarket,,,Avenida Guarulhos,,,-23.493075,-46.5463171
+9709143860,node,Carrefour Express,convenience,,Carrefour Express,,,,-23.6103465,-46.697333
+9717344797,node,Alemão Mercadinho,convenience,,,Rua Particular,,Mo-Fr 07:30-20:00,-23.4170157,-46.5244527
+9717868729,node,Oba Hortifruti,greengrocer,,,,,,-23.5416914,-46.5774462
+9740480335,node,Mercearia e Quitanda Maky,convenience,,,,+55 11 3722 0794,,-23.5859536,-46.7204117
+9802810343,node,Midinight,convenience,,,Avenida Prestes Maia,,,-23.6595639,-46.5553152
+9840002904,node,ampm,convenience,,ampm,,,,-23.7004926,-46.548975
+9866189796,node,Shell Select,convenience,,Shell Select,,,,-23.4232295,-46.3946174
+9876875403,node,Shell Select,convenience,,Shell Select,Avenida Brigadeiro Faria Lima,,,-23.446678,-46.5215097
+9885198885,node,Hachiman Produtos Orientais,supermarket,,,,,,-23.5754508,-46.6232347
+9885929402,node,Pão de Açúcar,supermarket,,Pão de Açúcar,,,,-23.6451323,-46.7032752
+9907102808,node,Master Supermercados,supermarket,,,,,,-23.5756834,-46.6438501
+9907106072,node,Master,supermarket,,,,,,-23.554209,-46.6527817
+9921734256,node,Cab,convenience,,,,,,-23.6892113,-46.5704195
+9925249798,node,tangerina,convenience,,,Avenida Barão de Mauá,,,-23.6651206,-46.4357438
+9933123479,node,Carrefour Express,convenience,,Carrefour Express,,,,-23.5480554,-46.6420234
+9936860093,node,Carrefour,supermarket,,Carrefour,,,,-23.5703545,-46.660934
+9952885795,node,Supermercado Assunção,supermarket,,,Rua Guilherme Marconi,+55 11 98981-0062,Mo-Sa 07:00-20:00; Su 08:00-14:00,-23.6675517,-46.5251507
+9989338684,node,Mercado Laticinios Cantera,supermarket,,,,,,-23.5000495,-46.5196556
+10065254124,node,Giga Atacado - Cachoeirinha,supermarket,Giga,,Rua Koshun Takara,+55 11 39339974,Mo-Su 07:00-22:00,-23.4631092,-46.6614375
+10106660483,node,ampm,convenience,,ampm,Avenida Tiradentes,,,-23.4733189,-46.5317688
+10249605139,node,Hortifruti Mangels II,greengrocer,,,Avenida Álvaro Guimarães,,,-23.6971733,-46.5673937
+10267700050,node,Carrefour,supermarket,Groupe Carrefour,Carrefour,Avenida das Nações Unidas,,,-23.6292099,-46.7112238
+10274148853,node,Oxxo,convenience,,Oxxo,Alameda Campinas,,,-23.567507,-46.6546703
+10284825317,node,Oxxo,convenience,,Oxxo,Rua Guarani,,24/7,-23.5275204,-46.6378594
+10313320474,node,Blue Point,convenience,,,,,,-23.503967,-46.6211462
+10574305110,node,RS Musical,convenience,,,Rua General Osório,,,-23.5357054,-46.6392733
+10575511341,node,Armazém Organicos,supermarket,,,Rua Luis Góis,,,-23.6037103,-46.6479567
+10575513541,node,Empório Cereália de Produtos Naturais,supermarket,,,Rua Luis Góis,,,-23.6038702,-46.6442354
+10595279435,node,Mercado Sugói,supermarket,,,Rua MMDC,,,-23.6689945,-46.5888881
+10614390170,node,Hortifruti América,greengrocer,,,Rua Guatemala,,,-23.6925175,-46.4460354
+10655322396,node,Oxxo,convenience,,Oxxo,Avenida Olavo Bilac,,,-23.529888,-46.7944437
+10656337288,node,Supermercados Quitaúna,supermarket,,,Rua Professor João Antônio Prado,,,-23.5412071,-46.7946875
+10673387749,node,Hortifruti Tabai,greengrocer,,,Avenida Benedito Alves Turíbio,+55 11 3605 6146,,-23.5555517,-46.8118271
+10679471544,node,GBarbosa,supermarket,,GBarbosa,Rua João Carlos Munhoz Vaqueiro,,,-23.5721911,-46.801283
+10688350865,node,Supermercado Jazan,supermarket,,,Avenida José Barbosa de Siqueira,,,-23.5492115,-46.8083005
+10688701265,node,Empório Gideão,convenience,,,Avenida José Barbosa de Siqueira,,,-23.5433433,-46.8125268
+10691041213,node,Supermercado Máximo,supermarket,,,Avenida Marechal João Batista Mascarenhas de Morais,,,-23.543327,-46.809297
+10741311660,node,Oxxo,convenience,,Oxxo,,,"PH,Mo-Su 00:00-24:00",-23.5647452,-46.6855004
+10834057005,node,Mini Mercado Fátima,convenience,,,Rua Nossa Senhora de Fátima,,,-23.6242187,-46.565826
+10871230627,node,Carrefour Express,convenience,Carrefour Express Guatapará,Carrefour Express,Rua Guatapará,,"Mo-Sa 00:00-24:00,So - 22:00",-23.634051,-46.6403012
+10888198495,node,Dia,supermarket,,Dia,,,,-23.668672,-46.4878213
+10934038916,node,ampm,convenience,,ampm,Estrada Presidente Juscelino Kubitschek de Oliveira,,,-23.4619917,-46.4140217
+10951608808,node,Shell,convenience,,Shell,Avenida Águia de Haia,,,-23.5380664,-46.4765608
+10956003107,node,Sacolão da Fartura,supermarket,,,,,,-23.5865986,-46.5689799
+10990133926,node,Empório Daruma,supermarket,,,,,,-23.5594595,-46.6614496
+10992121084,node,Minuto Pão de Açúcar,supermarket,,Pão de Açúcar,,,"Mo-Sa 07:00-22:00; Su,PH 08:00-20:00",-23.5779153,-46.6349815
+10992599439,node,Oxxo,convenience,,Oxxo,,,,-23.5777048,-46.6394613
+10992599443,node,Oxxo,convenience,,Oxxo,,,,-23.5845998,-46.6434424
+11017323232,node,Mercado Extra,supermarket,,Mercado Extra,,,,-23.5570409,-46.6362459
+11047307175,node,Barbosa Supermercados,supermarket,,,Avenida Álvaro Guimarães,+55 11 3003 2557,24/7,-23.6985858,-46.5662166
+11061698952,node,Oxxo,convenience,,Oxxo,,,,-23.5660539,-46.6872577
+11093506495,node,Kazu Dooces,supermarket,,,,,,-23.5555683,-46.6752671
+11103492451,node,Mix,supermarket,,,Avenida Brigadeiro Faria Lima,,,-23.4413478,-46.521502
+11146400936,node,Koa Food Market,convenience,,,Avenida da Aclimação,+55 (11) 3275-3002,"Mo-Sa 09:00-22:00; Su,PH 09:00-21:00",-23.572632,-46.6330848
+11146491606,node,Meiwa,convenience,,,Rua Batista Cepelos,+55 11 3207-9564,Mo-Sa 08:00-20:00; Su 08:30-13:30,-23.575551,-46.6342988
+11160021029,node,Rede plus,supermarket,,,,,,-23.4598398,-46.6751331
+11167050985,node,OXXO,convenience,,OXXO,Rua Alexandre Dumas,,24/7,-23.6356167,-46.6983859
+11167097717,node,OXXO,convenience,,OXXO,,,24/7,-23.6391186,-46.6958722
+11203945598,node,Oxxo,convenience,Grupo Nós,Oxxo,Rua Ernesta Pelosini,,,-23.7011909,-46.5501398
+11215827792,node,St. Marche,supermarket,,,,,,-23.5607564,-46.6728332
+11218637458,node,Marcos & Lu Mercadinho,convenience,,,Rua São Paulo,,,-23.5568474,-46.6309644
+11242285877,node,Vila das Frutas,supermarket,,,,,,-23.6204837,-46.6285115
+11251940671,node,DIA Supermercado,supermarket,,Dia,Rua Visconde de Inhaúma,,,-23.6171043,-46.6321113
+11256119537,node,Mercado Lucy Dantas,supermarket,,,Rua Francisco José Viana,,Mo-Sa 08:00-20:30; Su 08:00-13:30,-23.6080953,-46.4000464
+11256584937,node,Magic Doces,convenience,,,Avenida Souza Ramos,,Mo-Sa 08:00-18:00; Su 08:00-13:00,-23.5800126,-46.4113151
+11256635437,node,Martins & Santos,convenience,,,Rua Antônio Venosa,,Mo-Sa 08:00-21:00; Su 08:00-16:00,-23.6079453,-46.4004171
+11277880013,node,Cia dos doces,convenience,,,,,,-23.5621922,-46.6870213
+11286427900,node,Mercado São Joaquim,supermarket,,,Rua Manoel Leite da Cunha,,,-23.643081,-46.7943946
+11288757869,node,Mercado Imperador,supermarket,,,Rua Ana Clara,,de domimgo à domingo das 08:00 as 20:00,-23.6101211,-46.5322033
+11290907590,node,Mercadinho jóia,supermarket,,,Rua Ana Clara,,de domingo á domingo das 07:00 ás 20:00,-23.6111471,-46.5300157
+11296565522,node,Hortifruti Nações,supermarket,,,,,,-23.6436928,-46.4952758
+11308487951,node,Oxxo,convenience,,,,,,-23.5278615,-46.688641
+11334765353,node,Americanas express,convenience,,,,,,-23.5645651,-46.6893467
+11339470665,node,Gaivota,supermarket,,,,,,-23.5653545,-46.6918564
+11396915965,node,Supermercado Nova Central,supermarket,,,,,,-23.6130646,-46.7260663
+11396929472,node,Hortifruti do Bahia,greengrocer,,,,,,-23.6136036,-46.7261379
+11406392216,node,Oxxo,convenience,,Oxxo,,,,-23.5481907,-46.6881341
+11406431192,node,Pão de Açúcar,supermarket,,Pão de Açúcar,,,,-23.5463888,-46.6689622
+11410153935,node,Oxxo,convenience,,Oxxo,,,,-23.5360843,-46.6571064
+11420369769,node,Dia,supermarket,,Dia,,,,-23.5359302,-46.6569203
+11423624155,node,Oxxo,convenience,,Oxxo,,,,-23.5538636,-46.6609847
+11423628479,node,Carrefour Express,convenience,,Carrefour Express,,,,-23.5543753,-46.6610132
+11435009194,node,Hudson,convenience,,,,,,-23.4274264,-46.4802423
+11435700853,node,Mercadinho Nantai,supermarket,,,Rua Mata Machado,,,-23.6052391,-46.5588653
+11554657563,node,Oxxo,convenience,,Oxxo,,,,-23.5582119,-46.6871299
+11599466670,node,Minuto Pão de Açúcar,convenience,,Minuto Pão de Açúcar,,,,-23.5833591,-46.6043542
+11617777353,node,Armazém do Campo,supermarket,,,Alameda Eduardo Prado,,Mo-Sa 09:00-19:00,-23.5310595,-46.6497173
+11641458296,node,Mini Mercado Extra,supermarket,,,Rua Santa Izabel,0800 779 6761,"Mo-Fr 07:00-22:00; Sa, Su 08:00-20:00",-23.477896,-46.5419074
+11645142358,node,Carrefour Express,convenience,,Carrefour Express,,,,-23.6211969,-46.5528402
+11645180531,node,Joanin,supermarket,,,,,,-23.6138661,-46.5727209
+11694911714,node,Oxxo,convenience,,Oxxo,Rua dos Vianas,,,-23.7001861,-46.5438877
+11762294206,node,Oxxo,convenience,,Oxxo,Rua Loefgren,,,-23.5998545,-46.6337408
+11763807536,node,ampm,convenience,,ampm,,,,-23.5153337,-46.676041
+11767451238,node,Carrefour Express,convenience,,Carrefour Express,,,,-23.5512812,-46.6498438
+11773735890,node,A vendinha,convenience,,,,,,-23.5553839,-46.6780747
+11782194551,node,Supermercado Amigos,supermarket,,,,,,-23.5584099,-46.6369402
+11784056719,node,Sacolão Avanhandava,supermarket,,,,,,-23.5508262,-46.6464843
+11784714165,node,Carrefour Express,convenience,,Carrefour Express,,,,-23.6099164,-46.6944194
+11793685299,node,Fonte Nova Supermercado,supermarket,,,Rua Adriático,,,-23.6973964,-46.5151208
+11795637617,node,Shell Select,convenience,,Shell Select,,,,-23.5481559,-46.6486578
+11795683443,node,Multicoisas,convenience,,,,,,-23.5427521,-46.6564319
+11803960551,node,Casa Mart,convenience,,,,,,-23.5544603,-46.6357663
+11810063504,node,Oxxo,convenience,,Oxxo,,,,-23.5540231,-46.6535242
+11850358722,node,Augusta sacolão e mercado,supermarket,,,,,,-23.5549546,-46.6567313
+11853824333,node,Dia,supermarket,,Dia,,,,-23.6251005,-46.6088254
+11853849653,node,OXXO,convenience,,OXXO,,,,-23.6228071,-46.6079845
+11907799525,node,Dia Market,supermarket,,Dia Market,,,,-23.5641607,-46.6666437
+11921009103,node,Mercado Mascena,supermarket,,,Avenida Itamarati,,,-23.6487194,-46.4971431
+11933957125,node,Mercado HF,convenience,,,,,,-23.6542395,-46.6570676
+11940200484,node,Oxxo,convenience,Grupo Nós,Oxxo,Avenida Wallace Simonsen,,,-23.7030639,-46.5442369
+11940251500,node,Oxxo,convenience,,,,,,-23.633909,-46.6941003
+11946539198,node,Supermercado Otugui,supermarket,,,Rua Três Rios,+55 (11) 3326-1419,Mo-Sa 08:30-19:00; Su 09:00-15:00,-23.5294088,-46.6366415
+11960791338,node,Mercadinho Julimais,supermarket,,,Rua Mário Lago,,07:00-22:00,-23.4570366,-46.5849997
+11963476851,node,Supermercado Cercadão,supermarket,,,Estr. da Baronesa,11 4858-3723,Segunda a Sábado: 8h às 22h Domingos e Feriados: 8h às 20h,-23.6954156,-46.7635081
+11967887678,node,Sacolão Sacoman,greengrocer,,,Avenida Garcia de Ávila,,,-23.6807367,-46.6322281
+11970046688,node,Carrefour Express,convenience,,Carrefour Express,,,,-23.6034146,-46.6622994
+11979622383,node,Oxxo,convenience,,Oxxo,,,24/7,-23.6256366,-46.6987458
+11982476051,node,Hortifruti-R.E,greengrocer,,,,,,-23.6195124,-46.6502404
+12010301328,node,Comercial Esperança,supermarket,,,Avenida Sapopemba,,08:00-22:00,-23.6122877,-46.4801235
+12010603486,node,Da Praça,supermarket,,,Avenida João Rodrigues Ruiz,,,-23.6117807,-46.4939817
+12023111263,node,ampm,convenience,,ampm,Avenida Doutor Sylvio de Campos,,,-23.404637,-46.7507807
+12033717087,node,Dia,supermarket,,Dia,,,,-23.5540676,-46.6612516
+12038462502,node,Mercado Jupiter,supermarket,,,Avenida Isaac Aizemberg,,,-23.6983193,-46.5829901
+12065457680,node,Mercado Zoosafari,supermarket,,,Avenida do Cursino,+55 11 2334 1121,"Mo-Sa 07:00-21:00; Su,PH 09:00-14:30",-23.6553377,-46.6138751
+12077301993,node,Empório das frutas,greengrocer,,,,,,-23.5533021,-46.6507061
+12087511124,node,Oxxo,convenience,,Oxxo,,,,-23.5893592,-46.6351007
+12091678936,node,Oxxo,convenience,,Oxxo,,,,-23.5502158,-46.6450153
+12099392955,node,Zaffari,supermarket,,,,,,-23.6312838,-46.7375491
+12100637837,node,Oxxo,convenience,,Oxxo,,,,-23.5612756,-46.6879237
+12105272330,node,Oxxo,convenience,,Oxxo,,,,-23.5739469,-46.6494987
+12106179888,node,Oxxo,convenience,,Oxxo,,,"Mo-Su,PH 00:00-00:00",-23.545489,-46.6488404
+12113574242,node,Mini Extra,convenience,,Mini Extra,,,,-23.5420362,-46.6405338
+12113582592,node,Oxxo,convenience,,Oxxo,,,24/7,-23.5444735,-46.6426059
+12139306734,node,Pão de Açúcar,supermarket,Pão de Açúcar,Pão de Açúcar,Rua Biobedas,,,-23.6220514,-46.6382318
+12148169620,node,Pão de Açúcar,supermarket,,,Avenida Jornalista Roberto Marinho,,,-23.6270621,-46.6759627
+12229918527,node,Oxxo,convenience,,Oxxo,,,,-23.5409054,-46.6972832
+12257957095,node,Mercado Arouquense,supermarket,,,Rua Conselheiro Moreira de Barros,,,-23.4758452,-46.6502957
+12290521349,node,Carrefour Express,convenience,,Carrefour Express,,,,-23.5593986,-46.6804219
+12290536600,node,Dia,supermarket,,Dia,,,,-23.5600727,-46.6815553
+12290555133,node,Zé do pito,convenience,,,,,,-23.5542092,-46.6559399
+12323702162,node,Supermercados Joanin,supermarket,,,Avenida Valentim Magalhães,+55 11 4458-0533,"Mo-Sa 07:00-20:00; Su,PH 07:00-19:00",-23.678324,-46.49832
+12324135408,node,Hortifruti e Distribuidora Battista,greengrocer,,,Estrada Turística do Jaraguá,,,-23.4866816,-46.7569064
+12326880276,node,Sacolão Pague Bem,greengrocer,,,Rua Alagoinha,,,-23.5034687,-46.810852
+12326912213,node,Tókio Supermercado,supermarket,,,Rua Alagoinha,,,-23.5044714,-46.8105182
+12327721908,node,Frutas da Estação,greengrocer,,,Rua Astorga,,,-23.5295183,-46.5144521
+12348101269,node,Oxxo,convenience,,,,,,-23.6325665,-46.6964592
+12368624360,node,BR Mania,convenience,,BR Mania,Avenida Antônio Carlos Costa,,,-23.5507133,-46.7848757
+12383503980,node,Marfê Empório,convenience,,,Avenida Engenheiro Queirós Teles,,,-23.574019,-46.7795269
+12439085712,node,Sacolão 2000,greengrocer,,,Rua Darci Ribeiro,,,-23.5840714,-46.8102013
+12451520591,node,Hudson,convenience,,,,,,-23.4279514,-46.4828631
+12473469739,node,Oxxo,convenience,,Oxxo,Avenida Vila Ema,,,-23.5919855,-46.5403212
+12479378708,node,St marche,supermarket,,,,,,-23.508046,-46.6487864
+12479418335,node,Pomar da Vila,supermarket,,,,,,-23.5093786,-46.6524458
+12487273097,node,Dia,supermarket,,,,,,-23.5013145,-46.6394236
+12489367713,node,Dia,supermarket,,Dia,,,,-23.4999916,-46.6483006
+12489375897,node,Mini Extra,convenience,,Mini Extra,,,,-23.499857,-46.647693
+12489406599,node,Monarca,convenience,,,,,,-23.4986218,-46.6433472
+12489459024,node,Gold Prime,supermarket,,,,,,-23.4996278,-46.6464168
+12489771919,node,Nippon Center,convenience,,,,,,-23.4951404,-46.6451612
+12492708959,node,Sirvase,convenience,,,,,,-23.6657871,-46.7149586
+12492992978,node,Empório Horti Sabor,greengrocer,,,Rua Tabapuã,,,-23.5842147,-46.6802921
+12559385152,node,minuto Pão de Açúcar,convenience,,,,,,-23.6075868,-46.6694402
+12581644639,node,Hirota Food,supermarket,,,Rua Vieira de Morais,,,-23.6172241,-46.6777324
+12582587110,node,ampm,convenience,,ampm,,,,-23.5243733,-46.5065603
+12596230606,node,Oxxo,convenience,,Oxxo,,,,-23.58292,-46.675465
+12645897423,node,VIP 1000,convenience,,,,,,-23.5851154,-46.7212969
+12650027798,node,Mercado Extra,supermarket,,Mercado Extra,,,,-23.6008005,-46.7276402
+12650606222,node,Shell Select,convenience,,Shell Select,,,,-23.6060764,-46.7128874
+12650709161,node,ampm,convenience,,ampm,,,,-23.5945091,-46.7208253
+12699100996,node,Mercado Guedala,convenience,,,,,,-23.5855985,-46.7206029
+12735387499,node,Empório Bom Gosto,supermarket,Renato,,Rua Fructuoso Vianna,,Mo-Su 07:00-18:00,-23.4509435,-46.6294936
+12745877032,node,Mercadinho São José,supermarket,,,Rua Aqueronte,,,-23.6945916,-46.5173396
+12747955159,node,Quitanda Tomio,greengrocer,,,Rua dos Três Irmãos,,Mo-Fr 06:30-21:00; Sa 06:30-20:00; Su 08:00-14:00,-23.5898491,-46.715733
+12750001902,node,Mercado e Rotisserie da Barra,supermarket,,,Rua Cônego Vicente Miguel Marino,,Mo-Sa 07:00-22:00/ Su 07:00-18:00,-23.5267738,-46.6495946
+12751110423,node,IL Frutas,greengrocer,,,Rua Morro Crispim da Costa,,,-23.4458057,-46.7052179
+12752655226,node,Mercadinho Aguapeí,convenience,,,Rua Aguapeí,,Mo-Fr 07:00 - 18:00; Sa 07:00 - 12:00,-23.6452837,-46.5532599
+12752672347,node,Sacolão Maçã Verde,greengrocer,,,Rua Oliveira Pinto,,tu-sa 08:oo -16:30; su 08:00 - 11:30,-23.6226989,-46.5239048
+12768557047,node,Shell,convenience,,Shell,Avenida dos Estados,,,-23.6516838,-46.5116548
+12770867168,node,T-Burguer,convenience,,,Avenida Dom Pedro I,,,-23.676645,-46.5110945
+12770867170,node,Dom Pedro I Hortifruti,greengrocer,,,Avenida Dom Pedro I,+55 11 2354 1398,,-23.6764988,-46.5111505
+12780066168,node,Empório Morato,supermarket,,,,,,-23.5817035,-46.7123558
+12791608407,node,Sousa Coco Distribuidora,greengrocer,,,,,,-23.5809245,-46.7118278
+12795244516,node,BR Mania,convenience,,BR Mania,,,,-23.5822129,-46.7121294
+12815855266,node,EntrePosto,convenience,,,,,,-23.5936009,-46.7424707
+12848946446,node,Mercado Extra,supermarket,,Mercado Extra,,,,-23.5447179,-46.7559396
+12849020005,node,Mercadinho do Naldo,supermarket,,,Rua Assum Preto,,,-23.5464963,-46.7434091
+12849045098,node,Mini Sacolão JN,greengrocer,,,Rua Assum Preto,,,-23.5460547,-46.7432175
+12849159512,node,Mercado do Cobra,convenience,,,Rua Catalunha,,,-23.5413992,-46.7434772
+12875473207,node,Mercado Mix GM,supermarket,,,Avenida Elísio Cordeiro de Siqueira,+55 11 96598-7568,,-23.5011563,-46.7474516
+12879354613,node,Supermercado La Barca,supermarket,,,,,,-23.5842106,-46.751524
+12923802113,node,Carrefour,supermarket,,Carrefour,,,,-23.6945232,-46.7006028
+12923802114,node,Dia,supermarket,,Dia,,,,-23.68952,-46.7013074
+12923802115,node,Hortifruti Interlagos,greengrocer,,,,,,-23.6879779,-46.7043336
+12923802116,node,Atacadão,supermarket,,Atacadão,,,,-23.6856069,-46.6917468
+12923802117,node,Assaí Atacadista,supermarket,,Assaí Atacadista,,,,-23.6785421,-46.6952301
+12923802118,node,Roldão Atacadista,supermarket,,,,,,-23.6734037,-46.7002499
+12923802119,node,Hirota Food Express,convenience,,,,,,-23.6824525,-46.6884604
+12923802120,node,Extra Mercado,supermarket,,,,,,-23.6803236,-46.683199
+12924059280,node,Oxxo,convenience,,Oxxo,Rua Afonsina,,,-23.654006,-46.5655838
+12962093977,node,Supermercado Sapopemba,supermarket,,,Avenida Sapopemba,,,-23.6127609,-46.4920946
+12975150896,node,Oxxo,convenience,,Oxxo,Rua Líbero Badaró,,24/7,-23.5452571,-46.635463
+12975150897,node,Oxxo,convenience,,Oxxo,Rua Boa Vista,,,-23.5447113,-46.6338078
+12975150898,node,Oxxo,convenience,,Oxxo,Rua Direita,,24/7,-23.5487269,-46.6344815
+12984429635,node,Carrefour Express,convenience,,Carrefour Express,,,,-23.555499,-46.6572178
+12986403679,node,Extra,supermarket,GPA,Extra,Estrada M'Boi Mirim,,,-23.6714992,-46.7418353
+13014491275,node,Dia,supermarket,,Dia,Avenida Eliseu de Almeida,,Mo-Fr 07:00-21:00,-23.5903733,-46.7376531
+13017953575,node,Mercado do Gaúcho,convenience,Gaúcho,,Rua Capitão Francisco Teixeira Nogueira,,Mo-Fr 06:00-02:00; PH off,-23.5129352,-46.6870741
+13121752416,node,Conveniência No Posto,convenience,,,Avenida Clarisse de Jesus Lázaro Bedeschi,,,-23.67021,-46.4710611
+13131453169,node,Carrefour Express,convenience,,Carrefour Express,,,,-23.5592336,-46.6601184
+13131887964,node,Hortifruti Destino Verde,supermarket,Hortifruti Destino Verde,,Estrada Tenente José Maria da Cunha,,Mo-Sa 08:00-18:00,-23.6260081,-46.7883859
+13172345441,node,Galena Market,supermarket,,,,,,-23.5893797,-46.7169591
+13172534613,node,Oxxo,convenience,,,,,,-23.5390143,-46.6708453
+13189097703,node,Oxxo,convenience,,,Rua Doutor Bento Teobaldo Ferraz,,24/7,-23.523951,-46.665361
+13189097809,node,Sepermercado,supermarket,,,,,,-23.522598,-46.6410418
+13191290958,node,Empório La Granola,supermarket,,,,+55 11 2532-0857,Tu-Fr 09:00-19:00; Sa 09:00-18:00; Su 09:00-14:00,-23.574388,-46.6321349
+13205035430,node,Shell Select,convenience,,,,,,-23.5878624,-46.723277
+13230606822,node,Quitanda do Quinha,greengrocer,,,Viela do macaco,,Mo-Fr 08:00-17:00,-23.5467932,-46.744678
+13233587492,node,Sacolão Pague Menos,greengrocer,,,,,,-23.6737741,-46.6562055
+13233604961,node,Mercadinho do Edson,convenience,,,,,,-23.6734738,-46.6560674
+13233625789,node,Distribuidora Aliança,convenience,,,,,,-23.6737673,-46.6560453
+13235148101,node,Mini extra,convenience,,,Rua do Bosque,,,-23.5249484,-46.6574733
+13235148201,node,Oxxo,convenience,,,,,,-23.5255922,-46.6554887
+13235148205,node,Mercado extra,convenience,,,,,,-23.5291333,-46.6370573
+13235148404,node,Oxxo,convenience,,,,,,-23.5240636,-46.6441986
+13235148408,node,Mercado,convenience,,,,,,-23.5037974,-46.6235515
+13235148504,node,Oxxo,convenience,,,,,24/7,-23.5008685,-46.6234439
+13235669886,node,Sacolão Joaniza,greengrocer,,,,,,-23.6754742,-46.6628348
+13235691841,node,Ayumi Supermercados,supermarket,,,,,,-23.6739863,-46.6649709
+13235706726,node,Hortimax Hortifruti,greengrocer,,,,,,-23.6736412,-46.6647533
+13235750209,node,Sacolão Economia,greengrocer,,,,,,-23.675485,-46.6631761
+13235775925,node,Santa Catarina Hortifruti,greengrocer,,,,,,-23.6536062,-46.6573289
+13238171301,node,Carrefour,convenience,,,,,24/7,-23.425784,-46.4819706
+13248178501,node,Oxxo,convenience,,,,,24/7,-23.5002817,-46.6308691
+13248178802,node,Oxxo,convenience,,,,,24/7,-23.5022679,-46.6304921
+13248178902,node,Zapith,convenience,,,,,,-23.5031021,-46.6258287
+13255956501,node,Roldao atacadista,supermarket,,,Avenida General Ataliba Leonel,,Mo-Sa 07:00-22:00; Su 08:00-18:00,-23.5005917,-46.6138753
+13272104272,node,Recanto Supermercado e Hortifruti,supermarket,,,,,,-23.5789502,-46.7102395
+13278113705,node,Cayates,convenience,,,,,,-23.5096863,-46.6261155
+13278113802,node,Carrefour,convenience,,,,,,-23.5603762,-46.6383998
+13278114005,node,Jjotas,convenience,,,,,,-23.5610205,-46.6347779
+13278114006,node,Mercado ana,convenience,,,,,,-23.5592567,-46.6336351
+13278114503,node,Gaspar presents,convenience,,,Rua Voluntários da Pátria,01122513008,Mo-Sa 08:00-19:30; Su 08:00-14:00,-23.5060304,-46.626383
+13278115903,node,Oxxo,convenience,,,,,24/7,-23.5601207,-46.6332207
+13286290899,node,Freguesia,supermarket,,,,,,-23.4941791,-46.6970805
+13302544357,node,Supermercado Mirassol,supermarket,,,Avenida João Ventura dos Santos,,,-23.4949758,-46.7927077
+13311843739,node,Mercado Extra,supermarket,,Mercado Extra,,,,-23.642889,-46.560677
+13320080803,node,Mini extra,convenience,,,,,,-23.5519592,-46.6452595
+13320080805,node,Oxxo,convenience,,,,,,-23.5530719,-46.6470591
+13320081001,node,Oxxo,convenience,,,,,,-23.5330867,-46.6468106
+27021145,way,Assaí Atacadista,supermarket,,Assaí Atacadista,Avenida Ragueb Chohfi,+55 11 2010 1200,"Mo-Sa 07:00-22:00; Su,PH 08:00-18:00",-23.6113852,-46.4741181
+34700909,way,Carrefour,supermarket,,Carrefour,,,,-23.4397484,-46.5410717
+37354684,way,Assaí Atacadista,supermarket,Assaí,Assaí Atacadista,,,,-23.5183859,-46.7267305
+38043322,way,Sonda Supermercados,supermarket,,,Rua Apucarana,,,-23.5467205,-46.5636345
+38360255,way,Supermercado Sonda,supermarket,,,,,,-23.5269393,-46.6714204
+38389005,way,Pão de Açúcar,supermarket,,Pão de Açúcar,,,,-23.5444795,-46.5689397
+38730561,way,Vip Supermercado,supermarket,,,Rua Monte Serrat,,,-23.5512168,-46.5598593
+39124578,way,Carrefour,supermarket,,Carrefour,,,Mo-Sa 07:00-22:00; Su 08:00-21:00,-23.6181,-46.6269874
+39124579,way,Carrefour,supermarket,,Carrefour,,,Mo-Sa 07:00-22:00; Su 08:00-21:00,-23.6177854,-46.6257407
+47877707,way,Carrefour,supermarket,,Carrefour,Travessa do Rosário,,,-23.467722,-46.5212714
+60723580,way,Pão de Açúcar,supermarket,,Pão de Açúcar,Avenida Doutor Ricardo Jafet,,24/7,-23.5880969,-46.6204932
+62194916,way,Assaí Atacadista,supermarket,,Assaí Atacadista,,,24/7,-23.5163063,-46.518777
+75196539,way,Assaí Atacadista,supermarket,,Assaí Atacadista,,,,-23.5571006,-46.7472702
+75978326,way,Atacadão Pirituba,supermarket,Grupo Carrefour Brasil,,Avenida Mutinga,,,-23.4853544,-46.7391192
+79383937,way,Pastorinho,supermarket,Pastorinho,,Avenida Raimundo Pereira de Magalhães,,Mo-Sa 07:00-22:00,-23.5059366,-46.7161321
+105517775,way,Extra,supermarket,,Extra,Avenida Nossa Senhora do Sabará,,,-23.6803344,-46.6831957
+111636312,way,Pão de Açúcar,supermarket,,Pão de Açúcar,Avenida Santo Amaro,,,-23.6301475,-46.6909472
+111789720,way,Pão de Açúcar,supermarket,Pão de Açúcar,Pão de Açúcar,Avenida Major Sylvio de Magalhães Padilha,,24/7,-23.6275855,-46.7170232
+111875361,way,Supermercado Nagumo - Parq. Santa Madalena,supermarket,,,Avenida Manuel Pimentel,,,-23.6101951,-46.5086686
+112413223,way,Carrefour,supermarket,Carrefour,Carrefour,,,Mo-Sa 07:00-23:00; Su 08:00-22:00,-23.6258624,-46.6864775
+112655978,way,Pão de Açúcar,supermarket,Pão de Açúcar,Pão de Açúcar,Avenida Washington Luís,,,-23.6446958,-46.6739872
+118304714,way,Mercado Extra,supermarket,,Mercado Extra,,,,-23.5878833,-46.6761799
+123814333,way,Assai Atacadista - Aeroporto,supermarket,Assai,Assai,,,,-23.62856,-46.6673624
+124518854,way,Carrefour Anália Franco,supermarket,,Carrefour,Avenida Regente Feijó,,,-23.5602411,-46.5600635
+126123566,way,Natural da Terra Hortifruti Alto da Boa Vista,supermarket,Natura da Terra Hortifruti,,Avenida Santo Amaro,,Mo-Su 07:30-22:00,-23.6383734,-46.6974957
+126421751,way,Oxxo,convenience,,,Avenida Santo Amaro,,,-23.636079,-46.6958992
+137437983,way,Atacadão,supermarket,,Atacadão,Avenida Presidente Kennedy,,,-23.6850618,-46.6323004
+137477063,way,Coop,supermarket,,,Avenida Sete de Setembro,,Mo-Su 08:00-22:00,-23.6928028,-46.6195616
+141530977,way,Supermercado Suporte,supermarket,,,,,,-23.4859925,-46.7554951
+146486555,way,Atacadão,supermarket,,Atacadão,Rua do Tesouro,+55 11 4788 3333,Mo-Sa 07:00-22:00,-23.6073172,-46.7590857
+146513787,way,Carrefour,supermarket,,Carrefour,,,,-23.5853396,-46.7788287
+146574499,way,Shell,convenience,,Shell,Rua Azém Abdalla Azém,+55 11 3727-1476,,-23.5809726,-46.7309345
+146577895,way,Pão de Açúcar,supermarket,,Pão de Açúcar,Rua Voluntários da Pátria,,,-23.5052433,-46.6267379
+151617107,way,Carrefour,supermarket,,Carrefour,,,,-23.5133052,-46.6550025
+152906287,way,Atacadão,supermarket,,Atacadão,Avenida Hilário Pereira de Souza,,Mo-Su 08:00-22:00; PH Off,-23.5359514,-46.7673537
+152906292,way,Carrefour,supermarket,,Carrefour,Avenida dos Autonomistas,,,-23.5373695,-46.7683941
+152926457,way,Carrefour,supermarket,Carrefour,Carrefour,Avenida dos Autonomistas,,,-23.5381282,-46.7708881
+153967245,way,Mercado Soares,supermarket,,,,,,-23.520048,-46.3985622
+154059869,way,Atacadão,supermarket,,Atacadão,,,,-23.4934201,-46.4210717
+154059870,way,Atacadão,supermarket,,Atacadão,,,,-23.493472,-46.4216056
+154074024,way,Carrefour,supermarket,Groupe Carrefour,Carrefour,Acesso Avenida Pereira Barreto,,,-23.6696486,-46.5358375
+154253147,way,Supermercado Sonda,supermarket,,,Avenida Pereira Barreto,+55 11 2132 0850,"Mo-Sa ,PH 07:00-22:00",-23.6863201,-46.5463217
+154389159,way,Assaí Atacadista,supermarket,,Assaí Atacadista,Avenida Pereira Barreto,+55 11 4422 9361,"Mo-Sa 08:00-22:00; Su,Ph 08:00-18:00",-23.6835005,-46.5478079
+154966131,way,Assaí Atacadista,supermarket,,Assaí Atacadista,Rua Nossa Senhora das Mercês,,,-23.6179426,-46.6091363
+155353315,way,Ita,supermarket,,,,,,-23.5391922,-46.4397841
+157482222,way,Mercado Extra,supermarket,,Mercado Extra,Rua Dona Primitiva Vianco,,"Mo-Sa 07:00-22:00; Su,PH 08:00-20:00",-23.5318202,-46.7759691
+158290505,way,Giga Atacado,supermarket,,,Avenida Coronel Sezefredo Fagundes,,,-23.4620618,-46.6023467
+159113728,way,Hipermercado Bergamini,supermarket,,,Avenida Luís Stamatis,+55 11 2249 8600,Mo-Sa 07:30-22:30; Su 07:30-22:00; PH 07:30-22:00,-23.4670031,-46.5814349
+159264306,way,Mercado Extra,supermarket,Extra,Mercado Extra,Avenida Doutor Ricardo Jafet,,07:00-22:00,-23.589846,-46.6189966
+159370984,way,Assaí Atacadista,supermarket,,Assaí Atacadista,Avenida Jorge Amado,,,-23.6099942,-46.7532737
+160181310,way,Pão de Açúcar,supermarket,,Pão de Açúcar,Avenida Industrial,,,-23.6475701,-46.5322669
+163655389,way,Pão de Açúcar Santo Amaro,supermarket,Pão de Açúcar,Pão de Açúcar,Avenida Santo Amaro,,,-23.6223556,-46.6853159
+164337987,way,Carrefour,supermarket,Groupe Carrefour,Carrefour,Avenida Morvan Dias de Figueiredo,,"Mo-Su,PH 08:00-23:00",-23.5222165,-46.5991141
+165265472,way,Sacolão Vila Sônia,greengrocer,,,,,,-23.5879478,-46.7277483
+166859403,way,Carrefour,supermarket,,Carrefour,,,,-23.6108606,-46.5650358
+168759487,way,Pastorinho Supermercados,supermarket,,,Rua Domingos de Morais,,,-23.5935614,-46.6360477
+171488423,way,Sonda Supermercados,supermarket,,,Rua Carlos Vicari,,,-23.5249216,-46.6831634
+172361090,way,Assaí Atacadista,supermarket,,Assaí Atacadista,Avenida Salgado Filho,,,-23.4544875,-46.5350636
+179669882,way,Carrefour,supermarket,Carrefour,Carrefour,Avenida do Taboão,+55 11 4176 9900,,-23.6552254,-46.5952332
+179791700,way,Coop,supermarket,,,,+55 11 4438 4477,Mo-Su 07:00-22:00,-23.6642028,-46.5234592
+180396868,way,Carrefour,supermarket,,Carrefour,Rua Oratório,,,-23.646218,-46.5265892
+180579339,way,Mercado Samara,supermarket,,,,,,-23.6390214,-46.5322201
+180625337,way,Andorinha Hiper Center,supermarket,,,Avenida Parada Pinto,,,-23.4720541,-46.6501606
+182205489,way,Coop,supermarket,,,Avenida Utinga,+55 11 4463 5464,"Mo-Su,PH 08:00-22:00",-23.6195052,-46.5384725
+183017550,way,Da Santa,greengrocer,,,Rua Santa Cruz,,,-23.6014831,-46.6205664
+183017617,way,Oxxo,convenience,,Oxxo,Rua Silva Bueno,,,-23.5950037,-46.601207
+183752943,way,Extra,supermarket,,Extra,Rua Malvina Ferrara Samarone,,,-23.6045831,-46.6043915
+185797053,way,Atacadão,supermarket,,Atacadão,Avenida Doutor Abraão Ribeiro,,,-23.5217731,-46.6577609
+185905363,way,Sonda Supermercado,supermarket,Sonda,,,+55 11 2132-0800,,-23.5827471,-46.592155
+186581448,way,Extra Fácil,supermarket,,,,,,-23.5817651,-46.7603253
+186653889,way,Piccin Supermercados,supermarket,,,,,,-23.5801981,-46.746122
+187561178,way,Roldão Atacadista,supermarket,,,Avenida Salgado Filho,+55 11 2087 7000,,-23.4496464,-46.5351914
+189594599,way,Supermercado Nagumo,supermarket,,,Avenida Jurema,+55 11 2484 1455,"Mo-Sa 08:30-21:00; Su,PH 08:30-14:00",-23.4439882,-46.4088848
+194855938,way,Atacadão,supermarket,,Atacadão,Rodovia Presidente Dutra,,,-23.4383922,-46.4374296
+198295047,way,Assaí Atacadista,supermarket,Assaí,Assaí Atacadista,Rua Javari,,"Mo-Su,PH 06:00-24:00",-23.553863,-46.6011081
+202289399,way,Macarroni Balas e Doces,supermarket,,,Rua Francisco Bruno,+55 11 99726-4181,,-23.4848626,-46.6385549
+217821322,way,St Marche,supermarket,,,Rua Cotoxó,,,-23.5349887,-46.687329
+221543161,way,D’avó Itaim Paulista,supermarket,,,Avenida Marechal Tito,+55 11 2563 2200,"Mo-Sa 08:00-22:00; Su,PH 09:00-20:00",-23.4941872,-46.4128749
+223139500,way,Atacadão,supermarket,,,,,,-23.5598131,-46.447156
+226011197,way,Atacadão,supermarket,,Atacadão,Avenida Itapark,+55 11 4516 4825,Mo-Sa 06:00-19:00; Su 08:00- 18:00; PH off,-23.6776539,-46.4380156
+226011580,way,Coop Itapark,supermarket,,,Rua Alonso Vasconcelos Pacheco,,,-23.682186,-46.4414282
+230527353,way,Carrefour,supermarket,,Carrefour,,,,-23.5124151,-46.6748451
+230910242,way,Mercado Extra,supermarket,,Mercado Extra,,,,-23.5818919,-46.5635628
+234814810,way,Atacadão,supermarket,,Atacadão,Avenida Raimundo Pereira de Magalhães,,,-23.4367872,-46.7194838
+234814910,way,Sonda Supermercados,supermarket,Sonda Supermercados,,Avenida Raimundo Pereira de Magalhães,+55 11 3943 9000,Mo-Su 07:00-22:00,-23.4415921,-46.7220818
+241571544,way,Supermercado Máximo,convenience,,,Rua Brentano,,,-23.5331847,-46.7265031
+241951851,way,Pão de Açúcar,supermarket,,Pão de Açúcar,Rua Teodoro Sampaio,,Mo-Su 07:00-24:00,-23.5639471,-46.6866957
+243093706,way,Sonda,supermarket,,,,,,-23.4858361,-46.6928745
+244002557,way,Mercado Municipal de Pirituba,supermarket,,,,,,-23.4912784,-46.7172106
+244102212,way,Sacolão Oba,greengrocer,,,Rua Ibitirama,,,-23.5911081,-46.5804598
+245325496,way,Mercado Canaverde,supermarket,,,Rua Tabor,,,-23.5771417,-46.6056557
+245492939,way,Mercado Extra,supermarket,,Mercado Extra,Avenida Caminho do Mar,+55 11 4368 6011,"Mo-Su,PH 06:00-22:00",-23.6553273,-46.5719737
+245808909,way,Supermercado Mambo,supermarket,,,,,,-23.6064089,-46.7250062
+245886218,way,Pão de Açúcar,supermarket,,Pão de Açúcar,,+55 0800 773 2624,,-23.6115802,-46.7014083
+246456239,way,Supermercado Rossi,supermarket,,,Estrada do Lageado Velho,,,-23.5337548,-46.4009301
+246555334,way,Supermercado Rossi,supermarket,,,Rua Aiui,,,-23.5467773,-46.4083196
+249135944,way,Atacadão,supermarket,,Atacadão,Avenida Piraporinha,+55 11 4390 3225,"Mo-Sa 07:00-22:00; Su 08:00-18:00; PH "" consulte """,-23.6911824,-46.5745596
+249352745,way,Max Atacadista,supermarket,,,Rua Cenno Sbrighi,+55 11 3509 4956,,-23.5094598,-46.6944115
+249884987,way,Ricoy Supermercado,supermarket,,,Avenida Guarapiranga,,,-23.6851567,-46.7506585
+249884988,way,Atacadão,supermarket,,Atacadão,Estrada M'Boi Mirim,,,-23.6684362,-46.736344
+250338833,way,Carrefour,supermarket,,Carrefour,Avenida Alberto Augusto Alves,,08:00-23:00,-23.642007,-46.7345192
+250338843,way,Supermercado Lopes,supermarket,,,,,,-23.6588973,-46.7741951
+251356668,way,Rede Horti Mais,supermarket,,,Avenida Nossa Senhora de Sabará,,,-23.6594713,-46.6960677
+251356696,way,Natural da Terra,supermarket,,,Avenida Engenheiro Alberto de Zagottis,,,-23.6649103,-46.692813
+251613840,way,Assaí Atacadista,supermarket,,Assaí Atacadista,Rua Garcia Lorca,+55 11 4367 8700,"Mo-Sa 07:00-22:00; Su,PH 08:00-18:00",-23.6690931,-46.5744949
+253038339,way,Carrefour,supermarket,,Carrefour,Avenida Senador Vergueiro,+55 11 4122 8000,24/7,-23.6762607,-46.5548339
+253225802,way,Sonda Supermercados,supermarket,,,Rua Maria Candida,+55 11 2104-5700,Mo-Sa 08:00-23:00; Su 08:00-22:00,-23.5067119,-46.6003423
+253737194,way,Atacadão,supermarket,Carrefour,Atacadão,Avenida Antonio Piranga,+55 11 4072 8300,Mo-Sa 07:00-22:00; Su 08:00-18:00; PH off,-23.6820841,-46.6054887
+255783865,way,X Supermercado,supermarket,,,Avenida Joaquina Ramalho,,09:00-22:00,-23.5140191,-46.606504
+256237901,way,Midori Hortifruiti,convenience,,,,,Mo-Fr 08:00-20:00; Sa 08:00-19:00,-23.6844192,-46.5590778
+256612598,way,Ricoy Supermercado,supermarket,Ricoy,,Avenida Conceição,+55 11 4010 2710,,-23.6774658,-46.6269243
+258413622,way,Extra Supermercados,supermarket,,Extra Supermercados,,,,-23.5799967,-46.6403617
+259293889,way,Minuto Pão de Açúcar,supermarket,,Pão de Açúcar,,,,-23.6470339,-46.6697122
+266957514,way,Supermercado Veran,supermarket,,,Estrada do Lageado Velho,+55 11 2016-9595,,-23.538661,-46.4070639
+267086116,way,Assaí Guaianases,supermarket,Grupo Pão de Açúcar,Assaí Atacadista,Estrada Dom João Néri,,"Mo-Sa 07:00-22:00; Su,PH 08:00-18:00",-23.5268388,-46.396355
+267414607,way,Supermercado Bergamini,supermarket,,,Avenida Roland Garros,,,-23.4756359,-46.5718346
+267820389,way,Supermercado Nagumo,supermarket,,,,,,-23.5305253,-46.4532601
+268771465,way,Mercado Extra,supermarket,Extra,Mercado Extra,Avenida Antonio Piranga,+55 11 4051 3100,07:00-22:00; PH off,-23.6860066,-46.6218635
+274205786,way,OBA Hortifruti,supermarket,Grupo Fartura de Hortifrut LDTA,,Avenida Corifeu de Azevedo Marques,+55 11 3723-5300,Mo-Sa 07:00-22:00; Su 07:00-20:00,-23.5726212,-46.7242014
+274856388,way,Dia,supermarket,,Dia,Rua Humberto I,,Mo-Sa 08:00-21:00; Su 09:00-14:00,-23.5830018,-46.6423927
+276435235,way,Supermercado Padrão,supermarket,,,Avenida Vital Brasil,,Mo-Sa 06:00-23:00; Su 07:00-22:00,-23.5702813,-46.7103859
+277075163,way,Supemercado Pão de Açúcar,supermarket,,Pão de Açúcar,,,,-23.6022923,-46.6396001
+279933183,way,Sacolão Saúde,supermarket,Nelson Kioshi Nakada Comercial Agricola,,Rua Tapajós,+55 11 4331 5660,,-23.6991073,-46.5503025
+284874037,way,Japan House,convenience,,,Rua Jurubatuba,,,-23.6986541,-46.5536846
+286007352,way,Sacolão Luzita,supermarket,,,Avenida Capitão Mário Toledo de Camargo,,,-23.6981058,-46.506575
+286351655,way,Natural Art Hortifruti,greengrocer,,,Rua Humberto I,,"Mo-Su,PH 07:00-22:00",-23.584796,-46.6419674
+286810738,way,Chocolândia,supermarket,,,Avenida Pereira Barreto,+55 11 4433 6330,"Mo-Sa 08:00-20:00; Su,PH 09:00-18:00",-23.6722429,-46.5368618
+288588120,way,Supermercado Fujikawa,supermarket,Fujikawa,,Avenida Moinho Fabrini,+55 11 4343 5639,"Mo-Sa 07:00-21:00; Su,PH 07:00-14:00",-23.6996499,-46.5810956
+290627835,way,Joanin,supermarket,,,Rodovia Anchieta,+55 11 2940 3691,,-23.6174077,-46.6014492
+291541818,way,Trimais Supermercados,supermarket,,,Avenida Doutor Francisco Ranieri,+55 11 2234-8200,Mo-Sa 07:30-22:30; PH Su 08:00-20:00,-23.4766071,-46.6450416
+292923934,way,Mambo Supermercado,supermarket,,,Rua Turiassu,,,-23.5315711,-46.6746592
+296216063,way,Mercado Extra,supermarket,,Mercado Extra,Avenida Conselheiro Moreira de Barros,,,-23.4861097,-46.6409068
+298020409,way,Mercado Lausane,convenience,,,Avenida Conselheiro Moreira de Barros,,,-23.4828123,-46.6459742
+298347663,way,Sonda Supermercados,supermarket,,,Avenida Otávio Braga de Mesquita,,Mo-Su 08:00-22:00,-23.4532869,-46.5080224
+298786037,way,Dia,supermarket,,Dia,Avenida Tiradentes,,,-23.4613773,-46.5244372
+299600083,way,Dia,supermarket,,Dia,Avenida Engenheiro Armando de Arruda Pereira,,"Mo-Sa 08:00-21:00; Su,PH 08:00-14:00",-23.6576755,-46.6364747
+301852082,way,Mercado e Frutaria Mais Facil,convenience,,,Rua Ártico,,,-23.6870808,-46.5621914
+302151887,way,Xirata Feira Limpa,greengrocer,,,,,,-23.6653417,-46.5416722
+303051429,way,Supermercado Mota,supermarket,,,Avenida General Ataliba Leonel,,,-23.486353,-46.6050421
+313485472,way,Extra,supermarket,,Extra,Avenida Higienópolis,,,-23.6725475,-46.5401621
+314595535,way,Shell,convenience,,Shell,,,,-23.6272414,-46.5355137
+316553933,way,Coop,supermarket,,,Avenida Doutor Rudge Ramos,+55 11 4177 4440,Mo-Sa 07:00-21:45; Su 08:00-21:45,-23.6512866,-46.5752725
+318368710,way,Assaí Atacadista,supermarket,Cassino,Assaí Atacadista,Avenida Guido Calói,,,-23.6465585,-46.7288337
+318518455,way,Sonda Supermercado,supermarket,,,Estrada M'Boi Mirim,+55 11 5514-7964;+55 11 5514-8850,Mo-Sa 08:00-22:00,-23.6749499,-46.7546362
+321021983,way,Ricoy Supermercado,supermarket,,,Rodovia Armando Salles,+55 11 4010 2461,,-23.6869477,-46.8028851
+321021984,way,Extra,supermarket,,Extra,Estrada de Itapecerica,,,-23.6855465,-46.8016147
+321021985,way,Vencedor Atacadista,supermarket,,,Estrada de Itapecerica,,,-23.6724004,-46.7879964
+321053974,way,Supermercado Luzita's,supermarket,,,,,,-23.5563643,-46.6751794
+321122433,way,Satmo Supermercado,supermarket,,,,,,-23.6829301,-46.769099
+321122434,way,Extra,supermarket,,Extra,Estrada do M'Boi Mirim,,,-23.684905,-46.7705777
+321893711,way,Supermercado Joanin,supermarket,Joanin,,Rua Guarani,+55 11 4092 3330,"Mo-Fr 07:30-21:00; Su,PH 07:30-20:00",-23.7002637,-46.6112761
+321907061,way,Club de Campo Supermercados,supermarket,,,Avenida Lico Maia,,,-23.6993143,-46.609286
+323147232,way,Supermercado Barbosa,supermarket,,,,,,-23.5889339,-46.7721423
+323147235,way,Supermercado Flamengo,supermarket,,,,,,-23.5894892,-46.7686086
+326477962,way,Assaí Atacadista,supermarket,,Assaí Atacadista,Avenida Capitão Mário Toledo de Camargo,+55 11 4452 7901,"Mo-Sa 07:00-22:00; Su,PH 08:00-18:00",-23.7039226,-46.5042342
+329134643,way,Satmo Supermercado,supermarket,,,Rua Cândido José Xavier,+55 11 5514 7953,"Mo-Sa 08:00-21:00; Su,PH 08:00-15:00",-23.6609357,-46.7536264
+341041026,way,Extra,supermarket,,Extra,Avenida Professor Edgar Santos,,,-23.5517792,-46.4945166
+341043259,way,Chama Supermercado,supermarket,,,Avenida Osvaldo Valle Cordeiro,+55 11 2742 2950,,-23.5542052,-46.492873
+341229880,way,Almeida Supermercado,supermarket,,,Rua Cecília Marques Silva,,,-23.5482454,-46.8089374
+341229881,way,Supermercado Lopes,supermarket,,,Rua Elza Fagundes de Moraes,,,-23.5434756,-46.8075656
+341229883,way,Rod & Raf Supermercados,supermarket,,,Avenida Sarah  Veloso,+55 11 4788 8500,"Mo-Sa 07:00-22:00; Su,PH 08:00-20:00",-23.5641757,-46.7980871
+345049500,way,Supermercado Mais Brasil,supermarket,,,Rua Nova do Tuparoquera,,,-23.658556,-46.7362639
+348438044,way,Mota Supermercado,supermarket,,,Avenida Júlio Buono,+55 11 2206-7676,,-23.4876308,-46.5931774
+348701221,way,Public,supermarket,,,Estrada M'Boi Mirim,,,-23.6796337,-46.7648968
+357572695,way,Supermercado Vila das Frutas,supermarket,,,Avenida Doutor Ricardo Jafet,,Mo-Su 07:30-22:00,-23.5893411,-46.6207258
+358461387,way,Dia,supermarket,,Dia,Rua Alexandre Dumas,,Mo-Sa 08:00-21:00; Su 09:00-14:00,-23.6341043,-46.7011612
+360733982,way,Extra,supermarket,,Extra,Rua Curuçá,,,-23.5144696,-46.5891149
+366015114,way,Supermercados Joanin,supermarket,,,Rua Oswaldo Cruz,+55 11 4232 4624,"Mo-Sa 07:00-22:00; Su,PH 07:00-20:00",-23.6286166,-46.5672838
+368349149,way,Shell,convenience,,Shell,Rua Rio Bom,,,-23.5256031,-46.4446207
+372413185,way,Mercado Extra,supermarket,,Mercado Extra,,,,-23.5982887,-46.6396889
+373994101,way,Shell,convenience,,Shell,Avenida Jaguaré,,,-23.5495022,-46.7380878
+374831834,way,Lopes Supermercado,supermarket,,,,,,-23.4625209,-46.5542408
+379089471,way,Petrobras,convenience,,BR,Avenida Cruzeiro do Sul,,,-23.500263,-46.6250048
+379388518,way,Mercado Extra,supermarket,,Mercado Extra,Avenida Piraporinha,,"Mo-Su,PH 07:00-22:00",-23.6903647,-46.5802903
+379934372,way,Pão de Açúcar,supermarket,,Pão de Açúcar,Rua Maranhão,,,-23.5423351,-46.6600606
+380011085,way,Pão de Açúcar,supermarket,Pão de Açucar,Pão de Açúcar,Rua Joaquim Floriano,,,-23.5829455,-46.6705017
+380229344,way,Shell,convenience,,Shell,Rodovia Régis Bittencourt,,,-23.6076344,-46.7679314
+380591541,way,Sonda,supermarket,,,,,,-23.620208,-46.5497896
+380852627,way,Shell,convenience,Auto Posto K2,Shell,Avenida Corifeu de Azevedo Marques,,,-23.5664795,-46.7433944
+381526808,way,Shell,convenience,,Shell,Avenida Doutor Guilherme Dumont Vilares,,,-23.6088071,-46.7435109
+381602128,way,BR,convenience,,BR,Avenida do Cursino,+55 11 2332-4190,,-23.655885,-46.6142535
+381602137,way,Pão de Açúcar,supermarket,,Pão de Açúcar,,,,-23.5525465,-46.7087164
+381789055,way,Posto Urso Branco,convenience,,Ale,Avenida Eliseu de Almeida,,,-23.5936644,-46.7423538
+382674646,way,Ipiranga,convenience,,Ipiranga,Rua Inácio Luis da Costa,,,-23.5104008,-46.7279164
+382674647,way,Rodoil,convenience,,,Avenida Manuel Domingos Pinto,,,-23.5092288,-46.732545
+382687532,way,Shell Select,convenience,,Shell Select,,,,-23.506912,-46.7099987
+382941737,way,Atacadão,supermarket,Carrefour,Atacadão,Avenida Amador Bueno da Veiga,+55 11 4004 8899,Mo-Sa 07:00-22:00; Su 08:00-20:00,-23.5224943,-46.521243
+385706145,way,Andorinha Hiper Center,supermarket,,,Avenida Parada Pinto,,,-23.4709177,-46.6496056
+401056091,way,Extra,supermarket,,Extra,,,,-23.6356944,-46.6581926
+405709307,way,Empório São Pedro,supermarket,,,,,Mo-Su 07:30-20:00,-23.570274,-46.7277829
+405726363,way,Instituto Baru,supermarket,,,,,,-23.5724699,-46.7277791
+406068585,way,D'Avó Hiper,supermarket,,,Estrada Kizaemon Takeuti,+55 11 4138 9700,"Mo-Sa 08:00-23:00; Su,PH 09:00-22:00",-23.6355852,-46.7889035
+406340497,way,Lopes Supermercados,supermarket,,,Avenida Brigadeiro Faria Lima,+55 11 2403 4808,Mo-Sa 07:00-22:00; Su 07:00-18:00; PH off,-23.4298328,-46.5218318
+406949739,way,Pão de Açúcar,supermarket,,Pão de Açúcar,Avenida Nova Cantareira,,,-23.488162,-46.6216915
+409096574,way,Assaí Atacadista,supermarket,,Assaí Atacadista,Avenida Ibirama,+55 11 4138 1580,"Mo-Sa 07:00-22:00; Su,PH 08:00-18:00",-23.6414002,-46.8059432
+409813340,way,Supermercado Planalto,supermarket,,,Avenida Álvaro Guimarães,,,-23.6962465,-46.5677759
+410927870,way,Mini Mercado Extra,convenience,,,Avenida Nossa Senhora de Assunção,,,-23.5690932,-46.7453108
+411064228,way,Mercado São Francisco,supermarket,,,Avenida Professor Lucas de Assunção,,,-23.577433,-46.7313725
+414737501,way,Casa Santa Luzia,supermarket,,,Alameda Lorena,+55 11 3897-5000,Mo-Sa 07:30-20:30,-23.5642983,-46.665646
+414738122,way,Carrefour Express,convenience,,Carrefour Express,Alameda Lorena,,,-23.5614126,-46.668289
+418313667,way,Varejão Bonfigliori,greengrocer,,,Avenida Nossa Senhora de Assunção,,,-23.5747281,-46.7417916
+420064562,way,Oxxo,convenience,,Oxxo,Rua da Consolação,,,-23.552827,-46.6588485
+420089346,way,Mambo Supermercados,supermarket,,,Rua Martim Francisco,,,-23.5433522,-46.6542549
+421150722,way,Mercado Extra,supermarket,Cia. Brasileira de Distribuição,Mercado Extra,Rua Rego Freitas,+55 11 3221-4354,Mo-Sa 07:00-22:00; Th 08:00-21:00,-23.5432985,-46.6469314
+421297119,way,Extra,supermarket,,Extra,Avenida Rio Branco,,,-23.5389162,-46.6401927
+421344984,way,Americanas Express,convenience,,,,,,-23.5539362,-46.6407018
+421485890,way,Sacolão Campos Elíseos,supermarket,,,Alameda Eduardo Prado,+55 11 3666-3455,,-23.5317679,-46.650334
+421496108,way,Mini Mercado Extra,supermarket,,,Rua Brigadeiro Galvão,,"08:00-22:00, Su 10:00-18:00",-23.5332307,-46.653672
+421541651,way,Carrefour Express,convenience,,Carrefour Express,Avenida Pacaembu,,,-23.5357838,-46.6624654
+421541730,way,Carrefour,convenience,,Carrefour,Rua Doutor Albuquerque Lins,,,-23.5355444,-46.6561579
+422652308,way,Mega Dias Supermercado,supermarket,,,Avenida Conceição,,"Mo-Sa 08:00-21:00, Su 08:00-14:00",-23.4973892,-46.586786
+423040771,way,Mercado Extra,supermarket,,Mercado Extra,Rua Frei Caneca,,Mo-Su 08:00-21:00,-23.5544518,-46.6543815
+423237434,way,Mini Extra,convenience,,Mini Extra,,,,-23.5520787,-46.6489546
+423237448,way,Oxxo,convenience,,Oxxo,,,,-23.5531982,-46.6512225
+423244950,way,Pão de Açúcar,supermarket,,Pão de Açúcar,Rua Pedroso,,,-23.5628563,-46.6410303
+424845507,way,Loja de Produtos Nordestinos,supermarket,,,,,,-23.4812921,-46.602871
+425539200,way,Supermercado Joanin,supermarket,,,Rua Nelly Pellegrino,+55 11 4238 4568,"Mo-Sa 07:30-22:00; Su,PH 07:30-20:00",-23.6397684,-46.5668692
+427244321,way,Carrefour Express,convenience,,Carrefour Express,,,,-23.5749123,-46.6421134
+427350534,way,Supermercado Vila das Frutas,supermarket,,,Avenida Professor Noé Azevedo,,,-23.587083,-46.6352641
+427408106,way,Comprafácil Supermercado,supermarket,,,,,,-23.5824382,-46.6272186
+427411629,way,Hortifruti Sabor da Roça,greengrocer,,,Rua do Paraíso,+55 11 3399 2570,,-23.5752659,-46.6357021
+428828681,way,Carrefour Express,convenience,,Carrefour Express,Rua Pedro de Toledo,,,-23.5987339,-46.638153
+428900771,way,Pão de Açúcar,supermarket,,Pão de Açúcar,Rua Santa Cruz,,,-23.5972162,-46.6274889
+429865017,way,Peg Pese Hortifruti,greengrocer,,,Avenida Palmares,+55 11 2324 4047,,-23.6512245,-46.5613693
+431438544,way,Hortifruti Sabor da Roça,greengrocer,,,Avenida Armando Ferrentini,+55 11 3275-2320,Mo-Sa 07:00-22:00; Su 08:00-21:00,-23.5746537,-46.6351335
+431463844,way,Hirota,supermarket,,,Avenida da Aclimação,,Mo-Sa 08:00-21:00; PH Su 09:00-14:00,-23.5709829,-46.6334957
+431470732,way,Extra Supermercado,supermarket,,,Rua Conselheiro Furtado,+55 11 3209-5267,Mo-Sa 07:00-22:00; Su 08:00-21:00,-23.5658384,-46.6328379
+431476436,way,Minimercado Extra,convenience,,Minimercado Extra,Rua Professor José Azevedo Minhoto,,,-23.5301605,-46.7944685
+431476440,way,Supermercado Mirassol,supermarket,,,Rua João Mirassol,,,-23.5435786,-46.8022063
+431476444,way,Supermercado Aristides,supermarket,,,Rua Elza Fagundes de Moraes,,,-23.5439739,-46.8078344
+432819969,way,Pão de Açúcar,supermarket,,Pão de Açúcar,,,,-23.6002828,-46.6597912
+435941846,way,Dia,supermarket,,Dia,Avenida Rangel Pestana,,Mo-Su 09:00-21:00,-23.5460139,-46.6214201
+437066730,way,Oxxo,convenience,,Oxxo,Avenida Rangel Pestana,,24/7,-23.5462146,-46.6231785
+437322927,way,Extra,supermarket,,Extra,Avenida do Cursino,,,-23.6032781,-46.6158602
+438931194,way,Mercado Monte Belo,supermarket,,,Rua Basílio da Cunha,,,-23.576785,-46.6238656
+438936362,way,Mini-Mercado Glória,convenience,,,Avenida Lacerda Franco,,,-23.5641557,-46.6224049
+439239823,way,Supemercado Denise,supermarket,,,Avenida Paranapanema,,,-23.64146,-46.5678032
+439283588,way,Extra,supermarket,,Extra,Rua Carneiro da Cunha,,,-23.6171479,-46.6365743
+439283937,way,Pão de Açúcar,supermarket,,Pão de Açúcar,,,,-23.6220467,-46.6381253
+439286489,way,Dia Market,supermarket,,Dia Market,Rua Fiação da Saúde,,,-23.6184527,-46.6375507
+439288050,way,Hirota Food,supermarket,,,Avenida Jabaquara,,,-23.6212546,-46.6402319
+439291697,way,Yuri,convenience,,,,,,-23.6102017,-46.6316039
+439293239,way,Extra,supermarket,,Extra,Avenida Miguel Estefno,,"Mo-Sa 07:00-23:00; Su, PH 08:00-22:00",-23.6207809,-46.6350894
+439293474,way,Pão de Açúcar,supermarket,,Pão de Açúcar,,,,-23.6028972,-46.6506639
+439294613,way,Super Padrão,supermarket,,,Rua Doutor Nogueira Martins,,,-23.6144379,-46.6312424
+439295280,way,Pão de Açúcar,supermarket,,Pão de Açúcar,Rua Carneiro da Cunha,,,-23.6175418,-46.6365101
+439300684,way,Carrefour Express,convenience,,Carrefour Express,Avenida Jabaquara,,,-23.6125765,-46.6377248
+439304132,way,Yutaka,supermarket,,,,,,-23.6038057,-46.6375267
+439309023,way,Dia,supermarket,Dia,Dia,Rua Ibituruna,,Mo-Sa 08:00-21:00; Su 09:00-14:00; PH 09:00-14:00,-23.6230408,-46.6385971
+439321310,way,Oxxo,convenience,,Oxxo,,,,-23.6262008,-46.6327499
+439889144,way,Pão de Açúcar,supermarket,,Pão de Açúcar,,,,-23.5863396,-46.721924
+441834744,way,Carrefour,supermarket,,Carrefour,Praça Alberto Lion,,,-23.5637287,-46.6137358
+448229192,way,Carrefour,supermarket,Carrefour,Carrefour,,,"Mo-Sa 07:00-23:00; PH,Su 07:00-22:00",-23.6548034,-46.6929667
+450157951,way,Pomar da Vila & Hortifruti,greengrocer,,,Rua Mourato Coelho,,,-23.5554353,-46.6928604
+450171308,way,Don Grano Empório,supermarket,,,,,,-23.5632265,-46.6862132
+451770577,way,Assaí Atacadista - Vila Guilherme,supermarket,,Assaí Atacadista,Avenida Morvan Dias de Figueiredo,(11) 2632-0520,Mo-Sa 07:00-22:00; Su 08:00-20:00,-23.5217408,-46.6010757
+456243252,way,Joanin Supermercado,supermarket,,,Avenida Professor Luíz Ignácio Anhaia Mello,+55 11 2211 7030,"Mo-Sa 07:30-22:00; Su,PH 07:00-20:00",-23.5892069,-46.5435958
+457344822,way,Supermercado Joanin,supermarket,,,Rua Oswaldo Cruz,+55 11 4229 4889,Mo-Sa 07:00-20:00,-23.6188385,-46.5681347
+459225803,way,Assaí Atacadista,supermarket,,Assaí Atacadista,Avenida Sargento Geraldo Santana,,,-23.6635234,-46.6800513
+462691100,way,Red Supermercado,supermarket,,,Avenida Engenheiro Caetano Alvares,,,-23.4978799,-46.6629674
+464240829,way,Cana Verde,supermarket,,,Rua Paulo Andrighetti,,Mo-Sa 08:00-19:00,-23.5268664,-46.6061704
+464246970,way,Extra,supermarket,,Extra,Praça Padre Bento,,,-23.5326102,-46.6181591
+464247553,way,Mercearia Xixico,convenience,,,Avenida Bom Jardim,,Mo-Fr 08:00-18:00; Sa 08:00-13:00,-23.5257745,-46.6136614
+464388633,way,Carrefour Express,convenience,,Carrefour Express,Avenida Celso Garcia,,,-23.5368702,-46.5938204
+466023280,way,Oxxo,convenience,,Oxxo,Rua João Caetano,,,-23.5504893,-46.604374
+467687243,way,RS Conveniências,convenience,,,Rua Silva Bueno,,,-23.5855664,-46.6020615
+467696822,way,Oxxo,convenience,,Oxxo,Rua Vergueiro,,,-23.6078496,-46.613877
+467697447,way,Carrefour Express,convenience,,Carrefour Express,Avenida Doutor Gentil de Moura,,,-23.6020524,-46.6120747
+467697789,way,Conveniência Café Clube,convenience,,,Rua Bom Pastor,,,-23.5979842,-46.6059518
+468856357,way,Dia,supermarket,,,Avenida Sapopemba,,,-23.5731285,-46.5635386
+468857838,way,Golden Supermercado,supermarket,,,Avenida Sapopemba,,Mo-Sa 08:00-20:00,-23.5728615,-46.5622819
+473471283,way,Coop,supermarket,,,Rua dos Vianas,+55 11 4337 5353,08:00-22:00,-23.7025804,-46.5376702
+473476222,way,ampm,convenience,,ampm,Avenida Pereira Barreto,,,-23.6938489,-46.5489948
+473679808,way,Supermecado Beira Alta,supermarket,,,,,,-23.6325596,-46.7589128
+474695158,way,Muito+ Barato Supermercado,supermarket,,,Avenida São Bernardo do Campo,,,-23.7017352,-46.5129029
+478425916,way,Mercado Extra,supermarket,,Mercado Extra,Avenida do Cursino,,,-23.6241281,-46.6201707
+480289599,way,Dia,supermarket,,Dia,Rua Rio do Campo,,,-23.4424059,-46.5210538
+480324105,way,Supermercado Lourencini,supermarket,,,Avenida Itapark,+55 11 4577 9494,"Mo-Sa 07:00-21:30; Su,PH 07:00-14:00",-23.6759559,-46.4385711
+481280563,way,Pão de Açúcar,supermarket,,Pão de Açúcar,Avenida Vereador João de Luca,,,-23.6520059,-46.6686931
+481913736,way,Violeta Supermercados,supermarket,,,Avenida Itaberaba,,,-23.4784537,-46.6824614
+482075745,way,Giga Atacado - Barra Funda,supermarket,,,Avenida Thomas Edison,,"Mo-Sa 06:00-22:00; Su,PH 07:00-20:00",-23.516467,-46.6701835
+482727378,way,Assaí Atacadista,supermarket,,Assaí Atacadista,Avenida Aniello Pratici,+55 11  3411 5700,"Mo-Sa 07:00-22:00; Su,PH 08:00-18:00",-23.4764618,-46.5296353
+482760035,way,Supermercado Ricoy,supermarket,,,,,,-23.6866176,-46.7911075
+484066104,way,Atacadão,supermarket,,Atacadão,Avenida Jabaquara,,Mo-Fr 08:00-20:00,-23.6292178,-46.644656
+484445831,way,Mercado Municipal da Vila Formosa,marketplace,,,Praça Canárias,,,-23.5664496,-46.5456549
+486856927,way,Mercado Extra,supermarket,,Mercado Extra,Rua Nossa Senhora das Mercês,,,-23.6271919,-46.6059283
+489623839,way,Mercearia Sukiyaki,convenience,,,Avenida Indianópolis,,,-23.623199,-46.6466192
+489907576,way,Yamauchi Supermercado,supermarket,Yamauchi,,Rua Conde Prates,+55 11 2602 2888,Mo-Sa 08:00-21:00; Su 08:00-15:00,-23.5664293,-46.5978245
+490932711,way,Supermercado Pão de Açúcar,supermarket,,,Rua Augusto Tolle,,,-23.4888964,-46.6320568
+491601100,way,Supermercado Bom Sucesso,supermarket,,,Rua Cabral da Câmara,,,-23.703125,-46.5721164
+492151688,way,Supermercado Nagumo - Pimentas,supermarket,Nagumo,,Estrada Presidente Juscelino Kubitschek de Oliveira,+55 11  2489 3370,"Mo-Sa 08:30-21:00; Su,Ph 08:30-14:00",-23.4657013,-46.4188899
+499319596,way,Supermercado Jaguaré,supermarket,,,Avenida Presidente Altino,,,-23.553151,-46.7499648
+499319600,way,Assaí Atacadista,supermarket,,Assaí Atacadista,Avenida Jaguaré,0800 773 2322,Mo-Sa 07:00-22:00; Su 08:00-20:00; PH 07:00-22:00,-23.5518341,-46.7422901
+499319605,way,Peg Pese Hortifruti,greengrocer,,,Avenida Bolonha,,,-23.5485197,-46.7469946
+504476734,way,Sitio Verde,greengrocer,,,Avenida Salgado Filho,+55 11 2408 9160,,-23.4520933,-46.5345453
+515693722,way,Lopes Supermercados,supermarket,,,Avenida Guarulhos,+55 11 2086 9210,Mo-Sa 07:00-22:00; Su 07:00-18:00; PH off,-23.4815877,-46.541634
+515699251,way,Barbosa Supermercados,supermarket,,,Avenida Otávio Braga de Mesquita,,"Mo-Sa 07:00-22:00; Su,PH 07:00-18:00",-23.448412,-46.5081125
+517478345,way,Select,convenience,,,,,,-23.6705005,-46.5595482
+519786720,way,Dia,supermarket,,Dia,Rua Cardoso de Almeida,,,-23.5387383,-46.6693697
+519791798,way,Pão de Açúcar,supermarket,,Pão de Açúcar,Rua Cardoso de Almeida,,,-23.5350143,-46.6668291
+519797446,way,Oxxo,convenience,,Oxxo,Rua Raul Pompeia,,,-23.5326155,-46.6896937
+519797594,way,Pão de Açúcar,supermarket,,Pão de Açúcar,Rua Cayowaá,,,-23.541095,-46.6858877
+519798694,way,Mercadinho Azevedo,supermarket,,,,,,-23.5350553,-46.6910695
+520082127,way,Saint Marche,supermarket,,,Rua São Gualter,,,-23.5428895,-46.7112337
+520669054,way,Fazenda Horti Fruti,greengrocer,,,Rua Corrientes,,,-23.5215084,-46.7111826
+520679252,way,Dia,supermarket,,Dia,Rua Tito,,,-23.528041,-46.7027281
+520680164,way,Carrefour Express,convenience,,Carrefour Express,Rua Nossa Senhora da Lapa,,,-23.5234271,-46.7043835
+520692307,way,Pão de Açúcar,supermarket,,Pão de Açúcar,Rua Cerro Corá,,,-23.5346926,-46.7129318
+520831845,way,Oxxo,convenience,,Oxxo,Avenida Francisco Matarazzo,,,-23.5280356,-46.6713108
+520917284,way,Oba hortifruti,supermarket,Oba hortifruti,,Rua Nagel,,,-23.5317814,-46.7320815
+520918502,way,Dia,supermarket,,Dia,Avenida Imperatriz Leopoldina,,,-23.5339217,-46.7286611
+520920041,way,Atacadão,supermarket,Groupe Carrefour,Atacadão,Avenida José César de Oliveira,,,-23.5410241,-46.7311153
+520923260,way,St Marche Supermercado,supermarket,,,Rua Carlos Weber,,,-23.5260727,-46.733088
+520925571,way,ipiranga,convenience,,Ipiranga,Avenida Imperatriz Leopoldina,,,-23.5317857,-46.7299285
+521405752,way,Pão de Açúcar,supermarket,,Pão de Açúcar,Rua Afonso Braz,,Mo-Su 08:00-22:00,-23.5952806,-46.6685907
+521406095,way,Empório,supermarket,,,,,,-23.5957692,-46.6679689
+521408253,way,Empório,supermarket,,,,,,-23.5960083,-46.6680263
+521410112,way,Supermercado Yáyá,supermarket,,,,,,-23.5743701,-46.6508965
+526584316,way,Dia,supermarket,,Dia,Rua Santa Filomena,,"Mo-Sa 08:00-21:00; Su,PH 08:00-14:00",-23.702528,-46.5504825
+531287454,way,Violeta,supermarket,,,,,,-23.4813344,-46.6733578
+531500332,way,Lopes Supermercados,supermarket,,,Rua Claudino Barbosa,,,-23.4601933,-46.5190091
+544411204,way,Supermercado Shibata,supermarket,,,Rua Gilda,+55 11 2500 5500,"Mo-Su 08:00-22:00; Su,PH 08:00-20:00",-23.5454711,-46.3802598
+546126246,way,Minuto Pão de Açúcar,convenience,Pão de Açúcar,,Avenida Adolfo Pinheiro,(11) 35526064,Mo-Sa 08:00-22:00; Su 08:00-20:00,-23.6463994,-46.7012279
+546691708,way,Chocolândia - Santo Amaro,supermarket,,,Avenida João Dias,+55 11 5698 4450,"Mo-Sa 08:00-20:00; Su,PH 09:00-18:00",-23.6433696,-46.7018783
+546867203,way,Pão de Açúcar,supermarket,,Pão de Açúcar,Rua Alegre,,,-23.6181741,-46.5542947
+548644491,way,Poupaki,supermarket,Davó,,Avenida Governador Carvalho Pinto,,,-23.5129888,-46.5405042
+548737773,way,Minuto Pão de Açúcar,supermarket,,Pão de Açúcar,,,Mo-Sa 06:00-22:00,-23.6254369,-46.7407252
+549572472,way,Vila das Frutas Supermercados,supermarket,,,Avenida do Cursino,+55 11 2532-7001,Mo-Su 08:00-21:00; PH off,-23.6230555,-46.6197508
+549572763,way,Americanas Express,convenience,,,,,,-23.4620887,-46.5270696
+549834551,way,Supermercado Bom Gosto,supermarket,,,Rua Piolin,,,-23.4166964,-46.4657634
+550054732,way,Supermercado Barbosa,supermarket,,,Estrada Guarulhos - Nazaré,+55 11 2229 2900,Mo-Sa 07:00-22:00; Su 07:00-20:00; PH 07:00-18:00,-23.4131028,-46.4536742
+553187281,way,Pão de Açúcar,supermarket,,Pão de Açúcar,R. Mal. Hastimphilo de Moura,,,-23.616457,-46.7396567
+556146782,way,Comercial Esperança,supermarket,,,Rodovia Juvenal Ponciano de Camargo,+55 11 4651 0408,Mo-Sa 07:00-22:00; Su 07:30-20:00; PH off,-23.401844,-46.4491646
+556920827,way,Super Mercado Negreiros,supermarket,,,Estrada do Iguatemi,,,-23.5830843,-46.4157367
+558537932,way,Reis Supermercado,supermarket,,,Rua Dezessete de Março,,,-23.6659527,-46.5930943
+558618906,way,Sugoi Supermercado,supermarket,,,Rua Francisco Alves,,,-23.6695255,-46.5838718
+559510206,way,Extra Supermercado Vila Formosa,supermarket,,Extra,Rua Oswaldo Arouca,,Mo-Sa 07:00-22:00; Su 07:00-21:00,-23.56325,-46.5420388
+560475023,way,Dia,supermarket,,Dia,Rua Ibitirama,,,-23.5916425,-46.5806371
+560475024,way,Supermercado Takara,supermarket,,,Rua Ibitirama,+55 11 2341-3932,Mo-Sa 08:00-21:00; Su 08:00-20:00; PH 08:00-20:00,-23.5882417,-46.5840019
+560560604,way,Higa,supermarket,,,Rua Manoel Ferreira Pires,,Mo-Sa 08:00-20:30;Su 08:00-14:00,-23.5838208,-46.5275708
+562076099,way,Veran Supermercados,supermarket,,,Rua Otávio Rodrigues Barbosa,+55 11 4741 4147,,-23.5411341,-46.3651329
+562498602,way,Shibata Supermercados,supermarket,Shibata,,Rua Piraju,+55 11 4646 6000,Mo-Sa 08:00-22:00; Su 08:00-18:00; PH 08:00-22:00,-23.4898022,-46.3650114
+562765819,way,Quitanda Smartz,greengrocer,,,Rua Votorantim,,,-23.6197054,-46.5524695
+563106782,way,Rossi Supermercado,supermarket,,,Rua Abel Batista Camillo Soares,+55 11 3019 0312,"Mo-Sa 08:00-22:00; Su,PH 08:00-20:00",-23.5162227,-46.372059
+570462999,way,Pão de Açúcar,supermarket,,Pão de Açúcar,Praça Visconde de Sousa Fontes,,Mo-Sa 07:00-22:00; Su 08:00-20:00,-23.5785599,-46.5892964
+574884739,way,Sacolão São Jorge,greengrocer,,,Rua Dom Vilares,,,-23.6233035,-46.6028467
+578457987,way,Assaí Atacadista,supermarket,,Assaí Atacadista,Avenida Francisco Monteiro,+55 11 4825 1995,Mo-Sa 07:00-22:00; Su 08:00-18:00; PH off,-23.7034777,-46.3979506
+580879118,way,Coop,supermarket,Coop,,Avenida Humberto de Campos,+55 11 4828 4455,,-23.6972985,-46.4439723
+585212353,way,COOP Joana Angélica,supermarket,,,,,,-23.6290802,-46.552786
+587700832,way,Coop,supermarket,,,,,,-23.6388519,-46.5171736
+587975243,way,Mini Mercado Extra,convenience,,,,,,-23.6463983,-46.5143464
+588518550,way,Santa Fé Supermercados,supermarket,,,Estrada Tenente José Maria da Cunha,,Mo-Sa 08:00-22:00,-23.6288125,-46.7964595
+599512095,way,Supermercado Dia,supermarket,,Dia,Avenida Angélica,,,-23.5412374,-46.655981
+602254845,way,Stop Shop,convenience,,,Avenida Interlagos,,,-23.6802186,-46.6864594
+607088987,way,Lourencini Supermercados,supermarket,,,Avenida Brasil,+55 11 4577 9494,"Mo-Sa 08:00-22:00; Su,PH 08:00-14:00",-23.6824096,-46.4524224
+607992163,way,Supermercados Nagumo,supermarket,,,Avenida Armando Bei,+55 11 2088 9100,"Mo-Sa 08:30-21:00; Su,Ph 08:30-14:00",-23.4066879,-46.4035682
+609765877,way,Supermercado Negreiros,supermarket,,,Avenida Arquiteto Vilanova Artigas,+55 11 4210 3624,"Mo-Sa 08:00-22:00; Su,PH 08:00-20:00",-23.6133911,-46.500925
+610992652,way,Mercado Extra,supermarket,GPA,Mercado Extra,Avenida Brigadeiro Faria Lima,,Mo-Sa 08:00-22:00; Su 08:00-20:00,-23.4448037,-46.5220903
+616660524,way,Grocery Outlet,supermarket,,,,,,-23.4759686,-46.6634089
+617516066,way,Supermercado Ricoy,supermarket,,,Avenida Cupecê,,,-23.681801,-46.636516
+618122265,way,Kaçula Supermercados,supermarket,,,Avenida Aimara,+55 11 4244 4142,Mo-Sa 07:30-21:00; Su 07:30-18:00; PH off,-23.6481363,-46.8150024
+618151720,way,Oxxo,convenience,,Oxxo,,,,-23.5042392,-46.6261168
+618152546,way,Pão de Açúcar,supermarket,,Pão de Açúcar,Rua Doutor César,+55 11 2971-1215,,-23.5019691,-46.6370244
+618152899,way,Supermercado Pastorinho,supermarket,,,Rua Conselheiro Moreira de Barros,+55 11 2099-6000,,-23.4965689,-46.6280894
+618161138,way,Dia Market,supermarket,,Dia Market,Rua Conselheiro Moreira de Barros,,,-23.4938992,-46.6321071
+618163635,way,Minuto Pão de Açucar,convenience,,,Rua Doutor Guilherme Cristoffel,,,-23.4876247,-46.630987
+618183214,way,Mini Extra,supermarket,,,Avenida Águas de São Pedro,,,-23.4869742,-46.6140902
+618184627,way,Super Vizinho,supermarket,,,Avenida Leôncio de Magalhães,,,-23.4909133,-46.6190489
+618441509,way,Pão de Açúcar,supermarket,,Pão de Açúcar,Avenida Engenheiro Caetano Alvares,,,-23.4820287,-46.6310025
+619217884,way,Oba Hortifruti,greengrocer,,,Rua Domingos de Morais,,,-23.6022253,-46.6362355
+619527233,way,Vila das Frutas,greengrocer,,,Avenida Professor Abraão de Morais,,07:30-22:00,-23.606958,-46.6266351
+619609643,way,Barbosa Supermercado,supermarket,Barbosa Supermercado,,Rua Ciclades,,,-23.6946817,-46.7943887
+619637542,way,Mais Supermercado,supermarket,,,,,,-23.6768219,-46.7754396
+619654640,way,Bazar dos Peixinhos,convenience,Luzia ME,,Rua Leonor Teles,,06:00-20:00,-23.6826155,-46.7763499
+619980897,way,Todo Dia,supermarket,,,Estrada de Itapecerica,,,-23.6534609,-46.7588747
+620209353,way,Tateno,supermarket,,,,,,-23.6067141,-46.6378064
+620468806,way,Mercadinho Fac,convenience,,,,,,-23.6708746,-46.7491882
+620480413,way,Pegpese,supermarket,,,,+55 11 56694044,,-23.6465034,-46.753377
+620487327,way,Mercadinho Sim,convenience,,,Rua Barbosa Vilas Boas,,Mo-Fr 09:00-18:00,-23.6745471,-46.7394738
+620489573,way,RENATEL,convenience,SEU PEDRO,,Rua Sebastião Senret,,,-23.6786462,-46.7428006
+620491205,way,renata,supermarket,,,Avenida Guarapiranga,,Mo-Sa 07:00-20:00,-23.6841022,-46.7458024
+620491861,way,Loja do seu Zacarias,convenience,,,Rua John Martin,,,-23.6873201,-46.7486689
+620495292,way,sol de verão,supermarket,,,Rua Pedro da Costa Faleiro,,,-23.6825935,-46.7471594
+620495328,way,Mercadinho Tato,convenience,,,,,,-23.6803685,-46.744632
+620496378,way,Mercadinho da Rosângela,convenience,,,,,,-23.6830304,-46.7453355
+621003891,way,Dia,supermarket,,Dia,Avenida Júlio Buono,,,-23.49518,-46.5977551
+621012746,way,Agate Supermercado Medeiros,supermarket,,,Rua Crispim Duarte,,"Mo-Sa 08:00-21:00, Su 08:00-14:00",-23.4912061,-46.5881849
+621014648,way,Prestigio,supermarket,,,Avenida Nossa Senhora do Loreto,,Mo-Sa 08:00-20:00; Su 08:00-14:00,-23.4892613,-46.584235
+621023625,way,Hokim,supermarket,,,Avenida Conceição,,Mo-Sa 08:00-21:00; Su 08:00-14:00,-23.497828,-46.5739365
+621028869,way,Mini Mercado FL,convenience,,,Avenida João Simão de Castro,,,-23.489096,-46.5705661
+621830439,way,Supermercado Marega,supermarket,,,Rua Aquilino Ribeiro,,,-23.4092911,-46.7513792
+621903454,way,Supermercado Mochi,supermarket,,,Rua Egídio Felini,,,-23.4462891,-46.7167543
+621906625,way,Mercado Extra,supermarket,,Mercado Extra,,,,-23.4433212,-46.7169703
+622060228,way,Sonda,supermarket,,,Avenida Marechal Tito,+55 11 2132 0650,Mo-Su 08:00-22:00,-23.4854684,-46.3807559
+622506584,way,BR,convenience,Petrobras,BR,,,,-23.5453391,-46.4056598
+622605142,way,Mercadinho Tiradentes,convenience,,,,,,-23.5920553,-46.4068039
+623208881,way,Supermercado D'Avó,supermarket,,,Estrada Itaquera Guaianazes,+55 11 2551-4500,"Mo-Sa 08:00-22:00; Su,PH 09:00-20:00",-23.537722,-46.4275537
+623493940,way,Supermercado Central,supermarket,,,Avenida Mateo Bei,,,-23.5993548,-46.4849528
+623493990,way,Dia,supermarket,,Dia,Avenida Mateo Bei,,Mo-Sa 08:00-20:00,-23.5997827,-46.485293
+623496157,way,Primos Supermercado,supermarket,,,Avenida Mateo Bei,,Mo-Su 08:00-21:00,-23.5937045,-46.488062
+623496795,way,Comercial Esperança,supermarket,,,Avenida Mateo Bei,,Mo-Su 08:00-22:00,-23.59073,-46.4891136
+623501140,way,Joamim,supermarket,,,Avenida Mateo Bei,,,-23.6034327,-46.4821012
+624019271,way,D’avó Itaquera,supermarket,D'avó,,Avenida Valdemar Tietz,+55 11 8899 7766;+55 11 2744 0938;+55 2744 0900,Mo-Sa 07:30-22:00; Su 08:00-20:00; PH 08:00-20:00,-23.5511304,-46.4888178
+627168639,way,Lourecine Supermercados,supermarket,,,Avenida Barão de Mauá,+55 11 4577 9494,"Mo-Sa 07:00-22:00; Su,PH 07:00-14:00",-23.6684331,-46.4244921
+627237714,way,Lourencini Supermercados,supermarket,,,Avenida Barão de Mauá,,"Mo-Sa 07:00-21:00; Su,PH 07:00-14:00",-23.673035,-46.4132927
+627449229,way,Lourecini Supermercados,supermarket,,,Rua Manoel Franco,+55 11 4577 9494,"Mo-Sa 07:00-22:00; Su,PH 07:00-14:00",-23.6830004,-46.4599374
+630369326,way,Supermercados Nagumo,supermarket,,,Rua Maria do Rosário,,"Mo-Sa 08:30-21:00; Mo,PH 08:30-15:00",-23.5177608,-46.3659648
+637865443,way,Oba Hortifruti,supermarket,,,,,,-23.623346,-46.7383366
+642757605,way,Shell,convenience,,Shell,Rua MMDC,,,-23.6676934,-46.5878242
+645371117,way,Supermercados Joanin,supermarket,,,Rua Heloisa Pamplona,+55 11 4226 2710,"Mo-Sa 07:00-21:00,Su,PH 07:00-18:00",-23.6080125,-46.5714937
+647356768,way,Mercado Conquista,convenience,,,Rua Fortunato Devoto,,,-23.4494424,-46.6961732
+650593075,way,Lopes Supermercado,supermarket,,Lopes Supremercados,Rua Flório de Oliveira,,,-23.4306749,-46.5274019
+650795187,way,Coop,supermarket,,,Avenida das Nações,+55 11 4472 1044,08:00-22:00,-23.640811,-46.4989885
+650843231,way,Assaí Atacadista,supermarket,,Assaí Atacadista,,,,-23.6630976,-46.4629137
+651220837,way,Coop,supermarket,,,Avenida Barão de Mauá,+55 11 4514 7020,08:00-22:00,-23.6644491,-46.4481258
+651223422,way,Supermercado Nagumo,supermarket,,,Avenida Barão de Mauá,,"Mo-Sa 08:30-21:00; Su,PH 08:30-14:00",-23.6655203,-46.4317504
+652483200,way,Rossi Supermercados,supermarket,,,Estrada do Guapiúva,,,-23.5483261,-46.8235109
+654795348,way,Lopes Supermercados,supermarket,,,Avenida Visconde de Nova Granada,+55 11 3681 7375,"PH,Mo-Sa 00:00-23:59; Su 07:00-22:00",-23.5424996,-46.7874817
+657447826,way,Mercado Extra,supermarket,,Mercado Extra,Avenida Prefeito Hirant Sanazar,,,-23.5575137,-46.7813258
+657731848,way,Barbosa Supermercados,supermarket,,,Rua Georgina Motta Marchetti,+55 11 3606 6500,Mo-Sa 07:00-22:00; Su 07:00-20:00; PH 07:00-18:00,-23.5534956,-46.8161286
+660965056,way,Ricoy Supermercados,supermarket,Associação Ricoy,,Rua João Massaia,+55 11 4010 2760,,-23.3967501,-46.7172884
+663860446,way,Rossi,supermarket,,,,,,-23.6243268,-46.4610535
+663942013,way,Futuro Brilhante Supermercados,supermarket,M.V. do Futuro Ltda,,Rua Arnaldo de Oliveira Barreto,,,-23.5274057,-46.7640095
+665622431,way,Mercado Extra,supermarket,,Mercado Extra,Avenida dos Remédios,,,-23.517982,-46.752133
+666494942,way,Pão de Açúcar Minuto,convenience,,,Avenida José Galante,+55 11 3552 6058,Mo-Sa 07:00-22:00; Su 08:00-20:00,-23.6209218,-46.7382731
+667574467,way,Sondas Supermercados,supermarket,,,Avenida Caminho do Mar,+55 11 4118 4150,"Mo-Su,PH 07:00-22:00",-23.6598931,-46.5717979
+670997755,way,Mercadão Atacadista,supermarket,,,Rua Jaime Balmer,+55 11 3384 9592,,-23.6469768,-46.7888478
+672015992,way,Kaçula Supermercados,supermarket,,,Avenida Augusto de Almeida Batista,+55 11  4783 1748,Mo-Sa 07:30-21:00; Su 07:30-18:00; PH off,-23.6580048,-46.8156678
+675071422,way,Casa do Norte São Francisco,convenience,,,Avenida Ayrton Senna,+55 11 3692 2199,,-23.5840209,-46.8098446
+676630352,way,Shell,convenience,,Shell,,,,-23.5307301,-46.5186609
+677291484,way,Dia,supermarket,,Dia,Avenida João Paulo I,,,-23.430273,-46.437416
+677291488,way,Extra,supermarket,,Extra,Avenida Papa João Paulo I,,,-23.4234425,-46.4241363
+680320719,way,Dia,supermarket,,Dia,Rua Helade,,,-23.6411531,-46.6676612
+680349235,way,Dia,supermarket,,Dia,Rua José Neves,,,-23.6573343,-46.6739266
+681293170,way,Supermercado 4 Irmãos,supermarket,,,,,,-23.4859071,-46.8116582
+681380963,way,Ourinhos Hipermercado,supermarket,,,Rua Coronel Esdras de Oliveira,+55 11 2997 0810,Mo-Sa 07:00-22:00; Su 07:00-20:00; PH off,-23.4556799,-46.6019486
+681402101,way,Extra,supermarket,,Extra,Rua Doutor Assis Ribeiro,,Mo-Su 06:00-22:00,-23.4967189,-46.5134872
+681407844,way,Supermercado Nagumo,supermarket,,,Rua Sena Madureira,+55 11 2412 5750,"Mo-Sa 08:30-21:00; Su,PH 08:30-14:00",-23.4435738,-46.4378444
+681440902,way,Supermercado Irmãos Lopes,supermarket,,,Rua Marinópolis,,08:00-22:00,-23.4174624,-46.4297913
+681624300,way,Mercado Hortifruti União,supermarket,,,Avenida Conselheiro Carrão,,,-23.5525687,-46.5294186
+681624301,way,Mercado Extra,supermarket,,Mercado Extra,Rua Taubaté,,,-23.553525,-46.5308773
+681868095,way,Assaí Atacadista,supermarket,,Assaí Atacadista,Rua Manilha,,Mo-Su 07:00-22:00,-23.5509757,-46.527182
+681920883,way,Dia,supermarket,,Dia,Avenida Martim Francisco,,,-23.628926,-46.5154812
+682157406,way,Supermercado Coop,supermarket,,,Rua Otávio Cândido,,Mo-Sa 08:00-22:00,-23.6938844,-46.5299298
+682174886,way,Supermercado Gilvana,supermarket,,,,,,-23.6490691,-46.5049324
+682174887,way,Supermercado Vitória,supermarket,,,,,,-23.6487952,-46.5045143
+682303339,way,Mercado Vila Fátima,supermarket,,,,,,-23.4603534,-46.5080133
+682303342,way,Mercado Pequenos Preços,supermarket,,,,,Mo-Su 06:00-22:00,-23.4606464,-46.508134
+682303378,way,Dia,supermarket,,Dia,,,,-23.4566613,-46.5092755
+682334846,way,Coop,supermarket,,,Rua Carijós,,Mo-Sa 08:00-22:00,-23.6868706,-46.5215191
+682570302,way,Extra,supermarket,,Extra,Rua Martim Afonso,,,-23.6936068,-46.6180976
+684050481,way,Sacolão da Economia FL,supermarket,,,Avenida Cupecê,,,-23.6792848,-46.640788
+684058621,way,Veram Supermercado,supermarket,,,Avenida XV de Novembro,+55 11 4741 4147,,-23.5410843,-46.3664185
+685287067,way,Natural da Terra,supermarket,,,Rua João Cachoeira,,Mo-Su 07:30-22:00,-23.5920574,-46.6752195
+685310748,way,Pão de Açúcar,supermarket,,Pão de Açúcar,Rua Clodomiro Amazonas,+55 11 3849 7928,Mo-Su 07:00-23:00,-23.592569,-46.6771915
+685314405,way,Dia,supermarket,,Dia,Avenida Santo Amaro,,,-23.5935883,-46.6736226
+685540346,way,Pão de Açúcar,supermarket,,Pão de Açúcar,Rua Clodomiro Amazonas,,"Mo-Sa 07:00-22:00, Su 08:00-20:00",-23.5958191,-46.6768186
+686152441,way,Beira Alta,supermarket,Beira Alta,,Estrada de Itapecerica-Campo Limpo,,Mo-Fr 08:00-21:00; Su 08:00-16:00,-23.6614324,-46.7975114
+687792714,way,Shell Select,convenience,,Shell Select,Rua Saldanha da Gama,,,-23.6920975,-46.5291579
+687844993,way,Mercado Extra,supermarket,,Mercado Extra,Rua Carijós,,,-23.6903918,-46.5216294
+689114174,way,Comercial Esperança,supermarket,,,Avenida Guapira,,Mo-Sa 08:00-22:00; Su 08:00-18:00,-23.4793465,-46.5988479
+692907635,way,Veran Supermercados,supermarket,,,Rua Tito Temporim,+55 11 4741 4147,"Mo-Sa 07:00-22:00; Su,PH 07:00-20:00",-23.5348658,-46.3656187
+696532271,way,Supermercado Atacadão,supermarket,,Atacadão,Avenida Presidente Trancredo de Almeida Neves,,,-23.5259746,-46.3825523
+697504488,way,Ricoy Supermercados,supermarket,,,Avenida Prestes Maia,+55 11 4010 2640,,-23.668969,-46.6112082
+697836801,way,Mini Mercadinho,convenience,,,Rua Anhanduí-Mirim,,"Mo-Sa 07:00-21:00; Su,PH off",-23.6754615,-46.7390291
+698014332,way,Mini Extra,convenience,,Mini Extra,Rua João Cordeiro,,,-23.4942156,-46.701501
+700548393,way,Roldão Atacadista,supermarket,,,Avenida Raimundo Pereira de Magalhães,,Mo-Su 08:00-22:00,-23.4401862,-46.7218325
+701351782,way,Atacadão,supermarket,,Atacadão,Rua José Bernardo Medeiros,+55 11 3795 0959,"Mo-Sa 07:00-22:00; Su 08:00-20:00; PH "" consultar """,-23.4751298,-46.5271419
+701646645,way,Porto Seguro Supermercado,supermarket,,,Avenida Ibirama,,,-23.631268,-46.8102061
+704604208,way,Lopes Supermercados,supermarket,,,Avenida Martim Francisco,,Mo-Sa 07:00-22:00,-23.6251351,-46.5207581
+708944666,way,Atacadão,supermarket,,Atacadão,Avenida Antônio Faustino dos Santos,,Mo-Sa 07:00-22:00; PH off,-23.5254886,-46.8201765
+712565149,way,Ricoy,supermarket,,,,,,-23.6621511,-46.7807546
+712899643,way,Centro Automotivo Humaitá,convenience,,Shell,Praça 14 Bis,,,-23.6645722,-46.5094566
+713967268,way,Extra,supermarket,,Extra,,,,-23.6665428,-46.6578392
+714037246,way,Supermercado Chinen,supermarket,,,Rua Chico Pontes,,,-23.5065653,-46.6057304
+714054774,way,Mercadinho Da Rê,convenience,,,Avenida Guilherme,,,-23.5167002,-46.6045575
+714562938,way,Dia,supermarket,,Dia,Rua Orfanato,,,-23.5798799,-46.5810072
+714634265,way,Precito,supermarket,,,Praça Nippon,,,-23.5067071,-46.5771757
+714634907,way,Mini Mercado Extra,convenience,,,Avenida Alberto Byington,,,-23.5004345,-46.5879786
+714640252,way,Blue Point,convenience,,,Rua Curuçá,,,-23.5103523,-46.5937079
+714654158,way,Da Granja,supermarket,,,Rua Amambaí,,,-23.5178107,-46.5853263
+714895632,way,D'avó Supermercado,supermarket,,,Avenida do Oratório,+55 11 2718 6800,,-23.6022765,-46.5310304
+714895714,way,Supermercado Frimar,supermarket,,,,,,-23.5926931,-46.5465976
+714904417,way,Mercado Dourado's,supermarket,,,,,,-23.5943552,-46.5468285
+715112103,way,Dia,supermarket,,Dia,Avenida Celso Garcia,,,-23.5354975,-46.5725766
+715125189,way,Dia,supermarket,,Dia,Rua Cantagalo,,,-23.5444892,-46.5594677
+716868876,way,Oba Hortifruti,greengrocer,Oba Hortifruti,,Avenida Amador Bueno da Veiga,+55 11 2023 6240,"Mo-Su,PH 07:00-22:00",-23.5226488,-46.5200843
+716873720,way,Cobal,supermarket,,,Avenida Amador Bueno da Veiga,,,-23.5227998,-46.5435356
+716887197,way,Extra,supermarket,,Extra,Avenida Amador Bueno da Veiga,,,-23.5221502,-46.5317992
+717217916,way,Dia,supermarket,,Dia,Avenida Águia de Haia,,,-23.5142799,-46.4764969
+717221472,way,Atacadão,supermarket,,Atacadão,,,,-23.4949806,-46.4566642
+717338276,way,Nagumo,supermarket,Nagumo,,Avenida Paranaguá,01125422770,Mo-Su 08:00-22:00,-23.4866704,-46.4791012
+717351005,way,Mercado da Praça,convenience,local,,Avenida Manoel dos Santos Braga,,,-23.5009204,-46.4743539
+717367209,way,Supermercado Rossi,supermarket,,,Rua Doutor Assis Ribeiro,,,-23.4881028,-46.5040123
+717418514,way,Mini Extra,convenience,,,,,,-23.5148792,-46.5064116
+722052519,way,Natural da Terra,greengrocer,,,Rua Rosa e Silva,+55 11 2828-5700,Mo-Su 07:30-21:00,-23.5345808,-46.6574648
+732410140,way,Lopes Supermercados,supermarket,,,Avenida Guarulhos,+55 11 2421 7124,Mo-Sa 07:00-22:00; Su 07:00-18:00; PH off,-23.5025412,-46.5510249
+734030310,way,Dia,supermarket,,Dia,Avenida Souza Ramos,,Mo-Fr 08:00-19:00; Sa 08:00-14:00,-23.5818459,-46.4096505
+737042148,way,Dia,supermarket,,Dia,Rua Bezerra de Menezes,,,-23.4729732,-46.5545865
+738642119,way,Minuto Pão de Açúcar,supermarket,,,,,,-23.6471579,-46.6631968
+741126702,way,Carrefour,supermarket,,Carrefour,,,,-23.6604044,-46.5102716
+751187959,way,Atacadão,supermarket,,Atacadão,Avenida dos Estados,,,-23.6583818,-46.5015711
+760837361,way,Figueiras Hortifrutti,greengrocer,,,Rua das Figueiras,,,-23.6451506,-46.542762
+764379352,way,Minuto Pão de Açuucar,convenience,,,Rua Tonelero,,,-23.5317256,-46.7046887
+770068825,way,Supermercado Nagumo,supermarket,Nagumo,,Avenida Dom Pedro I,+55 11 4452 7789,,-23.6935357,-46.50542
+770744376,way,Atacadão,supermarket,,Atacadão,Avenida Queirós dos Santos,+55 11 4469 4452,"Mo-Sa 07:00-22:00, Su 08:00-18:00; PH off",-23.65661,-46.5224659
+772847911,way,Matsuo,supermarket,,,Alameda Yayá,,,-23.4566032,-46.5451112
+772847915,way,Fonte Nova,supermarket,,,Alameda Yayá,,,-23.4603552,-46.5450631
+773027336,way,Supermercado Carvalho,supermarket,,,Rua Adalberto Belini,,"Mo-Sa 08:00-21:00; Su,PH off",-23.4036646,-46.4708372
+777280833,way,Sacolão Freguesia do Ó,greengrocer,PMSP,,Rua Luís José Junqueira Freire,,,-23.4728079,-46.6837462
+785740795,way,Carrefour Express,convenience,,Carrefour Express,,,,-23.6501248,-46.7038569
+799454994,way,Imperio,supermarket,,,Avenida Armando Bei,,,-23.4075909,-46.3988009
+801674779,way,Empório Massado,greengrocer,,,Avenida Conceição,,,-23.4998016,-46.6101542
+804847019,way,Semar,supermarket,,,Avenida Herman Tellles Ribeiro,,,-23.543829,-46.3714118
+805557370,way,Mercado Batista,convenience,,,Rua Riachuelo,,Mo-Sa 08:00-20:00,-23.6818504,-46.4567927
+810881701,way,Nevada Supermercados,supermarket,,,Avenida José Moreira,,,-23.6802111,-46.4173334
+821483205,way,Supermercados Mambo,supermarket,,,Rua Deputado Lacerda Franco,,,-23.5606547,-46.6927588
+822358991,way,Ricoy,supermarket,,,,,,-23.6919472,-46.677228
+822374462,way,Dia,supermarket,,Dia,Rua Domingos Cirillo,,,-23.6759994,-46.4163995
+823002233,way,Semar,supermarket,,,,,,-23.6726524,-46.4229666
+824387938,way,Select,convenience,,,Avenida Barão de Mauá,,,-23.6653931,-46.4340429
+825046739,way,Supermercado Vila Rica,supermarket,,,,,,-23.6930447,-46.5962605
+827742458,way,Supermercado Baronesa,supermarket,,,,,,-23.6734927,-46.45348
+835175785,way,MM Pereira,supermarket,,,,,,-23.5806272,-46.7976814
+835175800,way,GBarbosa,supermarket,,GBarbosa,,,,-23.5732509,-46.8044531
+836531314,way,Assaí Atacadista,supermarket,,Assaí Atacadista,Rua Senador Vergueiro,+55 11 4224 2150,"Mo-Sa 07:00- 22:00; Su,PH 08:00-18:00",-23.6140804,-46.5785625
+841554236,way,Supermercado Fonte Nova,supermarket,,,Rua Pixinguinha,,,-23.4037893,-46.4734347
+842191889,way,Dia,supermarket,,Dia,Rua Maestro João Gomes de Araújo,,,-23.4876661,-46.6227231
+846560985,way,Sabores HortiFruti,convenience,,,Avenida Cândido Portinari,,,-23.5084255,-46.7513916
+847176785,way,Mini Mercado Guacá,convenience,,,Avenida do Guacá,,,-23.4806591,-46.6388516
+848979083,way,Atacadão,supermarket,,Atacadão,Rodovia Armando Salles,+55 11 4165 9125,"Mo-Sa 07:00-22:00; Su 07:00-18:00; PH "" consultar """,-23.6889341,-46.8070544
+863560287,way,Hirota Food Morumbi,supermarket,,,Avenida Doutor Guilherme Dumont Vilares,,08:00-21:00,-23.6185649,-46.7412831
+867475172,way,Supermercado Pão de Açúcar,supermarket,,Pão de Açúcar,Rua Vieira de Moraes,,,-23.6228307,-46.670365
+868091873,way,Shell,convenience,,Shell,Avenida Pires do Rio,,,-23.5227536,-46.443132
+876259343,way,Mercado Varejão Santana,supermarket,,,Avenida Batista Maciel,,,-23.6912134,-46.6704415
+876261900,way,Mercadinho Nenê,supermarket,,,Rua Alzira Alves dos Santos,,,-23.693827,-46.6720542
+879444745,way,Extra,supermarket,,Extra,,,,-23.5001489,-46.7057585
+880433298,way,Bom dia,greengrocer,,,Rua Antonieta Leitão,,,-23.5025566,-46.6971761
+880433300,way,Reluz,supermarket,,,Rua Antonieta Leitão,,,-23.5028415,-46.6965942
+881623826,way,Dia,supermarket,,Dia,,,,-23.4924233,-46.6918093
+888274477,way,Supermercado Souza & Menezes,supermarket,,,Avenida Deputado Cantídio Sampaio,,,-23.4523722,-46.6995069
+888986007,way,Goya,supermarket,,,Rua Doutor Olavo Egídio,,,-23.5002468,-46.6204726
+895065863,way,Mercado Extra - Campo Belo,supermarket,Extra,Extra,Rua Vieira de Moraes,,,-23.6250826,-46.6674119
+901970165,way,Assaí Atacadista,supermarket,,Assaí Atacadista,Avenida do Taboão,,,-23.6472441,-46.5835658
+911270760,way,KYTY,supermarket,,,,,,-23.6272553,-46.4896026
+915085919,way,Shell,convenience,,Shell,Avenida Vereador João de Luca,,,-23.6490567,-46.6697907
+927815433,way,Supermercado da Praça,supermarket,,,Rua Ibitirama,,,-23.5914591,-46.5808244
+929947753,way,Assaí Atacadista,supermarket,,Assaí Atacadista,Avenida dos Estados,+55 11 4976-9800,"Mo-Sa 06:00-19:00; Su,PH 08:00-18:00",-23.6175499,-46.5414686
+939534219,way,Atacadão,supermarket,,Atacadão,Avenida Inajar de Souza,,,-23.4673392,-46.6708172
+939549400,way,Assaí Atacadista,supermarket,,Assaí Atacadista,Rodovia Régis Bittencourt,+55 11 4135 1880,Mo-Sa  07:00-22:00; Su  08:00-18:00; PH off,-23.6127397,-46.7814609
+941005474,way,Supermercados Nagumo,supermarket,,,Rua Tamotsu Iwasse,,Mo-Su 10:00-22:00,-23.405323,-46.3874921
+945781840,way,Mercado do Trevo,convenience,,,,+55 11 2656-0872,,-23.4259565,-46.40927
+947930620,way,Básico,supermarket,,,Avenida Guarulhos,,,-23.4999375,-46.5507246
+964730627,way,Mercado Tag Branca Flor,supermarket,,,Rua Piratini,,,-23.6887229,-46.8242269
+969432813,way,Cercadão Supermercados,supermarket,,,Avenida Soldado PM Gilberto Augustinho,+55 11 94778 6373,"Mo-Sa 08:00-22:00; Su,PH 08:00-20:00",-23.6967943,-46.8010706
+972415893,way,Loyola Supermercado,supermarket,,,Avenida Aclimação,+55 11 4451 1813,,-23.7009018,-46.5189615
+973552867,way,Viana'S Supermercado,supermarket,,,Rua Rio Tocantins,,,-23.5146726,-46.7892961
+974147684,way,Miami Hortifruti,greengrocer,,,Avenida Dom Pedro I,,,-23.6997259,-46.5051523
+976383758,way,Fast Store,convenience,,,,,,-23.5056437,-46.5582017
+980644974,way,Supermercado Dia,supermarket,Dia,,Avenida Engenheiro Caetano Alvares,,,-23.48647,-46.6454837
+982840214,way,Supermercado Mota,supermarket,,,Avenida Antenor Navarro,,,-23.4837747,-46.5729764
+987465835,way,Oba Hortifruti,supermarket,,,Rua Tobias Barreto,,,-23.5513884,-46.5901037
+989121362,way,Superlar Supermercado,supermarket,,,Avenida Pedro de Souza Lopes,,,-23.4479093,-46.5669611
+990063053,way,Oba Hortifrutic,supermarket,,,Rua Augusto Tolle,,,-23.4854009,-46.633623
+991197767,way,Shell Select,convenience,,Shell Select,Avenida Nova Cantareira,,,-23.4872666,-46.6203458
+992013757,way,BR,convenience,,BR,Avenida do Estado,,,-23.5247351,-46.6315089
+992279690,way,Sacolão Gopiúva,supermarket,,,Rua Ubatã,,,-23.5470589,-46.8219817
+992285733,way,Mercado Tudo de Bom,supermarket,,,Rua Raimundo Correa,+55 11  94701-4897,Mo-Sa 07:00-21:00,-23.6558358,-46.4194929
+992285734,way,Varejão Familiar,supermarket,,,,+55 11 9829 72243,,-23.6559473,-46.4196112
+992749771,way,Mercado Frei Caneca,supermarket,,,Rua Frei Caneca,,,-23.5521078,-46.6502845
+994082516,way,Primos Supermercado,supermarket,,,Avenida Mateo Bei,,Mo-Su 08:00-21:00,-23.5931582,-46.4881398
+994947069,way,Americanas Express,convenience,,,Avenida Mateo Bei,,,-23.6002545,-46.485039
+996315688,way,Sonda Supermercados,supermarket,,,Rua Guaicurus,,,-23.5215298,-46.6999696
+997201143,way,Rede Plus,supermarket,,,Avenida Inajar de Souza,,,-23.4895895,-46.6853821
+998441881,way,Dia,supermarket,,Dia,Rua Rego Freitas,,,-23.5421489,-46.6466291
+999569673,way,Hirota Santa Cecília,supermarket,Hirota Supermercados,,Avenida General Olímpio da Silveira,+55 11 3666-0795,"Mo-Sa 08:00-21:00; Su, PH 09:00-14:00",-23.5330741,-46.6571484
+999713596,way,Supermercado Lopes,supermarket,,,Avenida Robert Kennedy,+55 11 4399 5800,"PH,Mo-Sa 00:00-23:59; Su 07:00-22:00",-23.7036984,-46.5772417
+1001447541,way,Fartura,greengrocer,,,Avenida Guapira,,Mo-Su 08:00-21:00,-23.4738027,-46.589094
+1002710575,way,Dia,supermarket,,Dia,Avenida Gaspar Vaz da Cunha,,Mo-Su 08:00-21:00,-23.4947162,-46.6772167
+1005340407,way,Supermercado extra,supermarket,,Supermercado extra,Rua José Maurício,,,-23.4644761,-46.5320574
+1005963310,way,Extra,supermarket,,Extra,Avenida Inajar de Souza,,,-23.4677685,-46.669402
+1005972675,way,Anashiro Supermercados,supermarket,,,Rua Paulo Garcia Aquiline,,,-23.4692892,-46.685519
+1011046685,way,Empório Prediletto,convenience,,,Avenida Agenor Couto de Magalhães,,,-23.4766244,-46.7395679
+1011436568,way,Brasil Supermercado,supermarket,,,Avenida São José,,,-23.5178635,-46.7735153
+1011921989,way,Grupo Bem Barato,supermarket,Grupo Bem Barato,,Avenida Pereira Barreto,+55 11 3060 5400,Mo-Sa 07:00 -22:00; Su 07:00-20:00; PH off,-23.6882394,-46.548276
+1016419741,way,Supermercado Novo Horizonte,supermarket,,,Rua Hilário Pires de Freitas,,,-23.3784701,-46.4493339
+1016594956,way,Fuad Supermercados,supermarket,,,Rua João Alves Pimenta,,,-23.4817163,-46.7080258
+1016594961,way,Violeta Supermercados,supermarket,,,Avenida General Edgard Facó,+55 11 3724 9930,"Mo-Sa 07:00-22:00; Su,PH 07:30-21:00",-23.4913897,-46.7093609
+1019742467,way,Mercadinho Vila Maria,convenience,,,Rua Magarinos Torres,,,-23.5164497,-46.5877878
+1024928390,way,Shell Select,convenience,,Shell Select,,,,-23.6715999,-46.743138
+1024974178,way,Lev+,supermarket,,,Avenida Paulicéia,,,-23.3947269,-46.7156449
+1024974179,way,Federzoni,supermarket,,,Avenida Paulicéia,,,-23.3936915,-46.7155797
+1024974181,way,Macedo,supermarket,,,Rua Cardeal,,,-23.3759805,-46.7205267
+1024997237,way,Hortifruti Piraporinha,greengrocer,,,,,,-23.6748407,-46.7432363
+1025855174,way,Hirata Food,convenience,,,Avenida Doutor Gentil de Moura,,Mo-Su 09:00-21:00,-23.6023933,-46.614315
+1033460506,way,Sacolão das Frutas,greengrocer,,,,,,-23.499291,-46.7473682
+1033531282,way,Castanha Supermercado,supermarket,,,Praça Santa Edwiges,,,-23.5163726,-46.7549548
+1034514274,way,Dia,supermarket,,Dia,Avenida Indianópolis,,,-23.6165768,-46.6495218
+1037176273,way,Dia,supermarket,,Dia,Rua Coronel Diogo,,Mo-Su 08:00-22:00,-23.5814017,-46.615279
+1038256041,way,Mercado Extra,supermarket,,Mercado Extra,Largo do Cambuci,,,-23.5627613,-46.6205552
+1038322202,way,Hipermercado Nardinho,supermarket,,,Rua Hannemann,,Mo-Fr 07:00-22:00; Sa-Su 08:00-20:00,-23.5310368,-46.622996
+1039065800,way,Mercado Paloma,convenience,,,Avenida Sapopemba,,,-23.5886986,-46.5320727
+1039158858,way,Carrefour Express,convenience,Carrefour,Carrefour Express,Avenida Lins de Vasconcelos,,Mo-Sa 07:00-21:00; Su 09:00-16:00,-23.5673861,-46.6215523
+1040569517,way,Supermercado Master,supermarket,,,Rua Pedroso,,Mo-Sa 07:30-20:30; Su 08:30-14:30,-23.5620226,-46.6425021
+1040871937,way,Mercearia da Rinalda,convenience,,,Praça Maria Montessori,,,-23.5013462,-46.5896697
+1047197032,way,Mercadinho Vem Que Tem,convenience,,,Rua Arnaldo Cintra,,,-23.5285208,-46.5605974
+1047431860,way,Mambo,supermarket,,,Rua Serra de Botucatu,,,-23.5408399,-46.5552246
+1050028884,way,Dia,supermarket,,Dia,Rua Tripoli,,,-23.5267597,-46.7332098
+1050028921,way,Pão de Açúcar,supermarket,,Pão de Açúcar,Avenida Imperatriz Leopoldina,,,-23.5292914,-46.7315835
+1051650749,way,Pão de Açúcar,supermarket,,Pão de Açúcar,Avenida Doutor Cardoso de Melo,,"Mo-Sa 07:00-22:00, Su 08:00-20:00",-23.6009017,-46.6786891
+1053659837,way,Lodetti Supermercado,supermarket,,,Rua Pio XI,,,-23.540684,-46.716902
+1055694454,way,Empório São Judas,convenience,,,Rua Itapura,,,-23.5469146,-46.5658036
+1056302852,way,Pão de Açúcar,supermarket,,Pão de Açúcar,Rua Tito,,Mo-Su 08:00-22:00,-23.5284551,-46.6984244
+1057751859,way,Coop,supermarket,,,Rua Giovanni Battista Pirelli,+55 11 4118 4190,Mo-Sa 08:00-22:00,-23.6653857,-46.4921321
+1058336440,way,Empório Cerealista Pompéia,convenience,,,Avenida Pompeia,,,-23.5292361,-46.6844988
+1058656185,way,Dia,supermarket,,Dia,Avenida Pompeia,,,-23.5306918,-46.6847936
+1060143584,way,Supermercado Júpiter,supermarket,,,Rua Doutor Cincinato Braga,,,-23.697521,-46.5699254
+1060870751,way,Carrefour Express,convenience,,Carrefour Express,Rua Diana,,,-23.5339649,-46.6820364
+1061438067,way,Dia,supermarket,,Dia,Rua Tucuna,,,-23.5356906,-46.6865458
+1061794492,way,Carrefour Express,convenience,,Carrefour Express,Avenida Professor Alfonso Bovero,,Mo-Su 09:00-22:00,-23.5371151,-46.6854143
+1062116184,way,Quitanda do Índio,greengrocer,,,Rua Caraíbas,,,-23.5361387,-46.6848497
+1062148358,way,Kibo Produtos Orientais & Naturais,convenience,,,Avenida Professor Alfonso Bovero,,,-23.5419001,-46.6818766
+1062148373,way,Dia,supermarket,,Dia,Avenida Professor Alfonso Bovero,,,-23.5400701,-46.6829589
+1062352825,way,Jokeka Shop Mercearia,convenience,,,Rua Diana,,,-23.5366394,-46.6837902
+1062604595,way,Defrost,greengrocer,,,Rua Ministro Ferreira Alves,,,-23.5322492,-46.6814655
+1064457138,way,Empório e Laticíneos Frios Mania,convenience,,,Avenida Guarulhos,+55 11 2304 2331,,-23.5012685,-46.5509347
+1065297228,way,Ágape Supermercados,supermarket,,,Rua Havaí,,,-23.5419017,-46.6858214
+1065958849,way,Mercadinho Cayowaá,convenience,,,Rua Cayowaá,,,-23.5428698,-46.6866397
+1066219523,way,Dia,supermarket,,Dia,Rua Aimberê,,,-23.5330059,-46.6788607
+1067020273,way,Casa do Norte,convenience,,,,,,-23.6818793,-46.7451899
+1067020278,way,Mercadinho da Beth,convenience,,,,,,-23.6820876,-46.7451279
+1067029505,way,Mercadinho NF,convenience,,,,,,-23.6830898,-46.7450051
+1067443182,way,Mini Extra,convenience,,Mini Extra,Rua Caiubi,,,-23.5353461,-46.6790709
+1069014049,way,Bom Preço,greengrocer,,,Rua Francisco Coimbra,,,-23.5294359,-46.5402539
+1069452548,way,Supermercado Vila Real,supermarket,,,Rua Eça de Queiroz,,,-23.4413697,-46.3836726
+1070627410,way,Mini Extra,convenience,,Mini Extra,Rua Cuiabá,,,-23.5585386,-46.5944734
+1071278829,way,Mini Mercado Extra,convenience,,Mini Mercado Extra,Avenida Rio Branco,,,-23.5407244,-46.6389484
+1072694735,way,Mini Extra,convenience,,Mini Extra,Rua do Oratório,,,-23.5686545,-46.5843616
+1072837248,way,Pão de Açúcar,supermarket,,Pão de Açúcar,Rua Juventus,,,-23.5699528,-46.5914464
+1072837249,way,Empório Suhai Horti Fruti,greengrocer,,,Rua Juventus,,,-23.5698913,-46.5915081
+1072837257,way,Urizun Produtos Orientais,convenience,,,Rua Juventus,,,-23.5694304,-46.5919732
+1073177620,way,Verdim,greengrocer,,,Avenida Deputado Emílio Carlos,,,-23.4982843,-46.6753822
+1074590697,way,Oba,supermarket,,,Rua Apinajés,,,-23.5325839,-46.6770118
+1075173124,way,Carrefour Express,convenience,,Carrefour Express,Rua Piracuama,,,-23.5395828,-46.6811055
+1075173130,way,Pão de Açúcar,supermarket,,Pão de Açúcar,Avenida Professor Alfonso Bovero,,,-23.5405584,-46.6822162
+1075174135,way,Carrefour Express,convenience,,Carrefour,Rua Ezequiel Freire,,Mo-Su06:00-24:00,-23.5023615,-46.6234298
+1075829778,way,Mercadinho Apíacás,convenience,,,Rua Apiacás,,,-23.5335481,-46.6761431
+1076991116,way,Minimercado Indiana,convenience,,,,,,-23.6199126,-46.8060474
+1077469615,way,St. Marche,supermarket,,,Avenida Sumaré,,,-23.5357339,-46.6738614
+1078236306,way,Oxxo,convenience,,Oxxo,Avenida Alberto Byington,,24/7,-23.5023411,-46.5910719
+1080988400,way,Carrefour Express,convenience,Groupe Carrefour,Carrefour Express,Avenida Celso Garcia,,,-23.5392908,-46.6077335
+1080991471,way,Dia,supermarket,,Dia,Avenida Celso Garcia,,,-23.5393288,-46.6096828
+1083072652,way,Grupo Bem Barato,supermarket,Grupo Bem Barato,,Avenida do Taboão,+55 11 3060 5400,Mo-Sa 07:00-22:00; Su 07:00-18:00; PH off,-23.6570098,-46.6025765
+1083797627,way,Sonda Supermercado,supermarket,,,,,,-23.4592002,-46.5635187
+1084317314,way,Carrefour Express,convenience,,Carrefour Express,Avenida Paulista,,,-23.5702095,-46.6460566
+1085379695,way,Carrefour Express,convenience,,Carrefour Express,Avenida Francisco Matarazzo,,,-23.5294051,-46.6676249
+1085732297,way,Sacolão Perdizes,greengrocer,,,Rua Turiassu,,,-23.5340463,-46.6658892
+1086546858,way,Hortifruti Perimetral,greengrocer,,,Avenida Santos Dumont,,,-23.6651224,-46.5178899
+1086766391,way,Hortifruti Kyodai,greengrocer,,,Rua Ernesta Pelosini,,,-23.7014923,-46.549783
+1086766398,way,Minimercado Extra,supermarket,,,Rua Ernesta Pelosini,,,-23.7016044,-46.5505886
+1091355132,way,Hirota Food,supermarket,,,Rua Taquari,,,-23.5482003,-46.5940746
+1091615018,way,St. Marché,supermarket,,,Avenida Cassandoca,,,-23.5508723,-46.5958148
+1092170280,way,Fuxing Mercadinho,convenience,,,Rua da Mooca,,,-23.5574371,-46.592373
+1094617024,way,Carrefour Express,convenience,,Carrefour Express,Rua Voluntários da Pátria,,,-23.5019045,-46.6262952
+1095041784,way,Oba Hortifruti,greengrocer,,,Rua Alfredo Pujol,,,-23.5004907,-46.6386437
+1095423378,way,Dia,supermarket,,Dia,Avenida Ibirapuera,,,-23.6051779,-46.6632968
+1095674761,way,Oba,greengrocer,,,Avenida Macuco,,,-23.6048026,-46.6648115
+1096840079,way,Carrefour Express,convenience,,Carrefour Express,,,,-23.6032723,-46.659759
+1097562679,way,Mini Extra,convenience,Companhia Brasileira de Distribuição,Mini Extra,Alameda dos Maracatins,,,-23.6051746,-46.6587389
+1097996982,way,Carrefour Market,convenience,,Carrefour Market,Avenida Moema,,,-23.6074287,-46.6546471
+1098686766,way,Emporium São Paulo,supermarket,,,Avenida Jurema,,,-23.6076521,-46.6594286
+1098840747,way,Shell,convenience,,Shell,Avenida Moreira Guimarães,,,-23.6147818,-46.6586852
+1098881607,way,Supermercado Lopes,supermarket,,,Avenida Florianópolis,+55 11 2467 0860,Mo-Sa 07:00-22:00; Su 07:00-20:00; PH off,-23.4101868,-46.4538023
+1099631232,way,Emporio da Papinha,convenience,,,,,,-23.6106601,-46.6646756
+1100753187,way,Empório São Paulo,supermarket,,,,,,-23.6119148,-46.6613328
+1101762312,way,Hortimix,greengrocer,,,Rua Jacutinga,+55 11 93337 3062,,-23.4482467,-46.4181206
+1102541894,way,Dia,supermarket,,Dia,Alameda dos Nhambiquaras,,,-23.6090345,-46.6607933
+1104670457,way,Bongosto Hortifruti,greengrocer,,,Praça Marli,,,-23.4285228,-46.4322109
+1104795903,way,Supermercado Nova Geração,supermarket,,,Avenida Rio Real,,,-23.4324626,-46.4391583
+1105073788,way,Supermercado Nagumo,supermarket,,,,,,-23.4530896,-46.4408251
+1105082995,way,Roop Supermercados,supermarket,,,Avenida Ataláia do Norte,,,-23.4527531,-46.4390045
+1105930796,way,Assaí Atacadista,supermarket,,Assaí Atacadista,,,,-23.4265236,-46.4980855
+1106124650,way,Emporium São Paulo,supermarket,,,Alameda dos Maracatins,,,-23.6037492,-46.6574495
+1106218451,way,Koa Food Market,convenience,,,Alameda dos Maracatins,,,-23.6056754,-46.6598313
+1106218452,way,Dia,supermarket,,Dia,Alameda dos Maracatins,,,-23.6058219,-46.6599803
+1106218458,way,Minuto Pão de Açucar,convenience,,,Alameda dos Maracatins,,,-23.6081232,-46.6621206
+1106581704,way,Dia,supermarket,,Dia,Alameda dos Maracatins,,,-23.6104068,-46.6644275
+1106646275,way,Mercearia da Divisa,convenience,,,Estrada Alcides Pires de Freitas,,,-23.3573953,-46.4623651
+1107219347,way,Natural Terra,supermarket,,,Avenida dos Imarés,,,-23.6132491,-46.6655283
+1108427655,way,Mamãe Supermercado,supermarket,,,Avenida Palmira Rossi,,,-23.4036161,-46.5171737
+1108800881,way,Natural da Terra,supermarket,,,Alameda dos Arapanés,,,-23.606757,-46.6668083
+1109061157,way,StMarche,supermarket,,,Alameda Jauaperi,,,-23.6028911,-46.6649518
+1113424664,way,Supermercado Peri,supermarket,,,,,,-23.4635391,-46.6538181
+1114583677,way,Pão de Açúcar,supermarket,,Pão de Açúcar,Avenida Lavandisca,+55 11 5052-6978,,-23.6001693,-46.6666521
+1114918615,way,Mini Extra,convenience,,Mini Extra,Rua Inhambú,,,-23.6039369,-46.6710807
+1116011149,way,Dia Market,supermarket,,Dia Market,Avenida Lavandisca,,,-23.6031604,-46.6642073
+1116032292,way,Carrefour,convenience,,Carrefour,Avenida Rouxinol,,"Mo-Sa 06:00-22:00; Su,PH 10:00-20:00",-23.6027153,-46.6714927
+1116718605,way,St Marche,supermarket,,,Avenida Santo Amaro,,"Mo-Fr 07:00-22:00, Sa,Su,PH 07:00-20:00, Mo-Sa 07:00-22:00, Su,PH 08:00-22:00",-23.6016028,-46.6737803
+1116910378,way,Dia Market,supermarket,,Dia Market,Rua Tuim,,,-23.6015212,-46.6697799
+1125975702,way,Mambo Supermercado,supermarket,,,,,Mo-Sa 08:00-21:00,-23.5548535,-46.685575
+1130705921,way,AMPM,convenience,,AMPM,,,,-23.6561168,-46.6947014
+1136741902,way,Nutri Terra,greengrocer,,Itaú Unibanco,Avenida Morumbi,,,-23.6212341,-46.6894427
+1144383565,way,Supermercado Rossi,supermarket,,,Avenida Sport Club Corinthians Paulista,,,-23.5485995,-46.7918079
+1144391429,way,Atacadão,supermarket,,Atacadão,,,,-23.551609,-46.7944213
+1144962965,way,Mais Supermercado,supermarket,,,Rua José TeruelLopes,,,-23.5457216,-46.7943602
+1147733998,way,Supermercado Novo Sucesso,supermarket,,,Avenida da Barreira Grande,,Mo-Sa 08:00-20:00;Su 08:00-13:00,-23.5850967,-46.5194785
+1148277218,way,Paraná Supermercados,supermarket,,,Rua Oswaldo Ramos,+55(11)2402-8811,07:00-21:00,-23.4105946,-46.4966528
+1148834114,way,Supermercado Tókio,supermarket,,,Avenida José Barbosa de Siqueira,,,-23.5489662,-46.8083726
+1149151212,way,Parada 247,convenience,,,Avenida Doutor Rudge Ramos,,,-23.6534313,-46.5732131
+1150964616,way,Qualimart Alimentos,convenience,,,Rua Santo Amaro,,"Mo-Sa 07:00-20:30; Su,PH 08:00-14:00",-23.5544484,-46.6405236
+1150969618,way,Oxxo,convenience,,Oxxo,Avenida Brigadeiro Luís Antônio,,,-23.5564183,-46.6397671
+1150970862,way,Oxxo,convenience,,Oxxo,Avenida Conceição,,Mo-Su 09:00-21:00,-23.4987758,-46.5947755
+1151536708,way,Tropikal Hortifruti e Mercado,greengrocer,,,Avenida Agenor Couto de Magalhães,,,-23.4730817,-46.7419259
+1152498266,way,Dia,supermarket,,Dia,Avenida Conceição,,,-23.4951891,-46.581075
+1161124842,way,Assaí Atacadista,supermarket,,Assaí Atacadista,Avenida Nossa Senhora do Ó,+55 11 3933 3301,"Mo-Sa 07:00-22:00; Su,PH 08:00-20:00",-23.5057847,-46.6907556
+1161695476,way,Dia,supermarket,,Dia,Avenida Guilherme Giorgi,,Mo-Su 08:00-21:00,-23.5572023,-46.5448459
+1162105637,way,Sonda Supermercado,supermarket,Sonda Delivery,,Avenida General Edgard Facó,+55 11 2588 1300,"Mo-Sa 08:00-23:00; Su,PH 08:00-22:00",-23.5036505,-46.7068967
+1163708019,way,Mario Supermercado,supermarket,,,Rua Águas da Prata,,Mo-Sa 09:00-19:00; Su 09:00-13:00,-23.5145341,-46.7780912
+1163712736,way,Peg Leve,supermarket,,,Rua Paula Rodrigues,+55 11 3686-2560,,-23.5167616,-46.7873029
+1163898542,way,ABC Express,supermarket,,,Avenida Presidente Kennedy,,,-23.6384161,-46.5592799
+1163964326,way,Pão de Açúcar,supermarket,,Pão de Açúcar,Rua Maranhão,,,-23.6207363,-46.5639299
+1164874987,way,Dia,supermarket,,Dia,Alameda Barão de Limeira,,,-23.5366969,-46.646248
+1164909217,way,Oxxo,convenience,,Oxxo,Alameda Barão de Limeira,,24/7,-23.5339034,-46.6484294
+1164967317,way,Atacadão,supermarket,,Atacadão,Avenida Guido Aliberti,+55 11 2842 1624,Mo-Sa 07:00-22:00; Su 08:00-18:00; PH off,-23.6189361,-46.5794302
+1165434161,way,Natural da Terra,supermarket,,,,,,-23.646167,-46.668206
+1165465670,way,Shell Select,convenience,,Shell Select,,,,-23.543952,-46.592096
+1165950494,way,Oxxo,convenience,,Oxxo,Rua Paraguaçu,,,-23.5346033,-46.6659592
+1167455506,way,Mercado Mix,supermarket,,,Avenida Queirós Filho,+55 11 4453-5922,Mo-Sa 07:00-20:00; Su 07:00-14:00; PH 07:00-14:00,-23.6837061,-46.4992039
+1167663923,way,Casa do Norte Mineirinho do Brás,convenience,,,Rua Doutor Almeida Lima,,,-23.5431649,-46.6163902
+1168419209,way,Minuto Pão de Açúcar,supermarket,,,Rua Pamplona,,,-23.5675411,-46.6573327
+1169934595,way,St. Marche,supermarket,,,,,,-23.6439628,-46.6669567
+1170445566,way,Carrefour,supermarket,,Carrefour,Aclimação,,,-23.5699476,-46.6328334
+1170995877,way,Pé na Roça,greengrocer,,,Avenida Conceição,+55 11 3895-9855,,-23.4995539,-46.5910586
+1171725499,way,Carrefour,convenience,,Carrefour,Alameda Ribeirão Preto,,Mo-Su 06:00-22:00,-23.5618893,-46.6517106
+1171725503,way,Minuto Pão de Açúcar,supermarket,,,Alameda Ribeirão Preto,,"Mo-Sa 07:00-22:00; PH,Su 08:00-20:00",-23.5624953,-46.6509946
+1171725508,way,Oxxo,convenience,,Oxxo,Alameda Ribeirão Preto,,24/7,-23.5641084,-46.6490015
+1172226092,way,Carrefour Express,convenience,,Carrefour Express,Avenida Jabaquara,,Mo-Sa 06:00-22:00,-23.6163095,-46.6390346
+1172230497,way,Mini Extra,convenience,,Mini Extra,Avenida Jabaquara,,,-23.6219038,-46.6397455
+1172270411,way,Oxxo,convenience,,Oxxo,Rua Major Diogo,,24/7,-23.5593985,-46.6426716
+1172464427,way,Dia,supermarket,,Dia,Rua Santo Antônio,,,-23.5510143,-46.6429358
+1172479380,way,Bom Chá,convenience,,,Rua Tabatinguera,,,-23.5522741,-46.6281708
+1172629913,way,Granada Supermercado,supermarket,,,Rua Itinguçu,,,-23.5232261,-46.5148344
+1173197261,way,Super Carinhoso,supermarket,BBMA,,Praça Rio Brilhante,,Mo-Sa 08:00-21:00,-23.5029113,-46.5905487
+1173354198,way,kmart express,convenience,,,Rua do Comércio,,,-23.5462548,-46.6344365
+1173783208,way,Dia Market,supermarket,,Dia Market,Rua Coronel Xavier de Toledo,,,-23.5473484,-46.6395668
+1173809775,way,Supermercado Nagumo,supermarket,,,,,,-23.6204274,-46.5284317
+1173985427,way,Mercado Ecologico,supermarket,,,Avenida Doutor Assis Ribeiro,,,-23.5001793,-46.524917
+1174318858,way,Dia,supermarket,,Dia,,,Mo-Su 08:00-22:00,-23.5510544,-46.4812496
+1175231232,way,ampm,convenience,,ampm,Avenida Ordem e Progresso,,,-23.5200733,-46.6678503
+1176221211,way,Coop,supermarket,,,Rua Brás Cubas,,,-23.6549706,-46.525336
+1177124721,way,ST Marche,supermarket,,,,,"Mo-Sa 10:00-22:00; Su,PH 14:00-20:00",-23.625443,-46.5804555
+1177408555,way,Carrefour Express,convenience,,Carrefour Express,,,Mo-Sa 07:00-21:00; Su 09:00-16:00,-23.6368149,-46.5649661
+1177408557,way,Oxxo,convenience,,Oxxo,Rua Visconde de Inhaúma,,"Mo-Su 00:00-02:00,03:00-24:00",-23.6340685,-46.5642328
+1177920765,way,Supermercado Nagumo,supermarket,,,Rua Coronel Seabra,+55 11 4971 3655;+55 11 4971 3762,"Mo-Sa 08:30-22:00; Su,PH 08:00-20:00",-23.6683861,-46.5198779
+1178151523,way,ampm,convenience,,ampm,Avenida Atlântica,,,-23.6896809,-46.7142579
+1178588228,way,Assaí Atacadista,supermarket,,Assaí Atacadista,Avenida Águia de Haia,+55 11 2046-6220,"Mo-Sa 07:00-22:00; Su,PH 08:00-18:00",-23.5231049,-46.4744018
+1178603226,way,Mini Extra,convenience,,Mini Extra,Avenida Águia de Haia,,,-23.511826,-46.4773514
+1178707904,way,Mini Mercado Extra,convenience,,Mini Extra,Rua Visconde de Inhaúma,,Mo-Sa 07:00-21:00; Su 08:00-18:00,-23.638083,-46.5650224
+1178768856,way,Chama Supermercado,supermarket,,,Avenida Águia de Haia,,,-23.5307816,-46.4733399
+1180734358,way,Padrão,supermarket,,,Rua Fernão Dias,+55 11 3813-1144,Mo-Sa 06:00-22:00; Su 07:00-21:00,-23.5663177,-46.6954334
+1180736144,way,Oxxo,convenience,,Oxxo,Avenida Brigadeiro Faria Lima,,24/7,-23.5685827,-46.6920133
+1185352156,way,Oxxo,convenience,,Oxxo,Rua José Paulino,,24/7,-23.5290661,-46.6399408
+1190475431,way,Frutaria Quitanda Petrópolis,greengrocer,,,Avenida Imperador Dom Pedro II,+55 11 4332 3658,,-23.7027907,-46.5508489
+1192382909,way,Supermercado Dia a Dia,supermarket,,,Avenida Nordestina,,,-23.5314819,-46.4150847
+1197530328,way,Rede Plus,supermarket,,,Rua São Gonçalo do Abaeté,,,-23.4599806,-46.6748493
+1197938649,way,Mercadinho,convenience,,,Rua dos Estudantes,,,-23.5552669,-46.6314532
+1198527238,way,Barbosa Supermercados,supermarket,,,Avenida Benedito de Andrade,,Mo-Su 09:00-21:00,-23.4874028,-46.7152523
+1200591907,way,Conde Atacadista,supermarket,,,Avenida César Magnani,,,-23.671859,-46.581219
+1200602103,way,Supermercado Klinger,supermarket,,,Rua General Bertoldo Klinger,,,-23.6705246,-46.5968716
+1201174089,way,Oba Hortifruti,supermarket,,,Avenida Dom Pedro II,+55 11 4380 8197,"Mo-Su,PH 07:00-22:00",-23.6540345,-46.5334948
+1208245469,way,Supermercados Yamauchi,supermarket,,,Rua José Zappi,+55 11 2271-1440,Mo-Sa 07:45-21:00; Su 07:45-15:00,-23.5806898,-46.5855298
+1208245471,way,Oxxo,convenience,,Oxxo,Rua Capitão Pacheco e Chaves,,,-23.5814442,-46.5860094
+1209256877,way,Conveniencia Dona Grace,convenience,,,Rua Catumbi,,,-23.5305658,-46.6019988
+1209786555,way,Cavates Mercado,convenience,,,Rua Voluntários da Pátria,,,-23.509388,-46.6263192
+1211160240,way,Ninki Supermercado,supermarket,,,Alameda Nothmann,,,-23.5336508,-46.6476624
+1211651710,way,Hirota Food,convenience,,,Avenida General Olímpio da Silveira,,,-23.5333494,-46.6571536
+1212050540,way,Pão de Açúcar Minuto,convenience,,Pão de Açúcar,Rua Doutor Albuquerque Lins,,,-23.5371946,-46.6577353
+1212050546,way,Carrefour Market,supermarket,,Carrefour Market,Rua Doutor Albuquerque Lins,,,-23.537527,-46.6578425
+1213053715,way,Mambo,supermarket,,,Avenida Angélica,,,-23.5372286,-46.6548572
+1213053720,way,Mundo Verde,supermarket,,,Rua Doutor Veiga Filho,,,-23.5413624,-46.6560793
+1213053721,way,Oxxo,convenience,,Oxxo,Rua Doutor Veiga Filho,,24/7,-23.5412675,-46.6562054
+1213121100,way,Supermercado Econ,supermarket,,,Alameda Eduardo Prado,,24/7,-23.5325289,-46.6520397
+1215670645,way,Pão de Açúcar,supermarket,,Pão de Açúcar,Avenida Angélica,,,-23.5471523,-46.6587339
+1216270385,way,Dia,supermarket,,Dia,Rua Alagoas,,,-23.5463722,-46.6589686
+1216890753,way,Oxxo,convenience,,Oxxo,Avenida Leonardo da Vinci,,,-23.6348286,-46.6373191
+1216925176,way,Pão de Açúcar,supermarket,GPA - Grupo Pão de Açúcar,Pão de Açúcar,Alameda Santos,,Mo-Su 07:00-22:00,-23.559686,-46.6605675
+1216955342,way,Empório Amino,convenience,,,Avenida Brigadeiro Luís Antônio,,,-23.567122,-46.6485745
+1216969105,way,Mercado Cosmorama,convenience,,,Praça Cosmorama,,08:00-20:00,-23.5070192,-46.5896481
+1217185328,way,Hortifruti da Vila,greengrocer,,,Avenida São Bernardo do Campo,,,-23.70054,-46.5099395
+1217571762,way,Pão de Açúcar,supermarket,,Pão de Açúcar,Rua Maria Antônia,,,-23.5454279,-46.6519485
+1217587887,way,Dia Market,supermarket,,Dia Market,Avenida Lins de Vasconcelos,,,-23.5835637,-46.6278291
+1217636355,way,Armazém Cerealista,convenience,,,Alameda Santos,,,-23.5657647,-46.6534944
+1217636362,way,Minuto Pão de Açúcar,convenience,,,Alameda Santos,,,-23.5689156,-46.6496289
+1217654161,way,Carrefour Market,supermarket,Groupe Carrefour,Carrefour Market,Rua Frei Caneca,,,-23.5563525,-46.656893
+1217667646,way,Preço na metade,supermarket,,,Avenida Souza Ramos,,Mo-Sa 09:00-20:00; Su 09:00-13:00,-23.5812508,-46.4100437
+1219475752,way,Assaí Atacadista,supermarket,,Assaí Atacadista,,,,-23.6643564,-46.4968569
+1219842880,way,Mercadinho Dalva e Dito,convenience,,,Rua Padre João Manuel,,,-23.5664697,-46.6668006
+1220661050,way,Pão de Açúcar,supermarket,,Pão de Açúcar,Alameda Ministro Rocha Azevedo,+55 11 3088-6868,Mo-Sa 07:00-00:00; Su 07:00-23:00,-23.5663884,-46.6648917
+1221792078,way,Minuto Pão de Açúcar,supermarket,,,Rua Peixoto Gomide,,"Mo-Sa 07:00-22:00, Su 08:00-20:00",-23.5662304,-46.6624039
+1222933159,way,Pão de Açúcar,supermarket,,Pão de Açúcar,Rua Batatais,,,-23.5727658,-46.6551219
+1222972366,way,Pão de Açúcar,supermarket,Cia Brasileira de Distribuição,Pão de Açúcar,Avenida Brigadeiro Luís Antônio,,24/7,-23.5661068,-46.6470793
+1223370526,way,Mini Mercado Extra,convenience,Cia Brasileira de Distribuição,,Avenida Brigadeiro Luís Antônio,,Mo-Sa 07:00-21:00; Su 08:00-18:00; PH off,-23.5545424,-46.6387428
+1223669039,way,Carrefour,convenience,,Carrefour,Rua Augusta,,,-23.5602983,-46.6626249
+1225461841,way,Carrefour,convenience,,Carrefour,Avenida Brigadeiro Luís Antônio,,,-23.574796,-46.6563228
+1226881366,way,Saddy Center - Especialidades Arabes,convenience,,,Rua Guarará,+55 11 3886-7755,,-23.5740493,-46.6567827
+1227203771,way,Cereja Hotti,greengrocer,,,Rua Peixoto Gomide,,,-23.5665021,-46.6627246
+1227220335,way,Minuto Pão de Açúcar,supermarket,,,Alameda Lorena,,,-23.5680973,-46.6614242
+1228944793,way,Armazen Cerealista,convenience,,,Rua Pamplona,,,-23.5643576,-46.6545426
+1228944803,way,Oba,supermarket,,,Rua Pamplona,,,-23.5650197,-46.6551905
+1229052029,way,Oxxo,convenience,,Oxxo,Rua Pamplona,,,-23.5670939,-46.6571878
+1229799101,way,Supermercado Belenzinho,supermarket,,,Rua Catumbi,,,-23.5338847,-46.6006729
+1230405353,way,Carrefour Express,convenience,,Carrefour Express,Alameda Joaquim Eugênio de Lima,,,-23.5718775,-46.6569688
+1232163607,way,Atacadão,supermarket,,Atacadão,Avenida dos Estados,,,-23.6077229,-46.545789
+1232201409,way,SM Mercado & Açougue,supermarket,,,Avenida Palmares,,,-23.6514896,-46.5621117
+1232607779,way,Coop,supermarket,,,,,,-23.6711163,-46.5142862
+1233238538,way,Coop,supermarket,,,Rua dos Coqueiros,,"Mo-Su,PH 07:00-22:00",-23.6391013,-46.5398
+1234150322,way,Carrefour Market,supermarket,,Carrefour Market,Rua José da Silva Ribeiro,,,-23.6237605,-46.739423
+1234505286,way,Atacadão,supermarket,Privado,Atacadão,,,Mo-Su 08:00-22:00,-23.4336139,-46.406659
+1235861109,way,Graça Mix,convenience,,,,,,-23.5010107,-46.7199556
+1238068982,way,Peralta Supermercados,supermarket,,,Avenida do Taboão,+55 11 2355 5596,"Mo-Sa 07:00-22:00; Su, PH 07:00-18:00",-23.6614734,-46.6050536
+1246765125,way,X Supermercados,supermarket,,X Supermercados,Avenida Doutor Timoteo Penteado,+55 11 4652 3033,Su-We 07:00-23:00; Th-Sa 07:00-00:00; PH off,-23.4489491,-46.5489129
+1248251562,way,Higas Supermercado,supermarket,,,,,,-23.6193967,-46.5144373
+1251098789,way,Pão de Açúcar,supermarket,,Pão de Açúcar,Rua Bernardino Fanganiello,,,-23.5136146,-46.6594184
+1255373404,way,St Marche,supermarket,,,Rua Padre Estevão Pernet,,,-23.5417841,-46.5674718
+1257921460,way,Supermercado Bem Barato,supermarket,,,Rua Salvador Pires de Lima,+55 11 3060 5400,Mo-Sa 08:00-21:00; Su 08:00-18:00; PH off,-23.6140013,-46.5955856
+1258063226,way,Mini Mercado Copa,supermarket,,,Rua Dalvo Matos Dedecca,+55 11 2649 1888,seg-sab 06:00-20:00 / dom 08:00-14:00,-23.4969778,-46.6869965
+1264307481,way,Natural da Terra,greengrocer,,,,,,-23.6828424,-46.5574204
+1266299680,way,Oxxo,convenience,,Oxxo,Rua Santa Cruz,,,-23.6008739,-46.6217557
+1268244613,way,Atacadão,supermarket,,Atacadão,,,,-23.4386196,-46.506707
+1269165515,way,X Supermercados - Loja 1 - Conjunto Marcos Freire (Pimentas),supermarket,X Supermercados,,Estrada do Sacramento,,,-23.4637588,-46.4052312
+1269165516,way,X Supermercados,supermarket,X Supermercados,,Estrada Presidente Juscelino Kubitschek de Oliveira,,Mo-Sa 08:00-20:00; PH off,-23.4536022,-46.4068987
+1269165517,way,X Supermercados,supermarket,X Supermercados,,Estrada Água Chata,,,-23.4384667,-46.3842243
+1273416199,way,Pão de Açúcar,supermarket,,Pão de Açúcar,Avenida Doutor Renato de Andrade Maia,,Mo-Su 07:00-21:00,-23.4547237,-46.5286672
+1283372888,way,Empório Mix,supermarket,,,Avenida Queirós Filho,,,-23.6731644,-46.5034849
+1286138635,way,Hortifruti Pereira,greengrocer,,,Estrada do Alvarenga,,,-23.6983527,-46.6481294
+1288926373,way,Max Conveniência,convenience,,,Avenida Doutor Bernardino Brito Fonseca de Carvalho,,,-23.5393057,-46.5145435
+1290790003,way,Mercado Assembléia,supermarket,,,Avenida Assembléia,,,-23.6810036,-46.6324252
+1292911934,way,Chama Supermercado,supermarket,,,Avenida José Brumatti,,,-23.3989673,-46.4295096
+1292912545,way,Hipermercado Shibata,supermarket,,,Avenida Doutor Assis Ribeiro,+55 11 2500 1500,"Mo-Sa 08:00-22:00; Su,PH 08:00-20:00",-23.4907878,-46.4636749
+1293779095,way,Mercado Villas,supermarket,,,Avenida Brasil,,,-23.511419,-46.7798188
+1294962838,way,Oxxo,convenience,,Oxxo,Avenida Santa Inês,,,-23.4788649,-46.6324898
+1296204830,way,Sonda,supermarket,,,Rua Maria Amália Lopes Azevedo,,,-23.4576738,-46.613756
+1296268437,way,Ryma,convenience,,,Avenida Roland Garros,,,-23.4815286,-46.5822031
+1299519748,way,Mercado São José,supermarket,,,Rua Recanto dos Humildes,,,-23.4098539,-46.7513368
+1300236612,way,Atacadão,supermarket,,Atacadão,,,,-23.5903833,-46.8196438
+1302300825,way,Lopes Supermercado,supermarket,,,Avenida Papa João Paulo I,,,-23.4262783,-46.4325865
+1303740699,way,Oxxo,convenience,,Oxxo,Rua Alberto Savoy,,,-23.4778296,-46.6430859
+1304083331,way,Sacolao Higianópolis,greengrocer,,,Rua Dona Veridiana,,,-23.540849,-46.6508695
+1305650294,way,Supermercado Carioca,supermarket,,,Rua Alencar Araripe,,,-23.6202696,-46.5959247
+1305813236,way,Casa São Bento,supermarket,,,Avenida Guarulhos,,,-23.4832813,-46.5426344
+1307148072,way,Mercado Extra,supermarket,,Mercado Extra,Rua das Palmeiras,,Mo-Su 07:00-22:00,-23.5376648,-46.6511026
+1307777223,way,Lobato Mini Mercado,convenience,,,Avenida dos Nacionalistas,,,-23.5777738,-46.5146075
+1313134889,way,Quitanda do Quinha,greengrocer,,,Viela do macaco,,Mo-Fr 08:00-17:00,-23.5468114,-46.7447233
+1313557828,way,Supermercados Nagumo Maior,supermarket,,,Rua João Maciel,,,-23.5960718,-46.4560214
+1314451908,way,St. Marche,supermarket,,,Avenida Morumbi,,,-23.6168855,-46.7079568
+1315097884,way,Hortifruti,supermarket,,,Rua Três Arapongas,,,-23.5453166,-46.7425224
+1315340769,way,Dia,supermarket,,Dia,Avenida Paraguaçu Paulista,,,-23.5369932,-46.4951093
+1316170896,way,Mercadinho da linha,convenience,,,Rua 4 de Dezembro,,,-23.5440688,-46.7415412
+1317468017,way,Supermercados X,supermarket,,,Rua Ushikichi Kamiya,,,-23.4381593,-46.5751453
+1320744427,way,Ishi Panda,convenience,,,Rua Carneiro da Cunha,,,-23.6152893,-46.6371287
+1322138885,way,ampm,convenience,,ampm,,,,-23.4329431,-46.4927502
+1322139973,way,BR Mania,convenience,,BR Mania,,,,-23.4237743,-46.4888314
+1324680241,way,Oxxo,convenience,,Oxxo,Avenida Rebouças,,,-23.5619539,-46.6747977
+1324876465,way,BR Mania,convenience,,BR Mania,Avenida Parada Pinto,,,-23.4694891,-46.6478051
+1327111054,way,Assaí Atacadista,supermarket,,Assaí Atacadista,Avenida Condessa Elisabeth de Robiano,,,-23.5126307,-46.5542006
+1331828041,way,Atacadão,supermarket,,Atacadão,Rodovia Anchieta Marginal Direita,,"PH,Mo-Su 07:00-22:00; Su 08:00-20:00",-23.6313254,-46.5995732
+1332050226,way,Supermercado Mambo,supermarket,,,Rua Manoel de Soveral,,,-23.4894721,-46.6259758
+1334240760,way,Pão de Açúcar,supermarket,,Pão de Açúcar,,,,-23.5760477,-46.6160745
+1334387499,way,Mini Mercado Extra,supermarket,,,Avenida Lins de Vasconcelos,,,-23.5762576,-46.6238507
+1338756045,way,Lopes Supermercados,supermarket,,,Rua Doutor Ilarino Juliano,+55 11 3591 6032,"Mo-Sa 07:00-22:00; SU,PH 07:00-18:00",-23.5704604,-46.7781916
+1342258550,way,Supermercados Sorocaba,supermarket,,,Rua Oswaldo Collino,,,-23.5256664,-46.7695528
+1343237234,way,Sacolão Mooca,greengrocer,,,Avenida Cassandoca,,,-23.5549106,-46.5901968
+1346422075,way,X Supermercados - Loja14 - Vila Endres (Itapegica),supermarket,,,Avenida Carlos Ferreira Endres,,,-23.4859094,-46.5517262
+1349075452,way,Horti Frutti,convenience,,,Rua Luís Norberto Freire,,,-23.5709302,-46.4904934
+1350767190,way,Oxxo,convenience,,Oxxo,,,,-23.4714283,-46.5314252
+1351689232,way,Supermercado Rossi - Novo Osasco,supermarket,Rossi Supermercados,,Rua Kenkiti Shimomoto,+551130190324,Mo-Su 08:00-22:00,-23.5815561,-46.7959297
+1355842931,way,Pão de Açúcar,supermarket,,Pão de Açúcar,Rua Harmonia,,,-23.5548487,-46.6885174
+1356045591,way,Carrefour,supermarket,,Carrefour,Rua Domingos de Morais,,,-23.582069,-46.638711
+1356046785,way,Mercado Abençoado,convenience,,,Rua Gandavo,,,-23.5920079,-46.6422857
+1359103778,way,Dia,supermarket,,Dia,Rua Itinguçu,,24/7 closed,-23.5274726,-46.5018635
+1359103779,way,Super Padrão,convenience,,,Rua Itinguçu,,,-23.527262,-46.5019993
+1361533260,way,Empório São Pedro,supermarket,,,,,,-23.5880789,-46.7390898
+1362662984,way,Sacolão Butantã,supermarket,,,,,,-23.5888814,-46.7378247
+1365992698,way,TokLeve,supermarket,,,,,Mo-Sa 07:15-21:30,-23.6009483,-46.7327547
+1366005746,way,Pão de Açúcar,supermarket,,Pão de Açúcar,,,,-23.6111124,-46.7335525
+1366012710,way,BR Mania,convenience,,BR Mania,,,,-23.6174955,-46.7086836
+1366012715,way,BR Mania,convenience,,BR Mania,,,,-23.6171542,-46.7114057
+1366064835,way,Bienal,greengrocer,,,Avenida Barão de Melgaco,,,-23.6099239,-46.7057626
+1366064836,way,Dia,supermarket,,Dia,Avenida Barão de Melgaco,,,-23.609468,-46.7067299
+1366064837,way,Pão de Açúcar Minuto,convenience,,Pão de Açúcar,,,,-23.6081833,-46.7077419
+1372245505,way,Mercadinho & Padaria Duda,convenience,,,Rua Erva Galega,,,-23.5193808,-46.4372312
+1372648711,way,Hirota Food,supermarket,,,Rua Gaspar Fernandes,,,-23.5750585,-46.6163156
+1374928490,way,Mercado Pauliceia,convenience,,,Avenida Águas de São Pedro,,,-23.4875186,-46.6139412
+1376741820,way,Carrefour,convenience,,Carrefour,,,,-23.5885353,-46.7161012
+1376741823,way,Mini Extra,convenience,,Mini Extra,,,,-23.5900387,-46.7158647
+1377314649,way,Mercearia São Vito,convenience,,,Rua Agostinho Gomes,,Mo-Sa 08:00-19:30,-23.5843078,-46.6042457
+1377460727,way,Hirota Supermercados,supermarket,,,Rua Agostinho Gomes,,,-23.58609,-46.6039139
+1378770542,way,Mazza Empória de Carnes e Bebidas,convenience,,,Avenida André Ramalho,,,-23.65103,-46.5103218
+1378823621,way,Assaí Atacadista,supermarket,,Assaí Atacadista,,,,-23.5408872,-46.7696577
+1379145591,way,Supermercado Dom Pires,supermarket,,,Avenida Dom Pedro I,,,-23.6801921,-46.5092729
+1380979707,way,Mercado Crystal,convenience,,,Avenida Celso Garcia,,,-23.5348687,-46.5787486
+1381173360,way,Talento'S,supermarket,,,Avenida José Joaquim Seabra,,,-23.5780421,-46.7493051
+1382101323,way,Rossi Supermercado,supermarket,,,Avenida João Ventura dos Santos,,,-23.4980539,-46.7882797
+1384351707,way,Mercado Queiroz,convenience,,,Av. Eng. George Corbisier,,,-23.6449846,-46.6451521
+1384382703,way,Big Doces - Atacado e Varejo,convenience,,,Rua Capitão Salomão,,,-23.5430387,-46.6366553
+1386152219,way,Dovale Supermercados,supermarket,,,Avenida Nordestina,,,-23.5207594,-46.4186494
+1387615799,way,Supermercado Vovó Zuzu,supermarket,,,Parque Dom Pedro II,+55 11 3469-6900,,-23.5484093,-46.6302559
+1388788403,way,Mercado Extra,supermarket,,Mercado Extra,,,,-23.5019195,-46.7902237
+1389044515,way,Paraná Supermercados,supermarket,,,Rua Oswaldo Collino,,,-23.5284222,-46.7676841
+1389297663,way,Mercearia Matheus,convenience,,,Rua Rêgo Barros,+55 11 983032907,,-23.5639582,-46.5185382
+1392244117,way,Pão de Açúcar,supermarket,,Pão de Açúcar,Rua Alexandre Dumas,,,-23.6321426,-46.7046546
+1395869023,way,Supermercado Pepe,supermarket,,,Avenida Pires do Rio,,Mo-Sa 09:00-21:00;Su 09:00-13:30,-23.5089248,-46.4440409
+1396076596,way,Mercado Tome Leve,convenience,,,Avenida Professor Sylla Mattos,,,-23.6398794,-46.598496
+1415479346,way,Barbosa Supermercados,supermarket,,,Rua João de Araújo,,,-23.6958615,-46.6689315
+1422915353,way,Lemon,supermarket,Lemon Supermercados,,Avenida Professor Vicente Rao,+551155942348,"Mo-Sa 07:00-23:00, Su 08:00-22:00",-23.6320921,-46.6815936
+1424902013,way,Mercado Extra,supermarket,,Mercado Extra,Avenida Clarisse de Jesus Lázaro Bedeschi,0800 7796761,"Mo-Su,PH 07:00-21:00",-23.6704487,-46.4708394
+1426712452,way,Mambo,supermarket,,,Avenida Vereador José Diniz,,,-23.6249579,-46.6830396
+1428410030,way,Assaí,supermarket,,,,,,-23.4508858,-46.4063511
+1429626122,way,Pão de Açúcar,supermarket,,Pão de Açúcar,Avenida Engenheiro Armando de Arruda Pereira,,,-23.6455373,-46.6418738
+1430093945,way,Blue Point,convenience,,,Avenida Marquês de São Vicente,,,-23.5218311,-46.6665531
+1430183471,way,Empório Verde,supermarket,,,Avenida Roland Garros,,,-23.4759742,-46.5713116
+1430364546,way,Oxxo,convenience,,Oxxo,Avenida Thomas Edison,,,-23.5239277,-46.6654595
+1431853676,way,Supermercado Negreiros,supermarket,,,Avenida Ragueb Chohfi,,,-23.5945831,-46.4388356
+1441644627,way,Minuto Pão de Açucar,convenience,,,Rua Rodésia,,,-23.5516395,-46.6915095
+1443033701,way,Oxxo,convenience,,Oxxo,Avenida Tulio Teodoro de Campos,,24/7,-23.6392356,-46.6625607
+1443229163,way,Sacolão São Jorge,greengrocer,,,Rua Albuquerque Souza Muniz,,,-23.6407873,-46.6680757
+1444980917,way,Mambo  Supermercado,supermarket,,,Rua Aurélia,,,-23.5395964,-46.6971434
+1445449441,way,Supermercado Chen,supermarket,,,Rua Paulo de Avelar,,,-23.4921277,-46.6019078
+1449729273,way,Supermercados Cercadão,supermarket,,,Avenida Sarah Veloso,+55 11 4395 7622,24/7,-23.5673207,-46.8070586
+1451969085,way,Mini Extra,convenience,,Mini Extra,Avenida Jardim Japão,,,-23.4798875,-46.581897
+1452022652,way,Oxxo,convenience,,Oxxo,Avenida Luís Stamatis,,,-23.4689892,-46.5766502
+1691867,relation,Pão de Açúcar,supermarket,Pão de Açúcar,,,,,-23.6302529,-46.6909809
+2184013,relation,Pão de Açúcar Santo Amaro,supermarket,Pão de Açúcar,,,,,-23.6223747,-46.6852894
+4602829,relation,ABI Frutas e Cereais,greengrocer,,,,,,-23.5420849,-46.6299883
+4602830,relation,Abatepaulo & D'Ouro,greengrocer,,,,,,-23.5420787,-46.6297613
+4602832,relation,Adhemar Mazzetto,greengrocer,,,,,,-23.5420072,-46.6293757
+4602833,relation,Agro Quirino,greengrocer,,,,,,-23.5421292,-46.6298684
+4602845,relation,Banca do Juca,greengrocer,,,,,,-23.5418176,-46.6294046
+4602852,relation,Barraca do Juca,greengrocer,,,,,,-23.541787,-46.6293911
+4602853,relation,Bela Safra,greengrocer,,,,,,-23.5418916,-46.6295939
+4602858,relation,Borgatto,greengrocer,,,,,,-23.5419661,-46.6298991
+4602860,relation,CIB Frutas Nacionais,greengrocer,,,,,,-23.5421068,-46.6297491
+4602863,relation,Canola & Canola,greengrocer,,,,,,-23.54212,-46.6297134
+4602865,relation,Casa Gonsalez,greengrocer,,,,,,-23.5417614,-46.6295626
+4602872,relation,Central M-8,greengrocer,,,,,,-23.5420063,-46.6299573
+4602878,relation,Citrícola Fasanella,greengrocer,,,,,,-23.5421979,-46.6295029
+4602879,relation,Citrícola Quartieri,greengrocer,,,,,,-23.5415718,-46.6298075
+4602880,relation,Clara T. Pizorusso e Filho,greengrocer,,,,,,-23.5421055,-46.6298709
+4602906,relation,Empório das Frutas,greengrocer,,,,,,-23.541978,-46.6296319
+4602908,relation,Espanhola Frutas,greengrocer,,,,,,-23.541717,-46.629836
+4602912,relation,Fabi Veiga,greengrocer,,,,,,-23.5420913,-46.6300997
+4602914,relation,Francisco Mazzaferro,greengrocer,,,,,,-23.5420418,-46.6297575
+4602916,relation,Frutas 2000,greengrocer,,,,,,-23.5419916,-46.6298911
+4602917,relation,Frutas A.B.N.,greengrocer,,,,,,-23.5417406,-46.6299429
+4602918,relation,Frutas ADS,greengrocer,,,,,,-23.5418576,-46.6296861
+4602919,relation,Frutas Chiaradia,greengrocer,,,,,,-23.5418894,-46.63001
+4602920,relation,Frutas Cufone,greengrocer,,,,,,-23.5416498,-46.6298839
+4602921,relation,Frutas Dragone,greengrocer,,,,,,-23.5418568,-46.6297819
+4602922,relation,Frutas Eli,greengrocer,,,,,,-23.5417926,-46.6291427
+4602923,relation,Frutas Exóticas K23,greengrocer,,,,,,-23.5419143,-46.6296257
+4602924,relation,Frutas Faji,greengrocer,,,,,,-23.5422272,-46.6295421
+4602925,relation,Frutas Gato,greengrocer,,,,,,-23.5421712,-46.6299086
+4602926,relation,Frutas Irmãos Fatino,greengrocer,,,,,,-23.5419004,-46.629663
+4602927,relation,Frutas J.M.P.,greengrocer,,,,,,-23.5418709,-46.62965
+4602928,relation,Frutas Manéfrut,greengrocer,,,,,,-23.5419436,-46.6298197
+4602929,relation,Frutas Mendes,greengrocer,,,,,,-23.5419968,-46.6298161
+4602930,relation,Frutas Paiva,greengrocer,,,,,,-23.5422135,-46.6296096
+4602931,relation,Frutas Parpinelli,greengrocer,,,,,,-23.5418368,-46.6295415
+4602932,relation,Frutas Porto Feliz,greengrocer,,,,,,-23.5417798,-46.6292454
+4602933,relation,Frutas Real,greengrocer,,,,,,-23.5417537,-46.6297367
+4602934,relation,Frutas Ritana,greengrocer,,,,,,-23.5421223,-46.6300409
+4602935,relation,Frutas Showa,greengrocer,,,,,,-23.5420085,-46.6296452
+4602936,relation,Frutas Yamagin,greengrocer,,,,,,-23.5421596,-46.6297867
+4602937,relation,Frutas da Prata,greengrocer,,,,,,-23.5421331,-46.6296777
+4602938,relation,Frutas e Sucos Roque,greengrocer,,,,,,-23.5420703,-46.6299664
+4602939,relation,Frutícola Rivanaldo,greengrocer,,,,,,-23.5418025,-46.6296656
+4602940,relation,Frutícola Sassamoto,greengrocer,,,,,,-23.5420923,-46.6297244
+4602941,relation,Frutícola São Marcos,greengrocer,,,,,,-23.5417738,-46.6297455
+4602942,relation,Frutícola Tercino,greengrocer,,,,,,-23.5421038,-46.6293878
+4602949,relation,Geraldo B. Gonçalves,greengrocer,,,,,,-23.542004,-46.6300615
+4602950,relation,Geraldo Panaro,greengrocer,,,,,,-23.5418159,-46.6296293
+4602951,relation,Givanildo Cruz,greengrocer,,,,,,-23.5420253,-46.6299059
+4602952,relation,Gonçalves S. Cardoso,greengrocer,,,,,,-23.5415526,-46.6298601
+4602953,relation,Gouveia Frutas,greengrocer,,,,,,-23.5420688,-46.6297879
+4602955,relation,Guerino Castaldo,greengrocer,,,,,,-23.5418271,-46.6297688
+4602964,relation,Irmãos Fiacadori,greengrocer,,,,,,-23.5420224,-46.6299774
+4602968,relation,Irmãos Gomes,greengrocer,,,,,,-23.5412445,-46.6291827
+4602970,relation,Irmãos Tercino,greengrocer,,,,,,-23.5420641,-46.6294951
+4602971,relation,Joaquim F. Correa,greengrocer,,,,,,-23.5420456,-46.6296849
+4602972,relation,Josué Paulino de Souza,greengrocer,,,,,,-23.5422366,-46.6295783
+4602973,relation,José Abdo,greengrocer,,,,,,-23.5422686,-46.6294563
+4602974,relation,José F. Filho Frutas,greengrocer,,,,,,-23.5423085,-46.6295227
+4602976,relation,João Luiz Urbano,greengrocer,,,,,,-23.5423372,-46.6294192
+4602977,relation,Koga e Yagyu,greengrocer,,,,,,-23.5420253,-46.6297396
+4602982,relation,Litoral Sul,greengrocer,,,,,,-23.5417998,-46.6296109
+4602984,relation,Luiz Gilberto Frutas,greengrocer,,,,,,-23.5421698,-46.6297231
+4602986,relation,Luiza e Natalia,greengrocer,,,,,,-23.5418328,-46.6295832
+4602987,relation,M.S. Peach Fruit,greengrocer,,,,,,-23.5420471,-46.6298473
+4602992,relation,Marco A. Marasco,greengrocer,,,,,,-23.5417373,-46.6298449
+4602993,relation,Maria A. Carbone,greengrocer,,,,,,-23.5420542,-46.6298916
+4602994,relation,Mariane Cozar,greengrocer,,,,,,-23.5418693,-46.6294554
+4602998,relation,Mitiko Sasaki,greengrocer,,,,,,-23.5422692,-46.6296301
+4603000,relation,Monte Tabor,greengrocer,,,,,,-23.5418374,-46.6293512
+4603004,relation,Netuno,greengrocer,,,,,,-23.5421908,-46.6298558
+4603008,relation,Os Rodrigues,greengrocer,,,,,,-23.541825,-46.6299556
+4603009,relation,Oswaldo Boragina Filho,greengrocer,,,,,,-23.542207,-46.6294142
+4603015,relation,Patifruit,greengrocer,,,,,,-23.5417816,-46.6298825
+4603018,relation,Pereira e Silva,greengrocer,,,,,,-23.5419884,-46.6297005
+4603019,relation,Perez & Fonseca,greengrocer,,,,,,-23.5419152,-46.629909
+4603021,relation,Pitoco,greengrocer,,,,,,-23.5422359,-46.6297337
+4603022,relation,Pomar do Campo,greengrocer,,,,,,-23.5418444,-46.6299032
+4603034,relation,Recanto das Frutas,greengrocer,,,,,,-23.5421479,-46.6295743
+4603040,relation,Sabores do Brasil,greengrocer,,,,,,-23.5420929,-46.6297866
+4603041,relation,Salada Mercadão,greengrocer,,,,,,-23.5419578,-46.6296871
+4603043,relation,Salomé,greengrocer,,,,,,-23.5422843,-46.6295892
+4603044,relation,Sandra A. Urbano,greengrocer,,,,,,-23.5422522,-46.6295363
+4603046,relation,Santa Cruz,greengrocer,,,,,,-23.5421828,-46.6297237
+4603047,relation,Santo Expedito,greengrocer,,,,,,-23.5415988,-46.6297349
+4603048,relation,Santos Osvaldo Urbano,greengrocer,,,,,,-23.5422703,-46.629487
+4603049,relation,Saporito & Saporito,greengrocer,,,,,,-23.5419445,-46.6297236
+4603051,relation,Sonia Maria A.I.E.,greengrocer,,,,,,-23.5420621,-46.6297029
+4603052,relation,Sosyl Frutas e Legumes,greengrocer,,,,,,-23.5421094,-46.6296779
+4603054,relation,Sérgio Luiz Peruche,greengrocer,,,,,,-23.5419865,-46.6300106
+4603055,relation,Tadanori Matsuda,greengrocer,,,,,,-23.5419436,-46.6299805
+4603057,relation,Tersigni & Tersigni,greengrocer,,,,,,-23.5422109,-46.6298013
+4603063,relation,Virginio C. Zaniboni,greengrocer,,,,,,-23.542149,-46.6299686
+4603064,relation,Waldomiro Vitoriano,greengrocer,,,,,,-23.5420703,-46.6298484
+4603065,relation,Want Frut,greengrocer,,,,,,-23.541904,-46.6298305
+4603066,relation,Wellington B. Pereira,greengrocer,,,,,,-23.5419625,-46.6300434
+4603067,relation,Zanin,greengrocer,,,,,,-23.5422462,-46.6293421
+6796295,relation,Pão de Açúcar,supermarket,,Pão de Açúcar,Rua Sócrates,+55 11 5521-4560,,-23.6557345,-46.6918345
+9934498,relation,São Lucas Variedades,supermarket,,,,,,-23.5945185,-46.5473513
+12421013,relation,Carrefour,supermarket,,Carrefour,Avenida Rio das Pedras,,,-23.5601808,-46.5165188
+13192359,relation,Supermecardo Naguno,supermarket,,,Avenida da Barreira Grande,+55 11 4090-1650,Mo-Sa 08:30-21:00; Su 08:30-14:00; PH 08:30-14:00,-23.5886837,-46.5094698
+14189990,relation,Poupaki Atacadista,supermarket,,,Avenida Guarulhos,+55 11 2450-2220,Mo-Sa 07:00-22:00; Su 08:00-18:00,-23.4915717,-46.5449089
+14935410,relation,Supermercado Vila das Frutas,supermarket,,,Rua Tuim,,,-23.6040796,-46.6721984
+15652483,relation,Pão de Açúcar,supermarket,,Pão de Açúcar,Rua Heitor Penteado,,Mo-Sa 07:00-22:00; Su 08:00-22:00,-23.5494001,-46.6829208
+15663771,relation,Higa'S Supermercado,supermarket,,,Avenida Osvaldo Valle Cordeiro,,,-23.5596084,-46.4856179
+15782132,relation,Assaí Atacadista,supermarket,,Assaí Atacadista,Estrada Itaquera-Guaianases,,,-23.5414199,-46.4235617
+15867019,relation,Lopes Supermercado,supermarket,,,Rua Sabbado D'Ângelo,,,-23.5502555,-46.4455569
+15868151,relation,Mercado Extra,supermarket,,Mercado Extra,Avenida Nagib Farah Maluf,,,-23.5516711,-46.4372046
+15870241,relation,Assaí Atacadista,supermarket,,Assaí Atacadista,Avenida Nordestina,,,-23.5102933,-46.4304627
+15877151,relation,Assaí Atacadista,supermarket,Assaí,Assaí Atacadista,Avenida Sylvio Torres,+55 11 3544-6450,"Mo-Sa 07:00-22:00; Su,PH 08:00-18:00",-23.5534112,-46.4883252
+15917395,relation,Assaí Atacadista,supermarket,,Assaí Atacadista,Avenida Aricanduva,+55 11 2723-2350,"Mo-Sa 07:00-22:00; Su,PH 08:-18:00",-23.5633878,-46.5066666
+15920471,relation,Mini Extra,convenience,,Mini Extra,,,,-23.6663426,-46.4951959
+15959423,relation,Assaí Atacadista,supermarket,,Assaí Atacadista,Avenida Raimundo Pereira de Magalhães,,"PH,Mo-Sa 07:00-22:00; Su  08:00-20:00",-23.4489971,-46.7225385
+17551477,relation,Viva Empório,supermarket,,,,,,-23.6036849,-46.6694388
+17898562,relation,Atacadão,supermarket,,Atacadão,,,,-23.5244925,-46.5741984
+17898563,relation,Atacadão,supermarket,,Atacadão,,,,-23.523222,-46.57578
+18012294,relation,Rossi Supermercado,supermarket,,,Avenida Ragueb Chohfi,,,-23.5967405,-46.4348782
+18200295,relation,Assaí Atacadista,supermarket,,Assaí Atacadista,Avenida Coronel Sezefredo Fagundes,,,-23.4728005,-46.6083759
+18991727,relation,Mota Supermercados,supermarket,,,Avenida Roland Garros,,,-23.4768826,-46.5659956
