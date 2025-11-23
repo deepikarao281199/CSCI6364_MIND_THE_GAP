@@ -1,0 +1,328 @@
+osm_id,osm_type,name,amenity,healthcare,operator,operator_type,emergency,beds,addr_street,phone,latitude,longitude
+840695877,node,Hospital São Paulo,hospital,hospital,,,,,Rua Napoleão de Barros,+55 11 576-4000,-23.5977766,-46.6435335
+840722121,node,Hospital Amparo Maternal,hospital,hospital,,,,,Rua Loefgren,+55 11 5089-8277,-23.6000575,-46.643394
+1590255045,node,Hospital Family,hospital,hospital,,,,,Rua João Santucci,,-23.6057419,-46.7505095
+1590265394,node,Intermédica Centro Clínico Taboão da Serra,hospital,hospital,,,no,,,,-23.6069072,-46.7538599
+1590265395,node,Fisioterapia Ortoclimed,hospital,hospital,,,no,,,,-23.606632,-46.7542247
+1590265407,node,Predict Medicina Diagnóstica,hospital,hospital,,,no,,,,-23.6063026,-46.7543266
+1646829764,node,Pró Matre Paulista,hospital,hospital,,,,,Rua São Carlos do Pinhal,+55 11 3269-2233,-23.5657296,-46.6493847
+2494728052,node,Hospital São Carlos,hospital,hospital,,,yes,,,,-23.5331751,-46.5273268
+2762653462,node,Hospital Alemão Oswald Cruz,hospital,hospital,,,,,Rua Javari,+55 11 2081-6400,-23.5541379,-46.6042885
+3259907564,node,Hospital Vida's,hospital,hospital,,,yes,,,,-23.6750741,-46.6855976
+3443811672,node,Hospital Tide Setubal,hospital,,,,yes,,,,-23.4971785,-46.4400842
+3501487380,node,Hospital Maternidade Jesus José e Maria,hospital,hospital,,,,,Avenida Doutor Renato de Andrade Maia,,-23.4511725,-46.531256
+4341923594,node,Hospital Carlos Chagas,hospital,hospital,,,,,Ladeira Campos Sales,,-23.471988,-46.5323265
+4345157391,node,Hospital Unimed Guarulhos,hospital,,,,,,Rua Conceição,,-23.4693872,-46.5381899
+4381762589,node,Examen,hospital,hospital,,,,,Avenida Tiradentes,,-23.5293459,-46.6322476
+4588145837,node,Medicina Diagnóstica Lavoisier,hospital,,,,,,Avenida São Luís,,-23.5452113,-46.6430721
+4899871487,node,Hospital Total Cor,hospital,hospital,,,,,Alameda Santos,,-23.5676418,-46.6509728
+4902197627,node,Santa Margiore,hospital,hospital,,,,,,,-23.559316,-46.6319648
+5745394212,node,Hospital Casa Verde,hospital,hospital,,,,,Rua Relíquia,,-23.5063007,-46.6613822
+6453422288,node,Hcor,hospital,hospital,,,,,Rua Tomás Carvalhal,,-23.5757158,-46.6430501
+7737364385,node,Incor,hospital,hospital,,,,,,,-23.5578133,-46.6675398
+8872479980,node,Clínica Individuar,hospital,hospital,Marianna,private,,,Rua Carlos Leal Evans,,-23.4768127,-46.5326747
+8902094517,node,Centro Hospitalar do Sistema Penitenciário CHSP/CASH,hospital,,,,,,Rua Antônio dos Santos Neto,,-23.509275,-46.6189908
+8939110117,node,AME Maria Zélia,hospital,hospital,,,,,,,-23.5324133,-46.5991979
+9930024202,node,Pronto Atendimento Koiti Ishi,hospital,hospital,Secretaria Municipal da Saúde,government,yes,,Avenida do Taboão,,-23.6667262,-46.608959
+10005127700,node,Hospital A C Camargo Câncer Center,hospital,hospital,,,,,,,-23.5654424,-46.6351493
+10944473384,node,Hospital San Genaro,hospital,hospital,,private,,,,,-23.565437,-46.5944778
+11776609819,node,Blanc,hospital,hospital,,,,,,,-23.5984034,-46.6866139
+12036484079,node,Beneficência Portuguesa,hospital,hospital,,,,,,,-23.5686311,-46.671408
+12316699492,node,Hospital Saint Patrick Jaguara,hospital,hospital,Associação Hospitalar Saint Patrick,,,,Avenida Cândido Portinari,5069-0002,-23.5082792,-46.7523764
+12316724384,node,Hospital Saint Patrick Osasco,hospital,hospital,Associação Hospitalar Saint Patrick,,yes,,Rua Eloy Candido Lopes,,-23.5338329,-46.7765822
+12381270279,node,HOSPITAL SANTA MARCELINA- ITAQUERA,hospital,hospital,,,yes,,"R. Santa Marcelina,",,-23.5542809,-46.4613548
+12451447578,node,CAPS AD III ARMÊNIA,hospital,hospital,Sistema Único de Saúde,public,,,Rua Porto Seguro,,-23.5228681,-46.6264213
+12485196777,node,Ícone da Visão São Paulo,hospital,hospital,Hospital de Olhos Ícone da Visão.,private,no,,Avenida Cidade Jardim,,-23.5793692,-46.6821988
+12534869865,node,Amato,hospital,hospital,,,,,,,-23.5649269,-46.6780331
+12534877571,node,Sírio Libanês,hospital,hospital,,,,,,,-23.5733788,-46.668149
+12882260031,node,Albert Einstein,hospital,hospital,,,,,,,-23.5719756,-46.6696072
+12962118039,node,Ama Sapopemba.,hospital,hospital,,,,,Rua João Lopes de Lima,,-23.611467,-46.4933193
+12962123897,node,UBS Jardim Sapopemba.,hospital,hospital,,,,,Rua João Lopes de Lima,,-23.6114669,-46.4928022
+12997883201,node,Hospital São Luiz - Guarulhos,hospital,,,,,,Avenida Tiradentes,3003-3230,-23.4626545,-46.5262231
+13023067086,node,UBS Vila Reunidas I,hospital,hospital,,,,,R. São José das Espinharas,,-23.6044407,-46.532729
+13023090130,node,Casa do Parto - Sapopemba,hospital,hospital,,,,,R. São José das Espinharas,,-23.6042357,-46.5326722
+33910102,way,Instituto Dante Pazzanese de Cardiologia,hospital,hospital,Fundação Adib Jatene,,,,Avenida Doutor Dante Pazzanese,,-23.5845869,-46.6515581
+34875563,way,Unidade de Pronto Atendimento Lapa,hospital,hospital,,,yes,,Avenida Queiroz Filho,,-23.5377585,-46.7219425
+51387571,way,Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo,hospital,hospital,,,yes,,,,-23.5570205,-46.6699257
+75490092,way,Hospital Israelita Albert Einstein,hospital,hospital,,private,yes,,,,-23.5998322,-46.7153505
+79392965,way,Casa de Saúde Nossa Senhora de Fátima,hospital,hospital,Irmãs Hospitaleiras,private_non_profit,,,Avenida Jornalista Paulo Zingg,,-23.4877874,-46.7609509
+79442277,way,Hospital Municipal Doutor José Soares Hungria,hospital,hospital,Secretaria Municipal da Saúde,government,yes,,Avenida Menotti Laudisio,,-23.4846433,-46.7275286
+79877355,way,Centro de Atenção Integrada à Saúde Mental Philippe Pinel,hospital,hospital,,,,,Avenida Raimundo Pereira de Magalhães,,-23.4867902,-46.7240239
+112752680,way,Hospital Geral de Pedreira,hospital,hospital,,,yes,,,,-23.6810854,-46.6762597
+123803627,way,Santa Casa de Misericórdia de Santo Amaro,hospital,hospital,,,yes,,,,-23.6502243,-46.7048922
+124253228,way,Hospital Psiquátrico da Água Funda,hospital,hospital,,,no,,Avenida Miguel Estéfano,,-23.6441419,-46.6273565
+124962731,way,Hospital Santa Paula,hospital,hospital,,,yes,,Avenida Santo Amaro,+55 11 3040-8000,-23.6055713,-46.6758988
+125450889,way,AACD Ibirapuera,hospital,hospital,Associação de Assistência à Criança Deficiente,,,,Avenida Professor Ascendino Reis,,-23.5969971,-46.6517828
+125450915,way,Complexo Hospitalar Edmundo Vasconcelos,hospital,hospital,,,yes,,Rua Borges Lagoa,,-23.5956238,-46.6522582
+125450939,way,Hospital do Servidor Público Estadual,hospital,hospital,Governo do Estado de São Paulo,,,,Avenida Ibirapuera,,-23.5953388,-46.653635
+125450941,way,Hospital do Servidor Público Estadual,hospital,hospital,Governo do Estado de São Paulo,,yes,,Avenida Ibirapuera,,-23.5966761,-46.6540961
+125998418,way,Hospital da Cruz Vermelha,hospital,hospital,Movimento Internacional da Cruz Vermelha e do Crescente Vermelho,ngo,,,Avenida Moreira Guimarães,,-23.613347,-46.6562629
+154251421,way,Hospital e Maternidade Cristóvão da Gama,hospital,hospital,,,yes,,,,-23.6685213,-46.5266268
+158788584,way,Hospital Universitário,hospital,hospital,Universidade de São Paulo,public,yes,,Avenida Professor Lineu Prestes,,-23.5647337,-46.7411489
+165265046,way,Pronto Socorro Municipal Doutor Caetano Virgílio Neto,hospital,hospital,Prefeitura do Município de São Paulo,government,yes,,Rua Augusto Farina,,-23.5844338,-46.7390105
+176499521,way,Hospital Beneficência Portuguesa,hospital,hospital,,,yes,,Rua Maestro Cardim,,-23.5673854,-46.6415394
+179550055,way,Hospital da Mulher,hospital,hospital,Secretaria da Saúde,government,yes,,Avenida Imperador Pedro II,,-23.7026406,-46.5490082
+183680002,way,Hospital Municipal Santa Marcelina Cidade Tiradentes - Carmem Prudente,hospital,hospital,,,yes,,Avenida dos Metalúrgicos,+55 11 2559-6200,-23.596864,-46.4036965
+189149865,way,Hospital Geral Professor Doutor Waldemar de Carvalho Pinto Filho,hospital,hospital,SDPM,,yes,,Alameda dos Lírios,+55 11 3466 1350,-23.4498132,-46.4950312
+191510469,way,Hospital Sírio Libanês,hospital,hospital,,private,yes,,Rua Dona Adma Jafet,+55 11 3394-0200,-23.5574648,-46.6537663
+195350819,way,Hospital Israelita Albert Einstein,hospital,hospital,,,,,Rua Madre Cabrini,+55 11 2151-7200;+55 11 2151-1233,-23.5919752,-46.6387612
+195664900,way,Hospital Estadual Vila Alpina,hospital,,Secretaria de Estado da Saúde,,,,Avenida Francisco Falconi,,-23.5930689,-46.5613651
+198297951,way,Hospital e Maternidade São Cristóvão,hospital,hospital,,,yes,,Rua Américo Ventura,+55 11 2029-7222;+55 11 2029-7200;+55 0800-7700-666,-23.5692804,-46.58553
+199918914,way,Hospital IGESP,hospital,hospital,,,yes,,,,-23.5608581,-46.650909
+218135037,way,Hospital Municipal Vila Santa Catarina Dr. Gilson de C. Marques de Carvalho,hospital,hospital,Hospital Israelita Albert Einstein,,,,Avenida Santa Catarina,+55 11 2151 2063,-23.6570912,-46.6534356
+231104142,way,Hospital Municipal Doutor Ignácio Proença de Gouvêa,hospital,hospital,OSS SAS Seconci-SP,private_non_profit,yes,,Rua Juventus,,-23.5718535,-46.5901279
+231405181,way,Santa Casa de São Paulo,hospital,hospital,,,,,Rua Doutor Cesário Motta Júnior,,-23.5427202,-46.6502142
+244162013,way,Hospital Municipal Doutor Moysés Deutsch,hospital,hospital,Organização Social de Saúde CEJAM,private_non_profit,yes,,Estrada do M'Boi Mirim,+55 11 5832 2500,-23.6922626,-46.7754053
+252061984,way,Hospital Nossa Senhora do Pari,hospital,hospital,,,yes,,Rua Hannemann,,-23.5319445,-46.6211646
+253040761,way,Hospital Neo Mater,hospital,hospital,Santa Marcelina Saúde,,yes,,Avenida Winston Churchill,+55 11 4336 9100,-23.670828,-46.5661977
+253535403,way,Hospital e Maternidade Santa Helena,hospital,hospital,Santa Helena Saúde,private,no,,Avenida Armando Ítalo Setti,+55 11 3876 2666,-23.6974071,-46.547587
+253740051,way,Hospital Municipal Doutora Zilda Arns Neumann,hospital,hospital,,,yes,,Avenida Piraporinha,+55 11 4061 7000,-23.6918679,-46.5871329
+256252796,way,Hospital Municipal Arthur Ribeiro de Saboya,hospital,hospital,,,yes,,Avenida Francisco de Paula Quintanilha Ribeiro,+55 11 3394-8380,-23.6533611,-46.6456714
+256609755,way,Quarteirão da Saúde,hospital,hospital,Secretaria da Saúde,government,no,,Avenida Antonio Piranga,+55 11 4043 8000,-23.6863206,-46.6172237
+258413859,way,Hospital Santa Rita,hospital,hospital,,,yes,,Rua Cubatão,+55 11 5908-6000,-23.582195,-46.6411653
+258988512,way,Hospital e Maternidade Santa Maria da Cruz Azul,hospital,hospital,Associação Cruz Azul de São paulo,private,yes,,Avenida Lins de Vasconcelos,+55 11 3348 4000,-23.565959,-46.6221616
+260876142,way,Hospital Geral Jesus Teixeira da Costa,hospital,hospital,,,,,,,-23.5525541,-46.4050764
+266958218,way,Hospital Central de Guaianases,hospital,hospital,,,yes,,Rua Cabo José Teixeira,+55 11 2551-5151,-23.5379189,-46.4031611
+274858467,way,Hospital da Luz,hospital,hospital,,,,,Rua Azevedo Macedo,+55 11 2117-6000,-23.5814651,-46.6402087
+277036814,way,Hospital São Rafael,hospital,hospital,,,,,,,-23.5796641,-46.6445071
+277076508,way,Hospital A C Camargo Câncer Center,hospital,hospital,,,yes,,Rua Professor Antônio Prudente,,-23.5652079,-46.637651
+277806189,way,Hospital Presidente,hospital,hospital,,,yes,,Avenida Nova Cantareira,+55 11 2261-6611,-23.4764562,-46.6105959
+286004712,way,Hospital e Maternidade NotreCare ABC,hospital,hospital,Grupo NotreDame Intermédica,private,yes,,Avenida Pereira Barreto,+55 114336 7800,-23.69079,-46.5477908
+292097736,way,Hospital e Maternidade Beneficência Portuguesa,hospital,hospital,Sociedade Portuguesa de Beneficência de Santo André,private,yes,,Avenida Portugal,+55 11 2198 5000,-23.6601905,-46.5326009
+292983252,way,Hospital Municipal Universitário,hospital,hospital,,,yes,,Avenida Bispo César D'Acorso Filho,+55 11 4365 1480,-23.6545355,-46.5731924
+293632415,way,Hospital Santa Helena,hospital,hospital,,,yes,,Avenida Lucas Nogueira Garcez,,-23.6922592,-46.5550471
+297784128,way,Hospital Unimed,hospital,hospital,,,,,,,-23.4632226,-46.5199875
+298549755,way,Hospital Carlos Chagas,hospital,hospital,,,yes,,Rua Barão de Mauá,+55 11 2463 5000,-23.4717253,-46.5287304
+298953601,way,Next Saúde,hospital,hospital,,,,,Avenida Antonio Piranga,,-23.6866282,-46.6189066
+301324089,way,Instituto Brasileiro de Controle do Câncer,hospital,hospital,,,,,Avenida Alcântara Machado,+55 11 3474-4222;+55 11 3474-4200;+55 11 3474-1119,-23.5476189,-46.6001301
+301324091,way,Hospital Infantil Cândido Fontoura,hospital,hospital,Governo do Estado de São Paulo,government,yes,,Rua Siqueira Bueno,+55 11 2603 5300,-23.5519186,-46.5852149
+310229718,way,Unidade de Pronto Atendimento André Dias,hospital,hospital,government,government,yes,,Rua Pedro de Toledo,,-23.6709162,-46.5831104
+313850657,way,Pronto Socorro Doutor Conrado Cesarino Nuvolini,hospital,hospital,,government,yes,,Avenida João de Andrade,+55 11 3609 0283,-23.5547176,-46.8020119
+317854305,way,Hospital Geral Cachoeirinha,hospital,hospital,Santa Casa de Misericórdia de Chavantes,private_non_profit,yes,,Avenida Deputado Emílio Carlos,+55 11 3859 4822,-23.4813507,-46.6717942
+318404108,way,Hospital Municipal Doutor Fernando Mauro Pires da Rocha,hospital,hospital,,,yes,,Estrada de Itapecerica,+55 11 3394 7460,-23.6487788,-46.7487292
+318404110,way,Hospital Regional Sul,hospital,hospital,,,,,Rua General Roberto Alves de Carvalho Filho,,-23.6554211,-46.7058813
+318405623,way,Pronto Socorro Santa Casa de Santo Amaro,hospital,hospital,,,,,,,-23.6505517,-46.704088
+319430061,way,H.Olhos ABC,hospital,hospital,,,yes,,Avenida Lucas Nogueira Garcez,+55 11 4126 6666,-23.6950284,-46.553393
+319792790,way,Hospital Santa Marcelina do Itaim Paulista O.S.S,hospital,hospital,,,yes,,Avenida Marechal Tito,+55 11 2563-6300,-23.4924276,-46.3890349
+320141806,way,Hospital Central Sorocabana,hospital,hospital,,,yes,,Rua Catão,,-23.5243307,-46.7013187
+346317018,way,Ambulatório Regional Sul,hospital,hospital,,,,,Rua Promotor Gabriel Nettuzzi Perez,,-23.651458,-46.7047472
+346956403,way,Hospital Alvorada,hospital,hospital,,,,,,,-23.6504301,-46.7096341
+351250947,way,Unidade de Pronto Atendimento Luzita,hospital,hospital,,,yes,,Rua Calecute,+55 11 4451 9898,-23.6993267,-46.5071468
+356723156,way,Hospital do Coração,hospital,hospital,,,yes,,,,-23.5730628,-46.6436173
+357570514,way,Hospital Santa Cruz,hospital,hospital,Sociedade Brasileira e Japonesa de Beneficência Santa Cruz,,yes,,Rua Santa Cruz,+55 11 5080-2000,-23.5974527,-46.6325243
+363004051,way,Instituto de Tratamento do Câncer Infantil,hospital,hospital,,,,,Rua Galeno de Almeida,+55 11 2661-8962,-23.5519597,-46.677032
+369787169,way,Hospital Alemão Oswaldo Cruz,hospital,hospital,,private_non_profit,yes,,Rua João Julião,+55 11 3549-1000,-23.5692864,-46.6430043
+371980083,way,Hospital São Caetano,hospital,,,,,,Rua Espírito Santo,,-23.6188723,-46.5724438
+375977786,way,Hospital Municipal Doutor Cármino Caricchio,hospital,hospital,,,yes,,Avenida Celso Garcia,,-23.5331239,-46.5663866
+383097744,way,Hospital e Maternidade Salvalus,hospital,hospital,Hapvida NotreDame,private,yes,,Rua Bresser,+55 11 2662-2000;+55 11 94704-7590,-23.5466627,-46.6046224
+403388660,way,Unidade de Pronto Atendimento Doutor Akira Tada,hospital,hospital,,,yes,,Estrada São Francisco,,-23.6148337,-46.7781695
+403397421,way,Ambulatório Médico de Especialidades Taboão da Serra,hospital,hospital,SPDM,,no,,Estrada São Francisco,+55 11 2139 0333,-23.619511,-46.7695137
+409092700,way,Hospital Geral de Pirajussara,hospital,hospital,SPDM-Associação Paulista para o Desenvolvimento da Medicina,public,yes,,Avenida Ibirama,+55 11 3583 9405,-23.6406187,-46.8097664
+410222563,way,Hospital Samaritano,hospital,hospital,,,yes,,Rua Conselheiro Brotero,,-23.5389883,-46.6621694
+412604184,way,Hospital Santa Catarina,hospital,hospital,,,yes,,Avenida Paulista,+55 11 3016-4133,-23.5696204,-46.6453292
+420088968,way,Departamento de Cirurgia,hospital,hospital,,,no,,,,-23.542213,-46.6507359
+420088990,way,Hospital Santa Isabel,hospital,hospital,Rede D'Or,private,yes,,Rua Dona Veridiana,,-23.5427032,-46.6507442
+420089010,way,Hospital Santa Isabel,hospital,hospital,Rede D'Or,private,yes,,Rua Dona Veridiana,,-23.5427022,-46.6508528
+420089033,way,Departamento de Obstetrícia e Ginecologia,hospital,hospital,,,yes,,,,-23.5431928,-46.6507627
+420089048,way,Pronto Socorro Central - Santa Casa de São Paulo,hospital,hospital,Santa Casa de São Paulo,public,yes,,Rua Doutor Cesário Mota Júnior,,-23.5432165,-46.6499075
+420089072,way,Pavilhão Condessa Penteado (Pediatria),,hospital,,,,,,,-23.543559,-46.6510593
+420089074,way,Instituto do Câncer Dr. Arnaldo,,hospital,,,,,,,-23.5435411,-46.6492995
+420089075,way,Pavilhão Fernandinho Simonsen (Ortopedia),,hospital,,,,,,,-23.5435635,-46.6500437
+420089168,way,A Toca Restaurante,restaurant,hospital,,,,,,,-23.54186,-46.6496458
+420089249,way,Ambulatório Conde de Lara,,hospital,,,,,,,-23.5419335,-46.6492436
+420089335,way,Pronto Socorro Infantil,,hospital,,,,,,,-23.5435133,-46.651297
+423652359,way,Hospital Maternidade Cachoeirinha,hospital,hospital,Secretaria Municipal da Saúde,government,yes,,Avenida Deputado Emílio Carlos,,-23.4802378,-46.6715217
+423734886,way,Hospital Municipal Infantil Menino Jesus,hospital,hospital,,,yes,,Rua dos Franceses,,-23.5602656,-46.6473587
+423876249,way,Hospital Nipo-Brasileiro,hospital,hospital,Beneficência Nipo-Brasileira de São Paulo,,yes,,Rua Pistoia,+55 11 2633-2200,-23.5074679,-46.5690006
+424631095,way,Ambulatório do Sindicato dos Metalúrgicos de São Paulo,hospital,hospital,,,,,Rua do Carmo,,-23.5521328,-46.6301411
+424941734,way,Unidade de Pronto Atendimento Municipal Centro,hospital,hospital,Prefeitura de Osasco,government,,,,,-23.5312762,-46.7763532
+424946527,way,Hospital Municipal Antônio Giglio,hospital,hospital,,government,yes,,Rua Pedro Fioretti,+55 11 2183 9333,-23.5322449,-46.7772049
+425330495,way,Hospital Ruben Berta,hospital,hospital,,,no,,Avenida Rubem Berta,+55 11 5908-6474,-23.6024486,-46.6518185
+425535627,way,Unidade de Pronto Atendimento Rudge Ramos,hospital,hospital,,,yes,,Rua Ângela Tomé,+55  11 4368 1222,-23.6552424,-46.5740977
+425537735,way,HRIM – Hospital do Rim,hospital,hospital,,,yes,,Rua Borges Lagoa,+55 11 5087-8000,-23.5964739,-46.6458376
+426008304,way,Hospital e Maternidade São Luiz Osasco,hospital,hospital,Rede D’Or São Luiz,private,yes,,Avenida Marechal Rondon,+55 11 3652 8000,-23.531846,-46.7815228
+426849375,way,Hospital Municipal de Emergência Albert Sabin,hospital,,,,,,Rua Aurélia,,-23.6178503,-46.5565009
+427243761,way,HOlhos,hospital,hospital,,,,,Rua Abílio Soares,,-23.5736989,-46.6440258
+431470580,way,Hospital Adventista de São Paulo,hospital,hospital,,,,,Rua Rocha Pombo,+55 11 2838 7000,-23.5634931,-46.6341518
+435935865,way,Hospital Sancta Maggiore,hospital,hospital,,,,,Rua da Figueira,+55 11 4085-9810,-23.5523856,-46.6248734
+437199936,way,Hospital Municipal Professor Doutor Alípio Corrêa Netto,hospital,,,,,,Alameda Rodrigo de Brum,+55 11 3394-8030,-23.4996459,-46.4726454
+437648955,way,Hospital Geral de São Mateus,hospital,,Secretaria de Estado da Saúde,,yes,,Rua Ângelo de Cândia,+55 11 2014-5000,-23.5947358,-46.4867109
+438157726,way,Pronto Socorro Municipal Julio Tupy,hospital,hospital,Prefeitura do Municipio de São Paulo,government,yes,,Rua Serra Queimada,+55 11 2035-1821,-23.5275431,-46.4112992
+439294898,way,Sancta Maggiore,hospital,,,,,,Rua General Chagas Santos,,-23.6182424,-46.6320951
+440022776,way,Hospital Filantrópico A Beneficência Portuguesa,hospital,hospital,,,,,Rua General Sócrates,+55 11 3505-1000,-23.528365,-46.5502841
+440676906,way,Hospital Dia Rede Hora Certa,hospital,hospital,SECONCI-SP,,yes,,Praça Nossa Senhora da Penha,+55 11 2092 4845,-23.5264925,-46.5505936
+441462654,way,Hospital Cruz Azul Ambulatório,hospital,,,,,,Avenida Salgado Filho,+55 11 2458 8810,-23.4434566,-46.535344
+442804134,way,Hospital Municipal Doutor Alexandre Zaio,hospital,,,,,,Rua Alves Maldonado,+55 11 3394-9210,-23.5427897,-46.5018084
+444207364,way,Hospital Santa Marcelina,hospital,,,,,,Rua Santa Marcelina,+55 11 2070-6000,-23.554266,-46.4613603
+448194268,way,Hospital São Bernardo,hospital,hospital,Grupo NotreDame Intermédica,private,yes,,Avenida Lucas Nogueira Garcez,+55 11 4122 6500,-23.6930809,-46.5536971
+450167620,way,Hospital Jardins,hospital,hospital,,,,,Rua Artur de Azevedo,,-23.5657766,-46.6866226
+452872359,way,Hospital Municipal Manuel de Paiva,hospital,hospital,SPDM,private_non_profit,yes,,Rua São José do Paraíso,+55 11 2489 6610,-23.4406391,-46.4099229
+455336051,way,Hospital Heliópolis,hospital,hospital,Secretaria de Estado da Saúde,government,,,Rua Cônego Xavier,,-23.6087221,-46.5933797
+463546957,way,Pronto Atendimento Sancta Maggiore Tatuapé,hospital,hospital,,,,,Rua Uriel Gasper,,-23.542853,-46.5830886
+463619231,way,Hospital Maternidade Leonor Mendes de Barros,hospital,hospital,Secretaria de Estado da Saúde,government,,,Avenida Celso Garcia,,-23.535897,-46.5887319
+464431791,way,Hospital Santa Helena,hospital,hospital,,private,yes,,Rua Manuel Vaz,+55 11 4336 9777,-23.667754,-46.5205452
+467681159,way,Hospital Ipiranga,hospital,hospital,,,yes,,Avenida Nazaré,+55 11 6167-7799,-23.5842893,-46.6116189
+467706619,way,Hospital Monumento,hospital,,,,,,,,-23.5941868,-46.5967861
+468420898,way,Policlínica Dona Leonil Crê Bortolosso/ Zona Norte,hospital,hospital,,,,,Avenida Getúlio Vargas,,-23.5139124,-46.7889936
+473642322,way,Unidade de Pronto Atendimento Doutor João Eduardo Charles,hospital,hospital,Secretaria Municipal de Saúde,government,yes,,Rua dos Vianas,+55 11 4125 2100,-23.6997634,-46.5437956
+491622663,way,Hospital Maternidade Vitalina Francisca Ventura,hospital,hospital,Fundação ABC,,,,Rua Flávia Augusto de Moraes,+55 11 4445 9000,-23.3658825,-46.7496308
+491622666,way,Hospital Mista Rosa Santa Pasin Aguiar,hospital,hospital,,,,,Rua Flávia Augusto de Moraes,+55 11 4442 7373,-23.3666495,-46.7503898
+495256331,way,Hospital e Maternidade Santa Joana,hospital,hospital,,,,,Rua do Paraíso,,-23.5746353,-46.638576
+519782243,way,Pronto Socorro Itamaraty Perdizes,hospital,hospital,GreenLine,private,no,,Rua João Ramalho,,-23.5325919,-46.6773999
+529087417,way,Complexo Hospitalar Padre Bento,hospital,hospital,Secretaria de Estado da Saúde de São Paulo,,,,Avenida Emilio Ribas,,-23.4657714,-46.5503213
+531293322,way,Hospital Stella Maris,hospital,hospital,,,yes,,Rua Maria Cândida Pereira,+55 11 2423 8500,-23.4786217,-46.5513071
+547523906,way,UBS/ AMA Integrada Jardim da Conquista III,clinic,hospital,,,,,Travessa Somos Todos Iguais,,-23.6089523,-46.452663
+548713559,way,Casa de Saúde de Guarulhos,hospital,hospital,,,,,Rua Dona Antônia,,-23.4732719,-46.5402026
+549623564,way,Unidade Pronto Atendimento Maria Dirce,hospital,hospital,,,yes,,Rua Ubatá,+55 11 )2088 7400,-23.4342117,-46.4264536
+554172843,way,Hospital Sirio Libanes Unidade Itaim,hospital,hospital,,,,,Rua Joaquim Floriano,,-23.5849816,-46.6748633
+585997946,way,Hospital Estadual de Sapopemba,hospital,hospital,Serviço Social da Construção Civil do Estado de São Paulo,,yes,,Rua Manuel França dos Santos,+55 11 2014 6000,-23.610652,-46.4924819
+595959009,way,Unidade Básica de Saúde José Bonifácio I,clinic,hospital,Governo de SP,,,,Avenida Professor Osvaldo de Oliveira,+55 11 2557-8844;+55 11 2557-5136,-23.5427421,-46.4312297
+599509089,way,Policlínica Carapicuíba,hospital,hospital,,,,,,,-23.5712319,-46.8240473
+610575842,way,UPA Paraíso,hospital,hospital,,,,,,,-23.4216928,-46.5055952
+618173044,way,Hospital dos Olhos,hospital,hospital,,,,,Rua Maestro João Gomes de Araújo,,-23.4873677,-46.6222418
+619540617,way,Hospital Municipal da Criança e do Adolescente,hospital,hospital,Prefeitura de Guarulhos,government,yes,,Rua José Maurício de Oliveira,+55 11 2475 9690,-23.4669012,-46.5324386
+622379738,way,Hospital Municipal Professor Doutor Waldomiro de Paula,hospital,hospital,Secretaria da Saude,government,yes,,Rua Augusto Carlos Bauman,+55 11 3394 8990,-23.5311233,-46.4445316
+623216660,way,Hospital Santo Expedito,hospital,hospital,,,yes,,Avenida Jacu-Pêssego,,-23.5785271,-46.4421411
+623665599,way,AMA/UBS Jardim Elba,hospital,hospital,,,,,Rua Batista Fergusio,11 2704-8997,-23.6212614,-46.5092524
+624789110,way,Pronto Socorro  José Ibrahin,hospital,hospital,Secretaria de Saúde,government,yes,,Rua Maria Grandin dos Santos,+55 11 3691 7232,-23.5677625,-46.7771393
+627179318,way,Unidade de Pronto Atendimento Barão de Mauá,hospital,hospital,Secretaria da Saúde,government,yes,,Avenida Barão de Mauá,+55 11 4545 2872,-23.6666626,-46.429178
+627271180,way,Hospital de Clínicas Doutor Radamés Nardini,hospital,hospital,Fundação do ABC,private_non_profit,yes,,Rua Regente Feijó,+55 11 4547 6999,-23.6726631,-46.4503299
+627282848,way,Unidade de Pronto Atendimento 24H Zaíra,hospital,hospital,,,yes,,Avenida Washington Luiz,+55 11 4518 7803,-23.654997,-46.4480748
+627449228,way,Hospital Vital,hospital,hospital,,,,,Rua Vicente Aletto,+55 11 4512 5000,-23.6835198,-46.460172
+641688037,way,Hospital Nossa Senhora de Fátima,hospital,hospital,,,,,Praça Duque de Caxias,+55 11 2575 1200,-23.5366486,-46.7814908
+672938979,way,Pronto Socorro André Sacco,hospital,hospital,,,yes,,Rua General Pedro Pinho,+55 11 3683 -9369,-23.5419131,-46.8010405
+674307153,way,Pronto Socorro Adulto e Infantil,hospital,hospital,,,yes,,Alameda das Mangueiras,,-23.3928049,-46.7132383
+676690930,way,Pronto Socorro Municipal Rômulo Fonseca Guimarães,hospital,hospital,,,yes,,Rua João Rodrigues Nunes,,-23.4959289,-46.811997
+677951197,way,Unidade Básica de Saúde Inácio Monteiro,clinic,hospital,,,,,Rua Inácio Monteiro,+55 11 2556-3223,-23.5764436,-46.3920646
+678966520,way,Pronto Socorro José Agostinho dos Santos,hospital,hospital,,,yes,,Rua José Martinho,,-23.4859286,-46.8044682
+682318862,way,HOSPITAL GERAL DE TAIPAS,hospital,hospital,,,,,Avenida Elísio Teixeira Leite,,-23.4436782,-46.7178964
+684058620,way,Clinica Santo Antonio,hospital,hospital,,,,,,,-23.5409254,-46.3679722
+697850917,way,"Hospital Geral ""Dr. José Pangella"" de Vila Penteado",hospital,hospital,Governo do Estado de São Paulo,,,,,,-23.4857055,-46.6951863
+698116002,way,Hospital São Camilo,hospital,hospital,,,,,Rua Voluntários da Pátria,+55 11 2972-8000;+55 11 3777-0755,-23.4876344,-46.6274562
+704404176,way,Hospital Espírita Fabiano de Cristo,hospital,hospital,,,no,,Rua Canário,,-23.3873179,-46.7160758
+716836733,way,Centro Médico São Gabriel,hospital,hospital,Green Line,private,yes,,Avenida Amador Bueno da Veiga,,-23.5228077,-46.5428195
+717204057,way,Assistência Médica Ambulatorial Sítio da Casa Pintada,hospital,,,,yes,,Avenida Maria Santana,,-23.5100946,-46.4466533
+717892300,way,Unidade de Pronto Atendimento Magini Centro,hospital,hospital,,,yes,,Avenida Washington Luís,+55 11 4518 1988,-23.6625177,-46.4597337
+718132867,way,Unidade de Pronto Atendimento,hospital,hospital,,,yes,,Avenida Dom José Gaspar,,-23.6868057,-46.4600331
+719029766,way,Hospital São Luiz Gonzaga,hospital,hospital,,,,,Rua Michel Ouchana,+55 11 3466=1000,-23.4589479,-46.5820152
+720399974,way,Itaci,hospital,hospital,,,,,,,-23.5520729,-46.6771313
+720944352,way,Hospital Dom Alvarenga,hospital,hospital,Associação Beneficente Nossa Senhora de Nazaré,private_non_profit,yes,,Avenida Nazaré,+55 11 2163 1700,-23.5963594,-46.6089008
+722312861,way,Hospital São Camilo,hospital,hospital,,,yes,,Avenida Pompeia,+55 11 3677-4444;+55 11 3677-4500,-23.5339992,-46.6883649
+722332135,way,Hospital e Maternidade Metropolitano,hospital,hospital,,,,,Rua Marcelina,+55 11 3677-2000,-23.5305865,-46.6971835
+722756944,way,Hospital Sancta Maggiore,hospital,hospital,,,,,Rua Jaguaribe,+55 11 4085-3335,-23.5414352,-46.6493179
+723285940,way,Hospital San Paolo,hospital,hospital,,,yes,,Rua Voluntários da Pátria,+55 11 3405-8200;+55 11 3179-9112,-23.4957954,-46.6251323
+723288481,way,Hospital e Maternidade Nossa Senhora do Rosário,hospital,hospital,Grupo NotreDame Intermédica,private,yes,,Rua Doutor Edson de Melo,+55 11 632-6000,-23.5117317,-46.5838787
+723555769,way,Hospital e Maternidade São Luiz Anália Franco,hospital,hospital,Rede D'Or,,yes,,Rua Francisco Marengo,+55 11 3386-1100;+55 11 3003-3230,-23.5489202,-46.5582452
+723566678,way,Hospital CEMA,hospital,hospital,,,,,Rua Padre Adelino,+55 11 2602-8000;+55 11 2602-4000,-23.5449891,-46.5907526
+723677120,way,Hospital Villa-Lobos,hospital,hospital,,,yes,,Rua Lituânia,,-23.5632882,-46.5899753
+730903734,way,Hospital Brasil,hospital,hospital,,,yes,,,,-23.6681863,-46.5314664
+736826824,way,Hospital Israelita Albert Einstein,hospital,hospital,Sociedade Beneficente Israelita Brasileira,private,yes,,Avenida Doutor Ricardo Jafet,,-23.5909418,-46.6209616
+736837545,way,Hospital e Maternidade Sepaco Vila Mariana,hospital,hospital,,,yes,,Rua Vergueiro,+55 11 2182-4444,-23.5952482,-46.6275162
+739167117,way,Hospital Municipal Doutor Benedicto Montenegro,hospital,hospital,,,,,Rua Antônio Lázaro,,-23.5881986,-46.5144314
+743185590,way,Hospital Estadual Mário Covas,hospital,hospital,Fundação do ABC/OSS.,private_non_profit,no,,Rua Doutor Henrique Calderazzo,+55 11 2829 5000,-23.6709379,-46.5331654
+743455342,way,Hospital Sancta Maggiore,hospital,hospital,,,,,Rua Duque D'abruzzo,+55 11 4085 9260,-23.6639916,-46.5700007
+744172182,way,Centro Hospitalar Municipal de Santo André,hospital,hospital,Prefeitura Municipal de Santo André,public,,278,Avenida João Ramalho,,-23.6656344,-46.5275337
+769067122,way,Unidade de Pronto Atendimento Santa Luzia,hospital,hospital,Secretaria de Saúde e Higiene,government,yes,,Estrada da Colônia,,-23.6938778,-46.3973672
+778308923,way,Hospital e Maternidade América,hospital,hospital,,,,,Rua Martin Afonso,+55 11 4544 2085,-23.6700948,-46.4495047
+778389562,way,Hospital Santa Casa de Mauá,hospital,hospital,,,,,Avenida Dom José Gaspar,+55 11 2198 8300,-23.6806114,-46.461118
+785459956,way,Hospital Sao Luis Morumbi,hospital,hospital,,,,,,,-23.590905,-46.7037567
+785740797,way,Hospital Municipal Integrado Santo Amaro,hospital,hospital,,,,,,,-23.6497004,-46.7043441
+798979870,way,Hospital Premier,hospital,hospital,,,,,Rua Jurubatuba,+55 11 5090 5000,-23.615249,-46.6942816
+813320042,way,Santa Casa de Misericórdia de Diadema,hospital,hospital,,,,,Rua Dois de Julho,+55 11 4072 6300,-23.680297,-46.6092795
+816792425,way,Hospital Luz Butantã,hospital,hospital,,private,yes,,Avenida Professor Francisco Morato,+55 11 3094 2300,-23.5782484,-46.7081336
+827253914,way,A.C. Camargo,hospital,hospital,,,,,Avenida Lino Jardim,,-23.6583124,-46.5353105
+828106699,way,Hospital e Maternidade São Luiz,hospital,hospital,,,yes,,Rua Doutor Alceu de Campos Rodrigues,+55 11 3040 1100,-23.5907444,-46.6735515
+828605118,way,Hospital São Lucas,hospital,hospital,,,,,,,-23.6860468,-46.6266741
+837675272,way,Hospital Doutor Adib Jatene,hospital,hospital,,,,,Avenida Michihisa Murata,,-23.4765668,-46.6980894
+846560981,way,Hospital Saint Patrick Portinari,hospital,hospital,Associação Hospitalar Saint Patrick,,yes,,Praça General Guimarães,+55 11 3465-0700,-23.5084186,-46.7511506
+869777503,way,Hospital Cometa,hospital,hospital,PMSP,government,,,Praça Engenheiro Hugo Brandi,,-23.5173294,-46.5770813
+899150548,way,Hospital Santa Luzia,hospital,hospital,Prefeitura da Estância Turística de Ribeirão Pires,,,,,,-23.6929068,-46.397546
+960013795,way,Albert Einstein Medicina Diagnóstica,hospital,,,,,,,,-23.5728672,-46.6688229
+964684237,way,Instituto do Coração,hospital,hospital,,,,,,,-23.5569037,-46.6679599
+995748036,way,Pronto Socorro e Maternidade de Taboão da Serra,hospital,,,,yes,,Estrada Tenente José Maria da Cunha,,-23.6286268,-46.7932486
+1004556890,way,Assistência Médica Ambulatorial Maria Zélia,hospital,hospital,Secretaria Estadual de Saúde,,,,Rua Jequitinhonha,+55 11 3583-1810,-23.5317926,-46.5991129
+1009286531,way,UBS Jardim das Pedras,hospital,hospital,PMSP,government,,,Rua Clovis Salgado,,-23.4191469,-46.5903635
+1028665828,way,Hospital São Camilo Ipiranga,hospital,hospital,,,yes,,Rua Pouso Alegre,+55 11 2066-7000,-23.5833518,-46.6116985
+1035911907,way,UBS São Ricardo,clinic,hospital,,,,,,,-23.4537891,-46.5457533
+1038784783,way,Hospital Municipal Enfermeiro Antônio Policarpo de Oliveira,hospital,hospital,Secretaria da Saúde,government,yes,,Avenida Bento da Silva Bueno,+55 11 3135 5521,-23.4116144,-46.8250738
+1059899060,way,São Camilo,hospital,hospital,,,,,Rua Barão do Bananal,+55 11 3677 4444,-23.5336165,-46.6891936
+1069916104,way,UPA City Jaraguá,hospital,hospital,Secretaria Municipal da Saúde,government,yes,,Estrada das Taipas,,-23.4415808,-46.7337348
+1072628517,way,Hospedaria de Cuidados Palhat,hospital,hospital,,,,,Rua Muniz de Souza,,-23.5712786,-46.6284801
+1072689270,way,Hospital Personal,hospital,hospital,,,,,Rua Camé,,-23.5670069,-46.5938795
+1072912608,way,Hospital Moriah,hospital,hospital,,,,,Avenida Moaci,,-23.6150443,-46.6602415
+1072928221,way,Hospital Leforte Liberdade,hospital,hospital,,,yes,,Rua Barão de Iguape,+55 11 3345-2000,-23.5578943,-46.6348174
+1072937952,way,UBS + AMA Vila Pereira Barreto,hospital,hospital,,,,,Rua Dom Manuel D'elboux,,-23.4878994,-46.7135286
+1073579043,way,Prevent Senior,hospital,hospital,,,,,Rua Tamaratáca,,-23.5643817,-46.5916623
+1073579045,way,Hospital Sancta Maggiori,hospital,hospital,,,,,Rua Tamaratáca,,-23.5641738,-46.5913132
+1074884375,way,Hospital Albert Sabin,hospital,hospital,,,,,Rua Brigadeiro Gavião Peixoto,,-23.5257515,-46.711653
+1075719335,way,Instituto de Medicina Física e de Reabilitação,hospital,hospital,,,,,Rua Diderot,,-23.5927555,-46.6290373
+1075965913,way,Hospital Sancta Maggiore Dubai,hospital,hospital,,,,,,,-23.6165515,-46.7019726
+1076258999,way,AE / AMA Sapopemba,hospital,hospital,,,,,,,-23.6115813,-46.4930047
+1077025687,way,Hospital Oswaldo Cruz,hospital,hospital,,,,,Rua Vergueiro,,-23.562301,-46.6380252
+1077044306,way,Centro de Referência e Treinamento DST/Aids-SP,hospital,hospital,,,,,Rua Santa Cruz,,-23.5966344,-46.6358106
+1077056900,way,Hospital do Servidor Público Municipal,hospital,hospital,,,yes,,Rua Castro Alves,+55 11 3397-7700,-23.5673194,-46.638982
+1077106761,way,Hospital Sancta Maggiore,hospital,hospital,,,,,Avenida Santo Amaro,+55 11 4085-9300;0800 77 00 789,-23.5841844,-46.6707038
+1078451884,way,Hospital Pérola Byington,hospital,hospital,,,,,Avenida Brigadeiro Luís Antônio,+55 11 3248-8000,-23.5563251,-46.6393042
+1078460293,way,Hospital São Luiz Unidade Jabaquara,hospital,hospital,,,,,Rua das Perobas,,-23.6437951,-46.6430608
+1078730404,way,Hospital Avicena,hospital,hospital,,,,,Rua Padre Adelino,,-23.544033,-46.5856239
+1081075453,way,Hospital Sancta Maggiore Paraíso,hospital,hospital,,,,,Rua Maestro Cardim,,-23.5708608,-46.6417299
+1085505167,way,Hospital Samaritano,hospital,hospital,,,,,,,-23.5650919,-46.646819
+1110389448,way,Hospital Alvorada Moema,hospital,hospital,,,,,Avenida Ministro Gabriel de Rezende Passos,,-23.6014404,-46.6612511
+1110770140,way,Unidade de Pronto Atendimento Paulista,hospital,hospital,,,yes,,Rua Teixeira Mendes,+55 11 2468 8480,-23.4366677,-46.5488613
+1138943928,way,Centro Médico Hospitalar Santa Helena,hospital,hospital,Santa Helena Saúde,private,yes,,Avenida Capitão João,,-23.6877844,-46.4515837
+1163646760,way,Hospital Municipal Euryclides de Jesus Zerbini,hospital,hospital,Secretaria da Saúde,government,yes,,Rua Vital Brasil Filho,+55 11 4233 7524,-23.622247,-46.5637456
+1163675476,way,DaVita Tratamento Renal,hospital,hospital,,,,,Rua São Paulo,+55 11 4228 1113,-23.6221903,-46.5648429
+1164859373,way,Hospital Beneficência Portuguesa de São Caetano do Sul,hospital,hospital,,,yes,,Rua Gonzaga,,-23.6238096,-46.5653959
+1173178228,way,"Hospital e Maternidade São Luiz, São Caetano",hospital,hospital,Rede D'Or São Luiz,private,yes,,,+55 11 2777-1100,-23.6290247,-46.5794387
+1178586003,way,NotreDame Intermédica,hospital,hospital,,,,,,,-23.6651121,-46.5219341
+1179624563,way,Hospital Coração de Jesus,hospital,hospital,,,,,Avenida Coronel Alfredo Fláquer,,-23.6619705,-46.5273758
+1180141319,way,Hospital São José do ABC,hospital,hospital,,,,,,,-23.6728602,-46.5146967
+1183565099,way,Hospital Infantil Darcy Vargas,hospital,hospital,Governo do Estado de São Paulo,government,yes,,Rua Doutor Serafico de Assis Carvalho,,-23.5927431,-46.7109418
+1184278876,way,Hospital Central São Caetano do Sul,hospital,,,private,yes,,Rua Manoel Coelho,,-23.6171991,-46.5721938
+1184570546,way,UPA Bangu Santo André,hospital,hospital,,,,,Rua Avaré,,-23.6408371,-46.5278699
+1190292917,way,Hospital Intermédica ABC,hospital,hospital,,,,,,,-23.6701575,-46.5660017
+1198547513,way,Hospital da Mulher Maria José dos Santos Stein,hospital,hospital,Fundação do ABC,private_non_profit,yes,,Rua América do Sul,+55 11 4478 5000,-23.6351872,-46.4997643
+1199224064,way,Pronto Socorro do Mutinga,hospital,hospital,,,yes,,Rua Salvo Veloso,,-23.5009258,-46.8146659
+1213087693,way,NotreDame Intermédica Hospital e Pronto Socorro Santa Cecilia,hospital,hospital,,,,,Praça Marechal Deodoro,,-23.5352801,-46.6545824
+1214775121,way,Hospital Bartira,hospital,hospital,Rede D'Or,private,yes,,Rua Itatiaia,+55 11 4996 6666,-23.6304472,-46.5217965
+1215578277,way,Sabará Hospital Infantil,hospital,hospital,,,yes,,Avenida Angélica,+55 11 31552800,-23.5498695,-46.6593338
+1216788483,way,Higienópolis Medical Center,hospital,hospital,,,,,Rua Mato Grosso,,-23.5500376,-46.6587047
+1217778553,way,Santa Maria,hospital,hospital,,,,,Rua Leôncio de Carvalho,,-23.5721207,-46.6469386
+1221374253,way,Hospital Nove de Julho,hospital,hospital,,,yes,,Rua Peixoto Gomide,+55 11 4020 0057,-23.559289,-46.6552815
+1221447693,way,Hospital Leforte - Unidade Morumbi,hospital,hospital,,,yes,,Rua dos Três Imãos,,-23.5856525,-46.7175281
+1221785927,way,Hospital das Acácias,hospital,hospital,,private,,,Rua Natal,,-23.6656052,-46.5162414
+1222938223,way,Hospital de Transplantes do Estado de São Paulo Euryclides de Jesus Zerbini,hospital,hospital,SPDM,private_non_profit,no,,Avenida Brigadeiro Luís Antônio,+55 11 3170 6100,-23.5705144,-46.6511231
+1225042198,way,Hospital Sancta Maggiore,hospital,hospital,,,,,Avenida Brigadeiro Luís Antônio,,-23.5801155,-46.6639443
+1225485527,way,Hospital Municipal Brigadeiro,hospital,hospital,,,,,Avenida Brigadeiro Luís Antônio,,-23.5828728,-46.6673756
+1225485537,way,A.C Camargo,hospital,hospital,,,,,Avenida Brigadeiro Luís Antônio,,-23.5839422,-46.6692828
+1226469553,way,Casa de Saúde São João de Deus,hospital,hospital,,,,,,,-23.4756817,-46.7549115
+1259561813,way,HMU - Hospital Municipal de Urgências,hospital,hospital,,,yes,,Avenida Tiradentes,,-23.4528537,-46.5162203
+1292169372,way,Prevent Senior Londres - Núcleo de Medicina Avançada e Diagnóstica,hospital,hospital,,,,,Praça dos Omaguás,,-23.5625729,-46.6918464
+1315538862,way,Unidade de Pronto de Atendimento Doutor Luiz Antônio de Abreu Sampaio Dora,hospital,hospital,,,yes,,Rua Estevan Ribeiro Resende,+55 11 3350 0013,-23.4007224,-46.7471402
+1348051378,way,Hospital Municipal e Maternidade Professor  Mario Degni,hospital,hospital,,government,yes,,Rua Lucas de Leyde,+55 11 3394 9330,-23.5779418,-46.7647111
+1348051388,way,Unidade de Pronto Atendimento Rio Pequeno,hospital,hospital,Associação Paulista para o Desenvolvimento da Medicina,private_non_profit,yes,,Rua José Vicente da Cruz,,-23.5763309,-46.7650196
+1349207454,way,Hospital Sancta Maggiore - Unidade Rússia,hospital,hospital,Prevent Senior,,,,,,-23.5804354,-46.7109289
+1356971101,way,Hospital Cruzeiro do Sul,hospital,hospital,Norte Dame Intermedica,private,,,Avenida dos Autonomistas,,-23.537298,-46.7768291
+1356971104,way,Hospital São Francisco,hospital,hospital,,,,,Rua Padre Damaso,,-23.5366147,-46.776821
+1365739602,way,UBS Santo Antônio,hospital,hospital,SESAU - Secretaria de Saúde de São Caetano do Sul,public/government,no,,Rua Joaquim Nabuco,+55 11 4223-5479,-23.6176496,-46.5747197
+1415906664,way,Hospital e Maternidade Amador Aguiar,hospital,hospital,,,,,,,-23.5068542,-46.787945
+1416347427,way,Instituto de Reabilitação Lucy Montoro,hospital,hospital,,,,,,,-23.6322493,-46.7350761
+1416349821,way,Centro de Atenção Integral a Saúde Mental,hospital,hospital,,,,,,,-23.5881101,-46.6384661
+1450959081,way,Pronto Socorro Doutor Osmar Mesquita,hospital,hospital,Alpha Instituto,private_non_profit,yes,,Rua Maria Carvalho de Lima,+55 11 2183  6799,-23.4985868,-46.7931787
+1451138444,way,Pronto-Socorro Doutor Antônio Flávio França,hospital,hospital,Secretaria de Saúde,government,yes,,Rua Águas da Prata,,-23.5120733,-46.7756538
+1452052514,way,Hospital Geriátrico Dom Pedro II,hospital,hospital,,,,,Avenida Guapira,,-23.4668155,-46.5828017
+3281462,relation,Conjunto Hospitalar do Mandaqui,hospital,hospital,,,yes,,Rua Voluntários da Pátria,,-23.4849292,-46.6313598
+6245330,relation,Complexo Hospitalar da Santa Casa,,hospital,,,,,,,-23.5427185,-46.6501672
+8095963,relation,Hospital Municipal Vereador José Storopolli,hospital,hospital,,,,,Rua Francisco Fanganielo,+55 11 2207-9008,-23.5220916,-46.5633938
+8546930,relation,Pronto Socorro Municipal Lauro Ribas Braga,hospital,hospital,,,yes,,Rua Voluntários da Pátria,+55 11 2223-2919;+55 11 2223-2923;+55 11 2223-2929,-23.5120158,-46.6265738
+11182609,relation,Hospital Nossa Senhora de Fátima,hospital,hospital,Sociedade Portuguesa de Beneficência de São Caetano do Sul,private_non_profit,yes,,Rua Nossa Senhora de Fátima,+55 11 4227 8200,-23.6235116,-46.565341
+11197773,relation,Centro de Saúde Doutor Victor Araujo H Mello Pinheiros,hospital,hospital,,,,,Rua Ferreira de Araújo,,-23.5645063,-46.6973084
+12317146,relation,AACD - Osasco,hospital,hospital,Associação de Assistência à Criança Deficiente,,,,Avenida Getúlio Vargas,+55 11 3604 5155,-23.5084966,-46.7879519
+12484775,relation,Hospital Vitória,hospital,hospital,,,,,Avenida Vereador Abel Ferreira,+55 11 3581-1000,-23.563209,-46.5617628
+12633804,relation,Hospital Santa Virgínia,hospital,hospital,Congregação das Filhas de Nossa Senhora do Monte Calvário,religious,yes,,Avenida Celso Garcia,,-23.5374829,-46.5900968
+13517704,relation,Hospital Doutor Vivaldo Martins Simões,hospital,hospital,Centro de Estudos e Pesquisas Doutor João Amorim,private_non_profit,,,Rua Ari Barroso,+55 11 3683 3077,-23.5248601,-46.7719007
+14315762,relation,Hospital Israelita Albert Einstein,hospital,hospital,,,,,Rua Apiacás,+55 11 2151-1233,-23.5332692,-46.6754942
+15794411,relation,Casa da Criança Betinho Lar Espírita para Excepcionais,hospital,hospital,,,,,Rua Vacanga,+55 11 2782-7366,-23.5603985,-46.5324465
+16113433,relation,Hospital da Mulher,hospital,hospital,,,,,,,-23.5338554,-46.6435854
+19437356,relation,Hospital Dia : Campo Limpo,hospital,hospital,,,,,Avenida Amadeu da Silva Samelo,,-23.631533,-46.7661086
+19468747,relation,Complexo Hospitalar Cotoxó,hospital,hospital,,,,,Rua Cotoxó,,-23.5362442,-46.6882696
